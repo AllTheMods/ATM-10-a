@@ -302,8 +302,11 @@
 				}
 			]
 			tasks: [{
+				icon: {
+					id: "utilitarian:white_soliciting_carpet"
+				}
 				id: "0D5203048B6E068C"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(the_bumblezone:bee_queen/dedicated_trade_tags/modded/utilitarian_trapped_soliciting_carpets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { count: 1, id: "utilitarian:white_soliciting_carpet" }
 				type: "item"
 			}]
 			x: 1.0d
