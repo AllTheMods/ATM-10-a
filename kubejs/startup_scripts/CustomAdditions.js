@@ -161,6 +161,15 @@ StartupEvents.modifyCreativeTab('ironfurnaces:ironfurnaces_tab', allthemods => {
     allthemods.add('ironfurnaces:upgrade_unobtainium')
 })
 
+StartupEvents.modifyCreativeTab('enderio:enderio', allthemods => {
+    allthemods.add('kubejs:modium_grinding_ball')
+    allthemods.add('kubejs:vibranium_grinding_ball')
+    allthemods.add('kubejs:unobtainium_grinding_ball')
+    allthemods.add('enderio:modial_capacitor')
+    allthemods.add('enderio:vibranic_capacitor')
+    allthemods.add('enderio:unobtained_capacitor')
+})
+
 StartupEvents.postInit((allthemods) => {
   $BuiltInRegistries.BLOCK.addAlias("kubejs:blaze_block", "allthecompressed:blaze_rod_block")
   $BuiltInRegistries.ITEM.addAlias("kubejs:blaze_block", "allthecompressed:blaze_rod_block")
