@@ -34,8 +34,8 @@ allthemods.create(
         .texture("kubejs:item/unobtainium_capacitor") // custom texture for the capacitor
     
 if (Platform.isLoaded("enderio")) {
-        allthemods.create('modium_grinding_ball').displayName('Modium Grinding Ball').texture("allthemods:item/allthemodium_grinding_ball")
-        allthemods.create('vibranium_grinding_ball').displayName('Vibranium Grinding Ball').texture("allthemods:item/vibranium_grinding_ball")
-        allthemods.create('unobtainium_grinding_ball').displayName('Unobtainium Grinding Ball').texture("allthemods:item/unobtainium_grinding_ball")
+        allthemods.create('modium_grinding_ball').displayName('Modium Grinding Ball').texture("kubejs:item/allthemodium_grinding_ball")
+        allthemods.create('vibranium_grinding_ball').displayName('Vibranium Grinding Ball').texture("kubejs:item/vibranium_grinding_ball")
+        allthemods.create('unobtainium_grinding_ball').displayName('Unobtainium Grinding Ball').texture("kubejs:item/unobtainium_grinding_ball")
     }
 })
