@@ -1,0 +1,8 @@
+{
+  "generationRate": 160,
+  "transferRate": 2048,
+  "consumptionRate": 0.8,
+  "previousTier": "obsidian",
+  "bufferCapacity": 500000,
+  "fuelType": "FLUID"
+}
