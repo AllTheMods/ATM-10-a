@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 6.0d
+			id: "60E5165D3F260AAA"
 			image: "atm:textures/questpics/modernindustrialization/coke_oven.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 4.0d
+			id: "274105F344CD14C2"
 			image: "atm:textures/questpics/modernindustrialization/steam_blast_furnace.png"
 			rotation: 0.0d
 			width: 4.0d

@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "42030B1F3161A145"
 			image: "supplementaries:textures/map/decorations/twilight_portal.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "32A81E5B38DAF523"
 			image: "atm:textures/questpics/twilight_forest_title.png"
 			rotation: 0.0d
 			width: 12.5d
@@ -25,7 +27,7 @@
 			y: -5.0d
 		}
 	]
-	order_index: 3
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

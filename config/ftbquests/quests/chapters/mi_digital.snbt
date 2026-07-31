@@ -9,6 +9,7 @@
 	id: "56B11606F5F4DAB2"
 	images: [{
 		height: 1.0d
+		id: "1288D8F47FBDD7F2"
 		image: "allthetweaks:item/atm_star"
 		rotation: 0.0d
 		width: 1.0d

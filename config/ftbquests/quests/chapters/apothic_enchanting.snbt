@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "1189D154F1B84038"
 			image: "atm:textures/questpics/apothic/logo.png"
 			rotation: 0.0d
 			width: 9.23913043478261d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.5d
+			id: "47A0F76AE4750DB9"
 			image: "atm:textures/questpics/apothic/enchant_nether.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.5d
+			id: "0F6964C5A5952480"
 			image: "atm:textures/questpics/apothic/enchant_ocean.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1A95E05810AF5920"
 			image: "atm:textures/questpics/apothic/enchant_infusions.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "521B9F8D0CB012CA"
 			image: "atm:textures/questpics/apothic/enchant_eterna.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "38BA5BC63D9B4C45"
 			image: "atm:textures/questpics/apothic/enchant_quanta.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3828F493AFCF61BC"
 			image: "atm:textures/questpics/apothic/enchant_arcana.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 2.0d
+			id: "652B1F2BF6754E58"
 			image: "atm:textures/questpics/apothic/enchant_deep.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1373D37C4E69E2FA"
 			image: "atm:textures/questpics/apothic/enchant_end.png"
 			rotation: 0.0d
 			width: 7.0d

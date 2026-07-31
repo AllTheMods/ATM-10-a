@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 5.0d
+			id: "5AA00CC74E82EA7D"
 			image: "atm:textures/questpics/bees/productive_bees.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "175C909BCD2B01E3"
 			image: "minecraft:textures/item/honeycomb.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "31DBCECB2EB445AD"
 			image: "minecraft:textures/item/honey_bottle.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 0.3d
+			id: "47B1AF251EF81FA4"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d

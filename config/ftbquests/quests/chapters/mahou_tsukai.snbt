@@ -19,6 +19,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "5A65A7774C4DE1FF"
 			image: "atm:textures/questpics/mahou/mahou_tsukai.png"
 			rotation: 0.0d
 			width: 16.258823529411764d
@@ -27,6 +28,7 @@
 		}
 		{
 			height: 0.75d
+			id: "7281F1987E976C6B"
 			image: "atm:textures/questpics/mahou/mahou_generation.png"
 			rotation: 0.0d
 			width: 9.0635593220339d
@@ -35,6 +37,7 @@
 		}
 		{
 			height: 0.75d
+			id: "792E0AF5B3F6D931"
 			image: "atm:textures/questpics/mahou/mahou_clarent.png"
 			order: 1
 			rotation: 0.0d
@@ -44,6 +47,7 @@
 		}
 		{
 			height: 0.75d
+			id: "6369A50E3D8CF4A6"
 			image: "atm:textures/questpics/mahou/mahou_nobu.png"
 			rotation: 0.0d
 			width: 2.6186440677966103d
@@ -52,6 +56,7 @@
 		}
 		{
 			height: 0.75d
+			id: "1BF020E847E46060"
 			image: "atm:textures/questpics/mahou/mahou_emrys.png"
 			order: 1
 			rotation: 0.0d
@@ -61,6 +66,7 @@
 		}
 		{
 			height: 0.75d
+			id: "0E00922D2A0E7CDB"
 			image: "atm:textures/questpics/mahou/mahou_replica.png"
 			rotation: 0.0d
 			width: 3.8008474576271185d
@@ -69,6 +75,7 @@
 		}
 		{
 			height: 0.75d
+			id: "44551618E7C38BC3"
 			image: "atm:textures/questpics/mahou/mahou_disorientation.png"
 			rotation: 0.0d
 			width: 10.652542372881356d
@@ -77,6 +84,7 @@
 		}
 		{
 			height: 0.75d
+			id: "1FAA6D8B1D3CBD07"
 			image: "atm:textures/questpics/mahou/mahou_explosion.png"
 			order: 1
 			rotation: 0.0d
@@ -86,6 +94,7 @@
 		}
 		{
 			height: 0.75d
+			id: "2E8FA0F897096D6E"
 			image: "atm:textures/questpics/mahou/mahou_bow.png"
 			rotation: 0.0d
 			width: 6.332142857142857d
@@ -94,6 +103,7 @@
 		}
 		{
 			height: 0.75d
+			id: "0668504A27C7CA7F"
 			image: "atm:textures/questpics/mahou/mahou_keys.png"
 			order: 1
 			rotation: 0.0d
@@ -103,6 +113,7 @@
 		}
 		{
 			height: 0.75d
+			id: "21D0D1B2FC867522"
 			image: "atm:textures/questpics/mahou/mahou_caliburn.png"
 			rotation: 0.0d
 			width: 4.525423728813559d
@@ -111,6 +122,7 @@
 		}
 		{
 			height: 0.75d
+			id: "0BD124C511EB4C5E"
 			image: "atm:textures/questpics/mahou/mahou_morgan.png"
 			rotation: 0.0d
 			width: 3.851694915254237d
@@ -119,6 +131,7 @@
 		}
 		{
 			height: 7.0d
+			id: "705BD7B9515AE682"
 			image: "mahoutsukai:item/morgan"
 			rotation: 0.0d
 			width: 7.0d
@@ -127,6 +140,7 @@
 		}
 		{
 			height: 8.0d
+			id: "7B365C493C9C2ADD"
 			image: "mahoutsukai:block/mahoujin"
 			rotation: 0.0d
 			width: 8.0d
@@ -135,6 +149,7 @@
 		}
 		{
 			height: 4.0d
+			id: "682CAB2E6183958D"
 			image: "mahoutsukai:block/mahoujin_casting"
 			rotation: 0.0d
 			width: 4.0d
@@ -143,6 +158,7 @@
 		}
 		{
 			height: 5.0d
+			id: "5C216F487A7E7937"
 			image: "mahoutsukai:block/mahoujin_changeable_fae"
 			rotation: 0.0d
 			width: 5.0d
@@ -151,6 +167,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2D840BE3C4A0733C"
 			image: "mahoutsukai:block/mahoujin_changeable"
 			rotation: 0.0d
 			width: 3.0d
