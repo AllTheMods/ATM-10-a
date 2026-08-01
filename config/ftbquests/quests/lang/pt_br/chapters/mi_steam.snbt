@@ -19,7 +19,7 @@
 	]
 	quest.12F9705ACB8FB300.title: "&fA &#ED9553Máquina de Corte&r"
 	quest.12FB3990CA1653A4.quest_desc: [
-		"A &#DBA15BBroca a Vapor&r será sua melhor amiga na mineração no início do jogo. Ela pode minerar uma área de &53 por 3&r blocos e também possui &#EEF768Toque Suave&r ativável."
+		"A &#DBA15ABroca a Vapor&r será sua melhor amiga na mineração no início do jogo. Ela pode minerar uma área de &53 por 3&r blocos e também possui &#EEF768Toque Suave&r ativável."
 		""
 		"Você pode alternar o modo &53 por 3&r pressionando a tecla de atalho \"Alternar Mineração 3x3\", que por padrão é &9'Y'&r."
 		""
@@ -33,7 +33,7 @@
 	quest.1C9D3FC67D58AC02.quest_desc: ["O &#EDD653&nMisturador&r nos permitirá combinar itens e fluidos. Eles podem ser usados para tingir itens ou até mesmo duplicá-los."]
 	quest.1C9D3FC67D58AC02.title: "&fO &#ED9553Misturador de Bronze"
 	quest.1E4E462928F2A71C.quest_desc: [
-		"O &7&nForno de Coque&r será usado para converter &#787777Carvão&r em &#696464Coque&r. O &#696464Coque&r é 4 vezes mais eficaz como combustível do que &#787777Carvão."
+		"O &7&nForno de Coque&r será usado para converter &#787777Carvão&r em &#696464Coque&r. O &#696464Coque&r é 4 vezes mais eficaz como combustível do que &#787777Carvão&r."
 		""
 		"O multibloco pode ser visualizado segurando uma &#D1D15EChave Inglesa&r na mão secundária ou principal. Segurando uma &#B4D95DEscotilha&r na mão indicará as possíveis posições para elas."
 		""
@@ -75,7 +75,7 @@
 	quest.458BFDB636F8B495.quest_desc: [
 		"Combinar o &6Pó de Coque&r com &8Ferro&r resultará em &8Pó de Aço Cru&r. "
 		""
-		"Cozinhá-lo na &eFornalha a Vapor&r gerará &8Barras de Aço&r necessários para o progresso futuro."
+		"Cozinhá-lo na &eAlto-forno de Vapor&r gerará &8Barras de Aço&r necessários para o progresso futuro."
 	]
 	quest.458BFDB636F8B495.title: "&fPó de Aço Cru"
 	quest.478C1AF86610A8B7.quest_desc: ["O &#EDD653&nCompressor&r é usado para fazer &#53EDAAChapas&r, &#53EDAACurvas&r e &#53EDAAAnéis&r."]
@@ -108,7 +108,7 @@
 	quest.5CCF92238B23EDC9.title: "&#A0DE45Bem-vindo ao &9Modern Industrialization&r"
 	quest.5E191081662C2F1A.quest_desc: ["O &#6E6D6DMartelo de Forja&r funciona como o bloco de estação de trabalho do aldeão de &#A0DE45Modern Industrialization&r. Esse aldeão oferecerá uma grande variedade de trocas úteis."]
 	quest.68EAB0248989FC97.quest_desc: [
-		"A &#EDD653&nFornalha a Vapor&r desbloqueia novos horizontes de progresso. Este será um multibloco essencial em seus futuros empreendimentos."
+		"A &#EDD653&nAlto-forno de Vapor&r desbloqueia novos horizontes de progresso. Este será um multibloco essencial em seus futuros empreendimentos."
 		""
 		"Esse multibloco não apenas permitirá fabricar &7Barras de Aço&r, mas também processar &#696E60Óleo Sintético Bruto&r em &#494D43Óleo Sintético&r, que será usado posteriormente para &#36472ABorracha&r e outras coisas."
 	]

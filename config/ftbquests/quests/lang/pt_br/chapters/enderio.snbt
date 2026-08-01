@@ -74,7 +74,7 @@
 		"Ela também é essencial para configurar &bcondutes&r, permitindo definir os lados de entrada/saída e as cores, para que itens, energia e fluidos fluam exatamente para onde queremos."
 	]
 	quest.1AF97F48B4C13020.quest_subtitle: "&7Nossa ferramenta multiuso para máquinas e condutes"
-	quest.1AF97F48B4C13020.title: "&6&lChave Yeta"
+	quest.1AF97F48B4C13020.title: "&6&lChave Yeta&r &f\\& &2&lCondutos"
 	quest.1D0725DC4463F895.quest_desc: [
 		"&7O &fFabricador&r fabrica automaticamente qualquer receita que configurarmos dentro dele, desde que receba os ingredientes corretos por condutes ou funis."
 		"É a espinha dorsal das fábricas automatizadas, nos permitindo produzir itens em massa sem nunca mais precisar tocar em uma mesa de trabalho."

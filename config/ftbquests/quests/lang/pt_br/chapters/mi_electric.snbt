@@ -4,7 +4,7 @@
 	quest.08C870DC50CA49FC.quest_desc: [
 		"O &#5C5C5CPetróleo Bruto&r por si só não tem muita utilidade para nós, mas quando processado em uma destilaria, obtemos subprodutos que podem ser usados para muitos e muitos propósitos."
 		""
-		"Podemos produzir &#C4C241Combustível Pesado Sulfúrico&r, &#CECC5FCombustível Leve Sulfúrico&r e &#D9D782Nafta Sulfúrica&r com ele."
+		"Podemos produzir &#C4C241Combustível Sulfúrico Pesado&r, &#CECC5FCombustível Sulfúrico Leve&r e &#D9D782Nafta Sulfúrica&r com ele."
 	]
 	quest.08C870DC50CA49FC.title: "&#5C5C5CProcessamento de Petróleo Bruto"
 	quest.0903F0D8642449B7.quest_desc: ["Saindo da &6Circuitaria Analógica&r, agora podemos processar mais de 2 bits de informação. Isso abre horizontes para algumas novas máquinas"]
@@ -12,7 +12,7 @@
 	quest.0A9ADDE68342B987.quest_desc: [
 		"Para fazer &#43DEC2Polietileno&r, você deve seguir a cadeia de produtos químicos da seguinte forma:"
 		""
-		"&8Petróleo bruto&r -> &#D2CD2DCombustível Leve Sulfúrico&r -> &#DBD658Combustível Leve&r -> &#E2DF78Combustível Leve Craqueado a Vapor&r -> &#44D1DBEtileno&r -> &#43DEC2Polietileno&r."
+		"&8Petróleo bruto&r -> &#D2CD2DCombustível Sulfúrico Leve&r -> &#DBD658Combustível Leve&r -> &#E2DF78Combustível Leve Craqueado a Vapor&r -> &#44D1DBEtileno&r -> &#43DEC2Polietileno&r."
 	]
 	quest.0C94D76B87E49FFD.title: "&fProcessamento de &7Ferro"
 	quest.103728F2BAD5AE84.title: "&5Componentes Avançados"
@@ -29,8 +29,8 @@
 	quest.18C0EF38430C3E67.quest_subtitle: "A Era Digital"
 	quest.1A84DF4478D55C41.quest_subtitle: "Igual ao do vapor"
 	quest.1A84DF4478D55C41.title: "&5Cortador de Fios Elétrico"
-	quest.1B4CD5AC8F6C3307.quest_desc: ["O &#4497DBMódulo Overdrive&r mantém a eficiência da máquina mesmo quando a receita não está em execução. Em troca, ele bloqueia a máquina para essa receita."]
-	quest.1B4CD5AC8F6C3307.title: "&5Módulo Overdrive"
+	quest.1B4CD5AC8F6C3307.quest_desc: ["O &#4497DBMódulo Saturador&r mantém a eficiência da máquina mesmo quando a receita não está em execução. Em troca, ele bloqueia a máquina para essa receita."]
+	quest.1B4CD5AC8F6C3307.title: "&5Módulo Saturador"
 	quest.1E0EF28175A7424F.quest_desc: ["Já que você já está produzindo vapor, por que não usá-lo para gerar eletricidade? Simplesmente coloque uma &#6363DBTurbina&r, insira &7vapor&r e retire &#DBDB63eletricidade&r."]
 	quest.1E0EF28175A7424F.quest_subtitle: "Vapor -> Eletricidade"
 	quest.1E0EF28175A7424F.title: "&5Turbina a Vapor"
@@ -94,7 +94,7 @@
 	quest.5A62260FB3850092.quest_desc: ["Misturar &eEnxofre&r, &#6ACDE6Oxigênio&r e &9Água&r resultará em &#D3D955Ácido Sulfúrico&r. Isso será usado para processar &7Pó de Manganês&r."]
 	quest.5AA8D2A1F3618615.quest_subtitle: "Movendo eletricidade"
 	quest.5AA8D2A1F3618615.title: "&fTransferência de Eletricidade"
-	quest.5B50AC47957F0CD7.quest_desc: ["A &7Plataforma de Perfuração de Petróleo&r vai extrair para você &#7A7A7APetróleo de Folhelho&r e &#918686Petróleo Bruto&r."]
+	quest.5B50AC47957F0CD7.quest_desc: ["A &7Plataforma de Perfuração de Petróleo&r vai extrair para você &#7A7A7APetróleo de Xisto&r e &#918686Petróleo Bruto&r."]
 	quest.5B50AC47957F0CD7.quest_subtitle: "Ruídos de Águia"
 	quest.5D404ED40C6C2690.quest_subtitle: "Forneça mais energia"
 	quest.604C003EE6B1CC6B.quest_subtitle: "Igual ao do vapor"
