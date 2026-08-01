@@ -1,4 +1,15 @@
 {
+	image.04BECD7AD8A41E3D.title: "Prudentium Watering Can"
+	image.17F3F3EC2F3CF866.title: "Machine Frame"
+	image.2476056FD4A4FBC8.title: "Imperium Machine Upgrade"
+	image.26CF1BB4714A782E.title: "Supremium Watering Can"
+	image.3A01454B7B3D5F41.title: "Inferium Watering Can"
+	image.3DB1AFCC24A14147.title: "Tertium Machine Upgrade"
+	image.558C038DD5F819D9.title: "Prudentium Machine Upgrade"
+	image.67DEC8CDB70FC46C.title: "Imperium Watering Can"
+	image.732F32D55E7EC2CD.title: "Awakened Supremium Machine Upgrade"
+	image.7471FCFF6684EA8B.title: "Inferium Machine Upgrade"
+	image.74D93D051E3DDE39.title: "Tertium Watering Can"
 	quest.01C169A7FA424F6E.quest_subtitle: "Tier: &a2"
 	quest.02D45E3FB37ED0AD.quest_subtitle: "Tier: &63"
 	quest.04A7AA70C23830FF.quest_desc: ["Sickles tools that can be used to clear large amount of organic materials. Sickles break blocks in an area around the block you mine."]

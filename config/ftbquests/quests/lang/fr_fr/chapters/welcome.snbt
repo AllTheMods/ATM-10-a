@@ -7,7 +7,7 @@
 		""
 		"La plupart des quêtes dans le pack sont également créées par &2AlfredGG&r. Les quêtes demandent beaucoup de travail, donc si vous souhaitez le soutenir, vous pouvez cliquer sur son image de joueur ci-dessous!"
 	]
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 Aeronautics est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\\n\\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\\n\\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
 	quest.3BC0A50886A3222B.title: "&dBienvenue dans All The Mods 10 - Aeronautics Edition!"
 	quest.49EDAA2F57D3BF1D.quest_desc: ["Cette quête a été créée par le personnel de &6AllTheMods&r ou un contributeur de la communauté &2Community contributor&r pour être utilisée dans le modpacks AllTheMods. \\n\\nComme tous les packs &6AllTheMods&r sont sous licence &eTous les Droits son Réservé&r, cette quête ne peut être utilisée dans aucun pack public non publié par l'équipe &6AllTheMods Team&r sans autorisation explicite. \\n\\nCette quête est intentionnellement masquée. Si vous la voyez, c'est que vous êtes en mode édition."]
 	quest.5AC1BE754210429E.quest_desc: ["Si vous souhaitez créer une équipe pour vous et vos amis, utilisez la commande &a/ftbteams party create (nom de l'équipe)&r pour créer l'équipe!"]

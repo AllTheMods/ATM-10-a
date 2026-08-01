@@ -19,8 +19,6 @@
 	quest.199932BF623A6785.quest_desc: ["Forgotten Guardian は Undergarden のボスです。\n\nカタコンブ構造物で休んでいます"]
 	quest.199932BF623A6785.title: "Forgotten Guardian を倒す"
 	quest.1F18B64C84C8809D.title: "&l&9オーバーワールドの賞金首:&r&e スパイダー"
-	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers は様々なバイオームに対応した異なるタイプのクリーパーを追加します。\n\nそれぞれ異なるドロップがあり、中には友好的なものもいます！\n\nただし、全てのクリーパーはネコを怖がります..."]
-	quest.1F31EBF49079F9D3.title: "Overhauled Creepers"
 	quest.2B05A29C62676EB2.title: "&l&9オーバーワールドの賞金首:&r&e ゾンビ"
 	quest.2BD077EFE77B8EBB.quest_desc: ["ゾンビには他のバイオームでスポーンする異なるバリエーションがあります。\n\nハスク - 砂漠でスポーンします。\nドラウンド - 水中でスポーンします。\nGelid - 寒冷バイオームでスポーンします。\nThickets - ジャングルでスポーンします"]
 	quest.2BD077EFE77B8EBB.title: "ゾンビの種類"
@@ -39,8 +37,6 @@
 	quest.42822B1E8A53D051.title: "&l&9オーバーワールドの賞金首:&r&e スケルトン"
 	quest.56DA46DC82F6665D.quest_desc: ["Wilden Chimeraは アルス・ヌーヴォー によって追加されたボスで、進行に必要です。\n\n儀式を通じて召喚し、戦う必要があります！"]
 	quest.56DA46DC82F6665D.title: "ワイルドキメラを倒す"
-	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen は Overhauled Creepers に似たModです！もちろんエンダーマンバージョンです！\n\nこれらのエンダーマンは様々なバイオームで見つけることができ、それぞれが独自の特徴を持っています！異なる攻撃を持つものもあれば、異なるパールをドロップするものもあり、見た目も全て異なります！"]
-	quest.570223A03231DF8C.title: "Overhauled Endermen"
 	quest.5AC497F76A086A5C.title: "&l&9オーバーワールドの賞金首:&r&e ウィッチ"
 	quest.6141DE779232C8AA.title: "&l&cネザーの賞金首:&r&e ブレイズ"
 	quest.6827836C8E675A94.quest_desc: ["スケルトンにはゾンビと同様に異なるバリエーションがあります！\n\nストレイ - 寒冷バイオームでスポーン。\nボッグド - 沼地とトライアルチャンバーでスポーン。\nマーク - サンゴ礁の水中でスポーン。\nバーダント - ジャングルでスポーン"]

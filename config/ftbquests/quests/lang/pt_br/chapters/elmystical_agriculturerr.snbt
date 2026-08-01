@@ -1,4 +1,15 @@
 {
+	image.04BECD7AD8A41E3D.title: "Regador Prudêncio"
+	image.17F3F3EC2F3CF866.title: "Chassi de Máquina"
+	image.2476056FD4A4FBC8.title: "Melhoria de Máquina Imperita"
+	image.26CF1BB4714A782E.title: "Regador Suprêmio"
+	image.3A01454B7B3D5F41.title: "Regador Infério"
+	image.3DB1AFCC24A14147.title: "Melhoria de Máquina Tértio"
+	image.558C038DD5F819D9.title: "Melhoria de Máquina Prudêncio"
+	image.67DEC8CDB70FC46C.title: "Regador Imperita"
+	image.732F32D55E7EC2CD.title: "Melhoria de Máquina Suprêmio Despertada"
+	image.7471FCFF6684EA8B.title: "Melhoria de Máquina Infério"
+	image.74D93D051E3DDE39.title: "Regador Tértio"
 	quest.01C169A7FA424F6E.quest_subtitle: "Nível: &a2"
 	quest.02D45E3FB37ED0AD.quest_subtitle: "Nível: &63"
 	quest.04A7AA70C23830FF.quest_desc: ["Foices, ferramentas que podem ser usadas para limpar grandes quantidades de materiais orgânicos. As foices quebram blocos em uma área ao redor do bloco que você minera."]

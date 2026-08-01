@@ -1,4 +1,14 @@
 {
+	image.09D9B906D64EEC0C.title: "Fortaleza do Nether"
+	image.0F50CB9DB3CC94EF.title: "Barco do End"
+	image.1FFF2C2FAFC33232.title: "Fortaleza"
+	image.2CA16137DBB87580.title: "Bastião"
+	image.31A75754D07F903D.title: "Naufrágio"
+	image.3E2A18876931DED5.title: "Mina Abandonada"
+	image.406A39A037D0C241.title: "Aldeia"
+	image.4E5BC7C1274B7182.title: "Cidade do End"
+	image.6569C0513FF60AFB.title: "Ruínas do Oceano"
+	image.791EFC83C44C2F16.title: "Portal em Ruínas"
 	quest.073D0D41BA5F219B.quest_desc: ["Nas profundezas infernais e heréticas do &cNether&r encontra-se uma &6relíquia&r que exige senso de tempo... o &cEscudo da Retaliação&r. \\n\\nForjado por uma máquina para proteger contra ataques, mas com um preço. O preço é a vulnerabilidade caso a janela de oportunidade passe. \\n\\n- &lPossui 1 habilidade:&r \\n\\n &4Retaliação&r: \\n Ao usar, você bloqueia a próxima instância de dano que atingir a &6relíquia&r por um curto período de tempo. Falhar em bloquear o dano durante essa janela te deixa mais vulnerável por um tempo.\\n\\n- Uma &6relíquia&r de precisão no tempo, protegendo o usuário no momento certo."]
 	quest.073D0D41BA5F219B.quest_subtitle: "+ APARAR"
 	quest.073D0D41BA5F219B.title: "&cEscudo da Retaliação"

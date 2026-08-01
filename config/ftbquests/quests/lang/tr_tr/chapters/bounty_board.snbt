@@ -12,8 +12,6 @@
 	quest.199932BF623A6785.quest_desc: ["Forgotten Guardian, Undergarden'ın Patron'udur. \\n\\nCatacomb Yapısı'nda dinleniyor."]
 	quest.199932BF623A6785.title: "Forgotten Guardian'ı Öldür"
 	quest.1F18B64C84C8809D.title: "&l&9Ana Dünya Ödülü:&r&e Örümcekler"
-	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers bize farklı Biyomlar için birçok farklı Creeper çeşitleri sunar. \\n\\nHer birinin farklı düşürdükleri vardır ve hatta bazıları dost canlısıdır! \\n\\nYine de hepsi kedilerden korkuyor..."]
-	quest.1F31EBF49079F9D3.title: "Yenilenmiş Creeper'lar"
 	quest.2B05A29C62676EB2.title: "&l&9Ana Dünya Ödülü:&r&e Zombiler"
 	quest.2BD077EFE77B8EBB.quest_desc: ["Zombilerin diğer Biyomlarda ortaya çıkan farklı çeşitleri vardır. \\n\\nZombi Kurusu- Çöllerde ortaya çıkar. \\nBoğuk- Su altında ortaya çıkar. \\nGelid- Soğuk Biyomlarda ortaya çıkar. \\nThicket'lar- Ormanlarda ortaya çıkar."]
 	quest.2BD077EFE77B8EBB.title: "Zombi Çeşitleri"
@@ -28,8 +26,6 @@
 	quest.42822B1E8A53D051.title: "&l&9Ana Dünya Ödülü:&r&e İskeletler"
 	quest.56DA46DC82F6665D.quest_desc: ["Yabani Chimera, Ars Nouveau tarafından eklenen bir Patron'dur ve ilerlemek için gereklidir. \\n\\nBir ritüel aracılığıyla çağrılması ve sonra da savaşılması gerekiyor!"]
 	quest.56DA46DC82F6665D.title: "Yabani Chimera'yı Öldür"
-	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen, Overhauled Creepers'a benzer bir moddur! Sadece Enderman'ler ile tabii ki! \\n\\nTüm bu Enderman'leri farklı Biyomlarda bulacaksın ve her biri kendi tarzlarında benzersiz olacak! Bazılarının farklı saldırıları var, bazıları farklı İnciler düşürüyor ve hepsi farklı görünüyor!"]
-	quest.570223A03231DF8C.title: "Yenilenmiş Enderman'ler"
 	quest.5AC497F76A086A5C.title: "&l&9Ana Dünya Ödülü:&r&e Cadılar"
 	quest.6141DE779232C8AA.title: "&l&cNether Ödülü:&r&e Blaze'ler"
 	quest.6827836C8E675A94.quest_desc: ["İskeletlerin farklı çeşitleri vardır, tıpkı Zombilerin olduğu gibi! \\n\\nSerseri- Soğuk Biyomlarda ortaya çıkar. \\nBatık- Bataklıklarda ve Sınama Odalarında ortaya çıkar. \\nMurk'lar- Su altında Mercan Resiflerinde ortaya çıkar. \\nVerdant'lar- Ormanlarda ortaya çıkar."]

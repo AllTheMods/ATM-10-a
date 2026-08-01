@@ -353,7 +353,7 @@
 		"これは壊れた &8Blades&r の交換や、&8Grinding Disks&r への切り替えに便利です！"
 	]
 	quest.553ADA7040B652CD.quest_desc: ["&4&lMining Drill&r、&2&lBuzzsaw&r、&b&lChemical Thrower&r は通常 1,000mB または1バケツ分の&b液体&rを保持します。\n\n通常とは限りません！Large Tank があれば 2,000mB または2バケツ分保持できます。\n\n大した量に聞こえないかもしれませんが、信じてください、十分な量です"]
-	quest.5585130028BB8298.quest_desc: ["&6&lATM10 Aeronautics&r で見つけることができる最も基本的な銃、&d&lリボルバー&r！\n\nシフト右クリックで&d&lリボルバー&rを開き、弾薬をスロットに入れます。その後、右クリックで発射するだけです！\n\n2つのアップグレードを適用できます。アップグレードには：Bayonet、Speedloader、Extended Magazine、Amplifier Electron Tubes、Precision Scope があります。\n\n&d&lリボルバー&rは2つのアップグレードしか保持できませんが、Speedloader は技術的に異なります"]
+	quest.5585130028BB8298.quest_desc: ["&6&lATM10&r で見つけることができる最も基本的な銃、&d&lリボルバー&r！\n\nシフト右クリックで&d&lリボルバー&rを開き、弾薬をスロットに入れます。その後、右クリックで発射するだけです！\n\n2つのアップグレードを適用できます。アップグレードには：Bayonet、Speedloader、Extended Magazine、Amplifier Electron Tubes、Precision Scope があります。\n\n&d&lリボルバー&rは2つのアップグレードしか保持できませんが、Speedloader は技術的に異なります"]
 	quest.5585130028BB8298.quest_subtitle: "運が良いと思う？パンク野郎？"
 	quest.5585130028BB8298.title: "&d&lリボルバー"
 	quest.56CE6CF9C99FB522.quest_desc: ["&8ラジエーター&rには通常の&8鋼の薄板&r、新しい&9水入りバケツ&r、そして&6コンスタンタンプレート&rが必要です。\n\n&6コンスタンタン&rは&6銅&rと&7ニッケル&rを&l&6合金窯&rで組み合わせて作る合金です"]

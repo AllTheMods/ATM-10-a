@@ -19,8 +19,6 @@
 	quest.199932BF623A6785.title: "Tuer le Gardien Oublier"
 	quest.1F18B64C84C8809D.quest_subtitle: "Tuer 5 Araignées"
 	quest.1F18B64C84C8809D.title: "&l&9Prime dans l'Overworld:&r&e Araignées"
-	quest.1F31EBF49079F9D3.quest_desc: ["Les Creepers remaniés nous offrent de nombreuses variantes de Creepers pour différents biomes. \n\nChacun d'entre eux a des drops différents et certains sont même amicaux ! \n\nMais tous ont peur des chats..."]
-	quest.1F31EBF49079F9D3.title: "Creepers remaniés"
 	quest.283CA6DB77D5D2EB.quest_subtitle: "Tuer 10 Araignées"
 	quest.283CA6DB77D5D2EB.title: "Tuer 10X Araignées"
 	quest.2916F873A4DA84E8.quest_subtitle: "Tuer 10 Enderman"
@@ -63,8 +61,6 @@
 	quest.56DA46DC82F6665D.quest_desc: ["Le Wilden Chimera est un boss ajouté par Ars Nouveau et nécessaire pour progresser dans le jeu. \n\nIl doit être invoqué à l'aide d'un rituel, puis combattu!"]
 	quest.56DA46DC82F6665D.quest_subtitle: "Ce n'est même pas ma forme finale"
 	quest.56DA46DC82F6665D.title: "Tuer la Chimère Wilden"
-	quest.570223A03231DF8C.quest_desc: ["Les Endermens remaniés sont similaires aux Creepers remaniés ! Mais avec des Endermen, bien sûr ! \n\nVous trouverez tous ces Endermen dans différents biomes, et chacun d'entre eux est unique à sa manière ! Certains ont des attaques différentes, d'autres lâchent des perles différentes, et ils ont tous un aspect différent !"]
-	quest.570223A03231DF8C.title: "Endermen remaniés"
 	quest.5AC497F76A086A5C.quest_subtitle: "Tuer 5 Sorcières"
 	quest.5AC497F76A086A5C.title: "&l&9Prime dans l'Overworld:&r&e Sorcières"
 	quest.5FCA4FF8C135435E.quest_subtitle: "Tuer 100 Creepers"
