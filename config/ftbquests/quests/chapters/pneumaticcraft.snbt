@@ -13,6 +13,7 @@
 	images: [
 		{
 			height: 7.0d
+			id: "1A5ECC373938CA68"
 			image: "atm:textures/questpics/pneumaticcraft/pressure_chamber.png"
 			rotation: 0.0d
 			width: 12.41d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 8.0d
+			id: "4B4F8794FC4366C8"
 			image: "atm:textures/questpics/pneumaticcraft/assembly_line.png"
 			rotation: 0.0d
 			width: 15.21d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 8.0d
+			id: "441B4A8B1F072562"
 			image: "atm:textures/questpics/pneumaticcraft/pneumatic_set.png"
 			rotation: 0.0d
 			width: 8.806722689075631d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 1.0d
+			id: "42924665B5BE4253"
 			image: "pneumaticcraft:item/pneumatic_helmet"
 			rotation: 0.0d
 			width: 1.0d
@@ -45,6 +49,7 @@
 		}
 		{
 			height: 1.0d
+			id: "28FCE66EF0C57A71"
 			image: "pneumaticcraft:item/pneumatic_chestplate"
 			rotation: 0.0d
 			width: 1.0d
@@ -53,6 +58,7 @@
 		}
 		{
 			height: 1.0d
+			id: "544C2CBB51D172FE"
 			image: "pneumaticcraft:item/pneumatic_leggings"
 			rotation: 0.0d
 			width: 1.0d
@@ -61,6 +67,7 @@
 		}
 		{
 			height: 1.0d
+			id: "588862142776DADE"
 			image: "pneumaticcraft:item/pneumatic_boots"
 			rotation: 0.0d
 			width: 1.0d
@@ -69,6 +76,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5775EB071BB1354A"
 			image: "ftblibrary:textures/faces/pneumaticcraft/amadrone.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -77,6 +85,7 @@
 		}
 		{
 			height: 1.0d
+			id: "42A9DBAB3F337D7B"
 			image: "ftblibrary:textures/faces/pneumaticcraft/drone.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -85,6 +94,7 @@
 		}
 		{
 			height: 1.0d
+			id: "002CBBE3409CE872"
 			image: "pneumaticcraft:item/salmon_tempura"
 			rotation: 0.0d
 			width: 1.0d
@@ -93,6 +103,7 @@
 		}
 		{
 			height: 1.0d
+			id: "62D548850B7D6B6F"
 			image: "pneumaticcraft:item/sourdough_bread"
 			rotation: 0.0d
 			width: 1.0d
@@ -100,8 +111,9 @@
 			y: 8.5d
 		}
 		{
-			click: "#3CFE522A4B7CC2EC"
+			click_action: "open_quest:3CFE522A4B7CC2EC"
 			height: 1.0d
+			id: "69883D10A65B6067"
 			image: "pneumaticcraft:block/chest/front_panel"
 			rotation: 0.0d
 			width: 1.0d
@@ -109,8 +121,9 @@
 			y: -1.5d
 		}
 		{
-			click: "#440B1E1D4951F808"
+			click_action: "open_quest:440B1E1D4951F808"
 			height: 1.0d
+			id: "23368FC42644168A"
 			image: "pneumaticcraft:block/chest/front_panel_smart"
 			rotation: 0.0d
 			width: 1.0d
@@ -119,6 +132,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D82388A2D9521A1"
 			image: "pneumaticcraft:item/seismic_sensor"
 			rotation: 0.0d
 			width: 1.0d
@@ -127,6 +141,7 @@
 		}
 		{
 			height: 0.3d
+			id: "2001C657093EE563"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -135,6 +150,7 @@
 		}
 		{
 			height: 4.0d
+			id: "5584E15E78AD6679"
 			image: "atm:textures/questpics/pneumaticcraft/pnc_title.png"
 			rotation: 0.0d
 			width: 16.7d
@@ -143,6 +159,7 @@
 		}
 		{
 			height: 3.0d
+			id: "014DEC0DB03D7F31"
 			image: "atm:textures/questpics/pneumaticcraft/pnc_logo.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -151,6 +168,7 @@
 		}
 		{
 			height: 0.3d
+			id: "4A4273143F666328"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -1540,11 +1558,8 @@
 				{
 					id: "618C5C25773A6B26"
 					item: {
-						components: {
-							"ftbquests:missing_item": "pamhc2foodcore:potatochipsitem"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "herbsandharvest:potato_soup"
 					}
 					type: "item"
 				}

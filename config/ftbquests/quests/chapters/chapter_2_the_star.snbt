@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "04F66F3A0050CD66"
 			image: "atm:textures/questpics/industrialforegoing/ether_gas_setup.png"
 			rotation: 0.0d
 			width: 3.4029850746268657d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4F64723764FB0D0B"
 			image: "generatorgalore:block/copper_generator_top_on"
 			rotation: 0.0d
 			width: 2.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "675C520D6E06518C"
 			image: "atm:textures/questpics/occultism/aviarcircle.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 5.0d
+			id: "701F0EE5A0F3321A"
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 7.5d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 3.0d
+			id: "18A2A173731F2880"
 			image: "atm:textures/questpics/extremereactors/titleimage2.png"
 			rotation: 0.0d
 			width: 3.9338654503990877d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "104C652B01C0E4D9"
 			image: "productivebees:item/all_bees"
 			rotation: 0.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 3.0d
+			id: "09C6B4370F8F2418"
 			image: "atm:textures/questpics/mek/sps_cutout.png"
 			rotation: 0.0d
 			width: 3.8063063063063063d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 3.0d
+			id: "62A3BC32946CA6C6"
 			image: "atm:textures/questpics/justdirethings/goo_spread_ferricore.png"
 			rotation: 0.0d
 			width: 3.003550295857988d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 3.0d
+			id: "58A0AA73FA34048A"
 			image: "atm:textures/questpics/allthemodium/all_piglich.png"
 			rotation: 0.0d
 			width: 1.8827258320126785d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 3.0d
+			id: "0DE9D414D8FB0956"
 			image: "atm:textures/questpics/gettingstarted/started_tree.png"
 			rotation: 0.0d
 			width: 2.836575875486381d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 3.0d
+			id: "05D9E99DE87490F1"
 			image: "atm:textures/questpics/gettingstarted/started_pressure.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 3.0d
+			id: "43C804F935DE4548"
 			image: "atm:textures/questpics/gettingstarted/started_pocket4.png"
 			rotation: 0.0d
 			width: 2.9328671328671327d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 3.0d
+			id: "72131CD7637AAA06"
 			image: "atm:textures/questpics/gettingstarted/started_reactor.png"
 			rotation: 0.0d
 			width: 2.644736842105263d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 3.0d
+			id: "09B67A72CA2D1CB5"
 			image: "atm:textures/questpics/gettingstarted/started_roots.png"
 			rotation: 0.0d
 			width: 3.527114967462039d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7034C35C9D1BB28C"
 			image: "atm:textures/questpics/gettingstarted/started_enchant.png"
 			rotation: 0.0d
 			width: 3.8555555555555556d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 2.0d
+			id: "59D86C20E4285D01"
 			image: "atm:textures/questpics/gettingstarted/started_ars.png"
 			rotation: 0.0d
 			width: 3.0594059405940595d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 2.5d
+			id: "3AEC5321503A00D5"
 			image: "atm:textures/questpics/gettingstarted/started_starlight.png"
 			rotation: 0.0d
 			width: 4.524033930254477d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6D62C26AC501C12C"
 			image: "atm:textures/questpics/gettingstarted/started_forbidden.png"
 			rotation: 0.0d
 			width: 4.086448598130842d
@@ -154,6 +172,7 @@
 		}
 		{
 			height: 2.0d
+			id: "68B070912DEB430E"
 			image: "ae2:block/controller_lights"
 			rotation: 0.0d
 			width: 2.0d
@@ -162,6 +181,7 @@
 		}
 		{
 			height: 2.0d
+			id: "13237A4AF91B9647"
 			image: "ae2:block/controller_powered"
 			rotation: 0.0d
 			width: 2.0d
@@ -170,6 +190,7 @@
 		}
 		{
 			height: 2.0d
+			id: "592A7573E3982CD7"
 			image: "ironfurnaces:block/iron_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 2.0d
@@ -178,6 +199,7 @@
 		}
 		{
 			height: 5.0d
+			id: "1E38EF50ABD3AE5A"
 			image: "immersiveengineering:textures/gui/workbench.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -186,6 +208,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2B5B4525A54BA12D"
 			image: "minecraft:textures/entity_icon/warden/warden.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -194,6 +217,7 @@
 		}
 		{
 			height: 2.0d
+			id: "24EDB9E69B4DF3B5"
 			image: "atm:textures/questpics/hnn.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -202,6 +226,7 @@
 		}
 		{
 			height: 2.0d
+			id: "156FDAD6CAB2C992"
 			image: "modern_industrialization:item/chromium_double_ingot"
 			rotation: 0.0d
 			width: 2.0d
@@ -210,6 +235,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4AF14D58FFD2A7AE"
 			image: "atm:textures/questpics/gettingstarted/twilight_portal.png"
 			rotation: 0.0d
 			width: 2.679611650485437d
@@ -218,6 +244,7 @@
 		}
 		{
 			height: 2.0d
+			id: "01C752DE208116E9"
 			image: "stevescarts:item/creative_hull_icon"
 			rotation: 0.0d
 			width: 2.0d
@@ -226,6 +253,7 @@
 		}
 		{
 			height: 4.0d
+			id: "75519445D958D5F7"
 			image: "atm:textures/questpics/chap2/atmstar_title1.png"
 			rotation: 0.0d
 			width: 21.494505494505493d
@@ -234,6 +262,7 @@
 		}
 		{
 			height: 4.0d
+			id: "72DBC22B3637D4B7"
 			image: "atm:textures/questpics/chap2/atmstar_title2.png"
 			rotation: 0.0d
 			width: 19.208791208791208d
@@ -242,6 +271,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5CF963F0B097FD78"
 			image: "atm:textures/questpics/cataclysm/cataclysm_harbinger.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -250,6 +280,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1C07D339154D2C6E"
 			image: "atm:textures/questpics/gettingstarted/started_evil.png"
 			rotation: 0.0d
 			width: 3.0d

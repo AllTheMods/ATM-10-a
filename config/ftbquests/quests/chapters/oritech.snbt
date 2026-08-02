@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 0.5d
+			id: "5E9CD3319F04B101"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "13280D3D31CCACFC"
 			image: "oritech:block/uranium_crystal"
 			rotation: 0.0d
 			width: 3.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.7d
+			id: "089DEE8A7A779003"
 			image: "atm:textures/questpics/oritech/oritech-logo.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "6AFB770495337908"
 			image: "allthemodium:item/atm_star"
 			rotation: 0.0d
 			width: 1.5d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.7d
+			id: "5B72E8F002C6C9C3"
 			image: "atm:textures/questpics/oritech/ori-logistics.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.7d
+			id: "281DBB1D73431164"
 			image: "atm:textures/questpics/oritech/ori-energy.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.7d
+			id: "5C384D9B2A9E882C"
 			image: "atm:textures/questpics/oritech/ori-addons.png"
 			rotation: 0.0d
 			width: 8.0d

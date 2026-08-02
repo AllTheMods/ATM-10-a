@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "43C0182E3DBB1797"
 			image: "generatorgalore:block/copper_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7CEFA9E9BCAE5BCF"
 			image: "generatorgalore:block/iron_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6A8B325AE529DDEB"
 			image: "generatorgalore:block/diamond_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "42B15DF62EDB6077"
 			image: "generatorgalore:block/gold_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2A5B833CACD1265D"
 			image: "generatorgalore:block/emerald_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1AC31D47C54B024A"
 			image: "generatorgalore:block/netherstar_generator_top_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6E8F1524765B0225"
 			image: "generatorgalore:block/culinary_generator_top_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "14814FEC528895C0"
 			image: "generatorgalore:block/enchantment_generator_top_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6572387B16E67ADB"
 			image: "generatorgalore:block/obsidian_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F9AA49CFB79DA08"
 			image: "generatorgalore:block/netherstar_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "52D6C555FE0FB964"
 			image: "generatorgalore:block/netherite_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6970BD719565EE79"
 			image: "generatorgalore:block/enchantment_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "31E9B86D864AD6C1"
 			image: "generatorgalore:block/magmatic_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "65721B86CBE96DFD"
 			image: "generatorgalore:block/honey_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 1.0d
+			id: "00C8493A7C9AFD1E"
 			image: "generatorgalore:block/halitosis_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7B3FB08FC5E06CCD"
 			image: "generatorgalore:block/potion_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4457A0D3ED161748"
 			image: "generatorgalore:block/culinary_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D766F831AA147A2"
 			image: "generatorgalore:block/ender_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -154,6 +172,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5F4224055E00DC23"
 			image: "ironfurnaces:block/copper_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -162,6 +181,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F31FBC13ED79D60"
 			image: "ironfurnaces:block/iron_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -170,6 +190,7 @@
 		}
 		{
 			height: 1.0d
+			id: "66914D1729D10ACA"
 			image: "ironfurnaces:block/gold_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -178,6 +199,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1DB37A4A9F324C67"
 			image: "ironfurnaces:block/silver_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -186,6 +208,7 @@
 		}
 		{
 			height: 1.0d
+			id: "665A262A8E8CEFBE"
 			image: "ironfurnaces:block/diamond_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -194,6 +217,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0272A03D32D12326"
 			image: "atm:textures/questpics/furnaces/iron_furnaces.png"
 			rotation: 0.0d
 			width: 8.60759493670886d
@@ -202,6 +226,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0F2EC13A21B80E33"
 			image: "atm:textures/questpics/generator/generator_galore.png"
 			rotation: 0.0d
 			width: 11.10126582278481d
@@ -210,6 +235,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5414F1FF2E64EC48"
 			image: "ironfurnaces:block/iron_furnace_front_on_blast"
 			rotation: 0.0d
 			width: 1.0d
@@ -218,6 +244,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1F04F9C3F61A130D"
 			image: "ironfurnaces:block/iron_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 1.0d
@@ -226,6 +253,7 @@
 		}
 		{
 			height: 1.0d
+			id: "03EAEA4B36F24561"
 			image: "ironfurnaces:block/emerald_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -234,6 +262,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4C0691CE6EF6D76B"
 			image: "ironfurnaces:block/crystal_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -242,6 +271,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7616376E2512F3A6"
 			image: "ironfurnaces:block/netherite_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -250,6 +280,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1F8CE9083B7C2041"
 			image: "ironfurnaces:block/obsidian_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -258,6 +289,7 @@
 		}
 		{
 			height: 1.0d
+			id: "280407B2D1E48961"
 			image: "ironfurnaces:block/million_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -266,6 +298,7 @@
 		}
 		{
 			height: 1.0d
+			id: "41B1CB95A6731CDA"
 			image: "ironfurnaces:block/xmas_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -274,6 +307,7 @@
 		}
 		{
 			height: 1.0d
+			id: "64D0BA528C056DE6"
 			image: "ironfurnaces:block/spooky_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -282,6 +316,7 @@
 		}
 		{
 			height: 0.3d
+			id: "22BF4DB58716FA7D"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -290,6 +325,7 @@
 		}
 		{
 			height: 0.3d
+			id: "245B745256CCFC9E"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -298,6 +334,7 @@
 		}
 		{
 			height: 0.3d
+			id: "2E606A086B076F31"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -306,6 +343,7 @@
 		}
 		{
 			height: 0.3d
+			id: "09FD886810612A4F"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -314,6 +352,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5AE635232FB5DE25"
 			image: "ironfurnaces:block/allthemodium_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -322,6 +361,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7B1282277050F61E"
 			image: "ironfurnaces:block/vibranium_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -330,6 +370,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7479D885952998F0"
 			image: "ironfurnaces:block/unobtainium_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d

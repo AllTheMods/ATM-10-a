@@ -1,4 +1,5 @@
 {
+	image.05A71C0D9576E258.title: "Tutorial de Automação de Cristal do Tempo do Pilpoh"
 	quest.026C63594F813BCC.quest_desc: [
 		"&lTipo de Habilidade:&r Ativa"
 		""
@@ -693,7 +694,7 @@
 		"- Invulnerabilidade"
 	]
 	quest.76B1C5AFC5D6B7CF.quest_desc: ["A Varinha do Tempo pode ser usada para acelerar blocos, de forma semelhante ao Tempo na Garrafa, até uma velocidade de x256. Ao contrário do TIAB, ela usa FE e Fluido do Tempo em vez de tempo armazenado como combustível, tornando muito mais fácil de reabastecer.\\n\\nEla está na lista negra para jogadores falsos, no entanto. Não queremos que você automatize ISSO."]
-	quest.76B1C5AFC5D6B7CF.quest_subtitle: "&fPrima do Tempo na Garrafa"
+	quest.76B1C5AFC5D6B7CF.quest_subtitle: "Prima do Tempo na Garrafa"
 	quest.78840993C7832E89.quest_desc: [
 		"Melhorias Válidas:"
 		"- Derrubador de Árvores"

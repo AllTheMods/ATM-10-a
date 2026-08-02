@@ -13,8 +13,6 @@
 	quest.199932BF623A6785.quest_desc: ["The Forgotten Guardian is the Boss of the Undergarden. \\n\\nHe rests in the Catacomb Structure."]
 	quest.199932BF623A6785.title: "Kill The Forgotten Guardian"
 	quest.1F18B64C84C8809D.title: "&l&9Overworld Bounty:&r&e Spiders"
-	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers gives us many different varients of Creepers for different Biomes. \\n\\nEach have different drops and even some are friendly! \\n\\nAll are afraid of cats though..."]
-	quest.1F31EBF49079F9D3.title: "Overhauled Creepers"
 	quest.2B05A29C62676EB2.title: "&l&9Overworld Bounty:&r&e Zombies"
 	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different varients that spawn in other Biomes. \\n\\nHusks- spawn in Deserts. \\nDrowned- spawn Underwater. \\nGelid- spawn in Cold Biomes. \\nThickets- spawn in Jungles."]
 	quest.2BD077EFE77B8EBB.title: "Zombie Variants"
@@ -29,8 +27,6 @@
 	quest.42822B1E8A53D051.title: "&l&9Overworld Bounty:&r&e Skeletons"
 	quest.56DA46DC82F6665D.quest_desc: ["The Wilden Chimera is a Boss added by Ars Nouveau and is needed for progressing through it. \\n\\nHe needs to be summoned through a ritual then fought!"]
 	quest.56DA46DC82F6665D.title: "Kill The Wilden Chimera"
-	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen is a similar Mod to Overhauled Creepers! Just with Endermen of course! \\n\\nYou'll find all these Endermen in all different Biomes and each are unique in their own ways! Some have different attacks, some drop different Pearls, and they all look different!"]
-	quest.570223A03231DF8C.title: "Overhauled Endermen"
 	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&e Witches"
 	quest.6141DE779232C8AA.title: "&l&cThe Nether Bounty:&r&e Blazes"
 	quest.6827836C8E675A94.quest_desc: ["Skeletons have different varients, like Zombies do! \\n\\nStrays- spawn in Cold Biomes. \\nBogged- spawn in Swamps and Trial Chambers. \\nMurks- spawn underwater in Coral Reefs. \\nVerdants- spawn in Jungles."]

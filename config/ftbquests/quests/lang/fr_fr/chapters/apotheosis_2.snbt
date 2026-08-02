@@ -1,6 +1,4 @@
 {
-	quest.0D6D45DBA64E612D.quest_desc: ["Le Retard Maximum de Spawn est le temps qu'il pourrait mettre pour générer des monstres. Tout comme le Minimum, il peut être aussi bas que 100 et aussi haut que 32 767. Chaque Lingot donne 10. Les chiffres sont en ticks de Minecraft, 20 ticks équivalent à 1 seconde. Ainsi, le délai de spawn le plus rapide serait de 5 secondes entre chaque."]
-	quest.0D6D45DBA64E612D.title: "Retard maximum de Spawn"
 	quest.0E02CE4469FCA4C9.quest_desc: ["Le comparateur de Redstone donne à votre générateur un interrupteur marche/arrêt. Sans alimentation Redstone, il ne produira pas de spawn."]
 	quest.0E02CE4469FCA4C9.title: "Activation par redstone"
 	quest.0F0E227FC3EC0D90.quest_desc: ["Ce sont des générateurs fournis par des autres mods qu'Apothique Spawners."]
@@ -14,8 +12,6 @@
 	quest.186593EBCE3FE8D8.title: "Portée d'apparition"
 	quest.18E0F5A78F696FA3.quest_desc: ["Les éclats d'écho confèrent un effet spécial au spawner. Tout monstre généré verra le butin qu'il laisse derrière lui multiplié."]
 	quest.18E0F5A78F696FA3.title: "Echoing"
-	quest.1AD87CB3226ED224.quest_desc: ["La seule fonction de la Laine pour le générateur est de le rendre silencieux. Vous n'aimez pas entendre les bruits stupides du Générateur? Alors utilisez de la Laine! Indépendamment de la couleur, du fil ou du motif!"]
-	quest.1AD87CB3226ED224.title: "Calmez-vous, vous allez réveiller les monstres !"
 	quest.21C2458FED19363C.quest_desc: ["Il utilise &aEssence&r avec un monstre dans un outil d'emprisonnement de monstres pour générer une copie de ce monstre."]
 	quest.21C2458FED19363C.quest_subtitle: "Industrial Foregoing's Spawner"
 	quest.223A5BDB5056B781.quest_desc: ["Capturing est un enchantement pour les épées qui rend les monstres plus susceptibles de laisser tomber leurs oeufs. C'est un enchantement rare, alors continuez à chercher et consultez &5&lApothique Enchanting&r pour vous aider. Chaque niveau vous donne 0,5 % de chances de plus d'obtenir un oeuf à chaque monstre tué, et le niveau le plus élevé que vous pouvez normalement atteindre est VII (7)."]
@@ -29,22 +25,16 @@
 	quest.310969B8FE0A94DE.title: "Apothique Spawners"
 	quest.39E822440E7D2E04.quest_desc: ["Le Mob Grinding Utils est entièrement dédié au farming de mobs, il est donc tout naturel qu'il dispose d'un spawner ! Le spawner d'entités ! Il aura toutefois besoin de 3 éléments pour fonctionner : un œuf de spawn, des XP Jelly Babies et un signal Redstone. Les XP Jelly Babies sont fabriqués en traitant des XP à l'aide d'un XP Solidifier avec le XP Mould Jelly Baby. Ils peuvent être mangés ou utilisés comme carburant dans le deuxième emplacement. Une fois que vous avez placé l'œuf de spawn dans le premier emplacement, les XP Jelly Babies dans le deuxième et un signal Redstone, il commencera à faire apparaître les monstres !"]
 	quest.39E822440E7D2E04.quest_subtitle: "Mob Grinding Utils' Spawner"
-	quest.3E2A411FF5B4B0E7.quest_desc: ["La Portée d'Activation est la distance à laquelle le Joueur (vous) doit être du Générateur pour qu'il fonctionne. Le plus bas qu'il puisse être est de 1 bloc et le plus haut est de 48 blocs. Ils se déplacent en cercle autour du générateur plutôt que d'être placés directement sur des blocs. Le Conduit et l'Œuf de Dragon ignoreront cela."]
-	quest.3E2A411FF5B4B0E7.title: "Portée d'Activation"
 	quest.3F55F3CC8519D783.quest_desc: ["Le Soulium Spawner est le générateur que nous a offert Mystical Agriculture. Il utilise l'essence et l'énergie des monstres pour créer des monstres. L'essence des monstres s'obtient en récoltant des plantes monstres, créées par des jarres d'âmes. Vous devrez donc d'abord tuer les monstres ou utiliser l'extracteur d'âmes."]
 	quest.3F55F3CC8519D783.quest_subtitle: "Mystical Agriculture's Spawner"
 	quest.40096ED0B04C3EC5.quest_desc: ["Le must-have pour tous les Spawner. Lorsqu'il mentionne qu'il ignore toutes les conditions, cela signifie qu'il néglige toutes les conditions (bien que pas vraiment toutes). Ignore les niveaux de lumière, les blocs nécessaires à la génération et les joueurs à proximité. Les conditions d'espace sont toujours nécessaires, comme les slimes ayant besoin d'une zone de 3x3 pour apparaître."]
 	quest.40096ED0B04C3EC5.title: "Ignorer TOUTES les Conditions"
 	quest.42D7C8CD8E6F5CD7.quest_desc: ["En appliquant une Pomme d'Or sur un Spawner, vous extrayez les âmes des monstres qui seront générées, ne laissant qu'une coquille vide de leur forme originale. Les monstres perdront toute IA, ils feront donc essentiellement ce qu'un support d'armure fait. Ils ne peuvent pas vous frapper, ne peuvent pas se téléporter, ne peuvent pas se déplacer d'eux-mêmes. Ils restent là, prêts à être tués, quelle excitation!"]
 	quest.42D7C8CD8E6F5CD7.title: "Pas d'IA"
-	quest.4D07B0A4A2E77CDA.quest_desc: ["Le nombre maximal d'entités est la quantité de monstres qui peuvent être générés par un générateur et conservés. S'il n'y a que 6 entités maximales et que 6 monstres sont déjà générés, aucun autre ne sera généré tant qu'ils ne seront pas morts ou déplacés. Chaque Larme de Ghast le fait monter ou descendre de 2 entités. Maximum de 16 entités et minimum de 1."]
-	quest.4D07B0A4A2E77CDA.title: "Entités max"
 	quest.4F7F8F4ED1CA0550.quest_desc: ["un feu de camp utiliser sous un spawner mettra en feux les creatures qui en seront généré, parfait pour un bon steack."]
 	quest.4F7F8F4ED1CA0550.title: "Bruler"
 	quest.52FAF122466FDDC9.quest_desc: ["Un Spawner stabilisé est une evolution Draconique d'un spawner classique. Lorsque vous utilisez un coeur sur un Spawner il deviendra un Spawner stabilisé. Vous pourrez changer son coeur mais vous ne pourrez pas changer ses statistiques car celles-ci sont désormais définies par les coeurs. Plus le Coeur est puissant, plus les monstres apparaissent nombreux et rapidement."]
 	quest.52FAF122466FDDC9.quest_subtitle: "Draconique Evolution Spawner"
-	quest.6A497B063CF32A5C.quest_desc: ["Le Coeur de Piglich est largué par... eh bien, le Piglich. Il peut être utilisé pour augmenter la quantité de monstres qui PEUVENT apparaître d'un générateur. Les monstres générés sont aléatoires avec une quantité maximale déterminée par les Cœurs de Piglich. Il monte ou descend d'un pour chaque cœur, jusqu'à un maximum de 8."]
-	quest.6A497B063CF32A5C.title: "Nombre d'Apparitions"
 	quest.6D3B958E49AE7BDB.quest_desc: ["Les fragments d'amulette peuvent être transformés en amulettes ou en œufs de spawn. Ils proviennent du reliquaire et sont rarement lâchés par leurs monstres respectifs. Certains peuvent même être fabriqués ! Prenez-en deux et un œuf normal, et vous pourrez fabriquer un œuf de spawn."]
 	quest.6D68D9941049E806.quest_desc: ["Comme son nom l'indique, ce Spawner utilisera &dSource&r comme combustible. Pour Décider d'un monstre à faire apparaître, vous aurez besoin d'un bocal de confinement pour Contenir la creature dans la zone."]
 	quest.6D68D9941049E806.quest_subtitle: "Ars Nouveau's Spawner"
@@ -56,12 +46,9 @@
 	quest.77A8E8122870BBCE.quest_desc: ["Techniquement ce n'est pas un spawner, mais je l'inclue quand meme ici, du a ca capacité a assigné une craeture a généré. Veiller a Prendre connaissance du chapitre &5&lApothic Enchanting&r pour en apprendre plus sur comment obtenir cet objet."]
 	quest.77A8E8122870BBCE.quest_subtitle: "Ce n'est pas un oeuf de spawn.!"
 	quest.78E94C386B1E7359.quest_desc: ["En général, vous ne pouvez pas obtenir d'œufs de spawn ni de spawner et c'est pour cela que nous somme la! Il y a plusieurs facon d'obtenir des oeufs mais une seule que vous devez choisir, il vous suffit de faire un clic droit sur le spawner pour changer la creature qui sera généré et du coup plus besoin de mettre des oeufs."]
-	quest.7A9AE63998BB41FF.quest_desc: ["Pour déterminer quand le Générateur générera, il choisit un nombre aléatoire entre le retard de spawn maximum et minimum. Le minimum peut être aussi bas que 100 et aussi haut que 32 767. Chaque Lingot fait monter ou descendre de 10."]
-	quest.7A9AE63998BB41FF.title: "Retard minimum de Spawn"
 	quest.7F6B66566C211735.quest_desc: ["La Dripstone est utiliser dans les spawner elle réduit la santé maximale des creature généré. Cela peut diminuer leurs santé jusqu'a 20%"]
 	quest.7F6B66566C211735.title: "La Santé"
 	task.24893D6EDE0BD819.title: "Fragments Porte Bohneur de Creature"
-	task.39702880D9133E3E.title: "Laine"
 	task.3B219688DA1CF9C8.title: "Tous Droits Reservés"
 	task.45250DA4433007C6.title: "Capturer des Livres"
 	task.524CBF7058496E7F.title: "Autres Spawners"

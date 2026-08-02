@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "3E33F9DE2F894826"
 			image: "minecraft:textures/item/cake.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "623E7EB0C9590486"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4A75507EF1CA91E3"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: -90.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "46D350FA53E62680"
 			image: "minecraft:textures/item/wheat_seeds.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7FA3A5D5FBBC9241"
 			image: "minecraft:textures/block/birch_sapling.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7FDE747F9CDFDCAC"
 			image: "minecraft:block/hay_block_side"
 			rotation: -90.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7368205E8541DE82"
 			image: "minecraft:item/torchflower_seeds"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3AA26D389B48F646"
 			image: "minecraft:textures/item/cooked_chicken.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "277CDFF3B2BEB1AB"
 			image: "minecraft:textures/item/cooked_porkchop.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,11 +91,22 @@
 		}
 		{
 			height: 3.0d
+			id: "120008FDFD08F1B0"
 			image: "atm:textures/questpics/food_and_farming.png"
 			rotation: 0.0d
 			width: 12.0d
 			x: 0.5d
 			y: -5.5d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "3AA7C16CBCF0D272"
+			image: "ftblibrary:textures/faces/minecraft/chicken.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 6.0d
+			y: 2.0d
 		}
 	]
 	order_index: 1
@@ -329,11 +349,8 @@
 				{
 					id: "634BD1679C226F35"
 					item: {
-						components: {
-							"ftbquests:missing_item": "pamhc2foodcore:friedchickenitem"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "farmersdelight:roast_chicken_block"
 					}
 					type: "item"
 				}

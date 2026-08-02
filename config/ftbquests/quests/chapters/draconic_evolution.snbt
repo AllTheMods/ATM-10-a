@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "32EE0174302E50CE"
 			image: "atm:textures/questpics/draconic/draconic_title.png"
 			rotation: 0.0d
 			width: 8.019230769230768d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "39EFBDF05CB2DABF"
 			image: "atm:textures/questpics/draconic/draconic_core_1on.png"
 			rotation: 0.0d
 			width: 2.0089285714285716d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 5.0d
+			id: "262AF61985493D70"
 			image: "atm:textures/questpics/draconic/draconic_core_8on.png"
 			rotation: 0.0d
 			width: 5.038167938931297d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "24485A903ED14982"
 			image: "atm:textures/questpics/draconic/draconic_energy.png"
 			rotation: 0.0d
 			width: 4.1257142857142854d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 5.0d
+			id: "20F3E6D9A6120BF5"
 			image: "atm:textures/questpics/draconic/draconic_reactor_off_down.png"
 			rotation: 0.0d
 			width: 11.26126126126126d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 3.0d
+			id: "059B714C05CBD859"
 			image: "atm:textures/questpics/draconic/draconic_fusion.png"
 			rotation: 0.0d
 			width: 9.072463768115941d
@@ -874,7 +880,7 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["0817FD6E45C127E8"]
+			dependencies: ["2D9AF97C03C5AEC7"]
 			id: "131AA933D59D3017"
 			rewards: [
 				{
@@ -1447,77 +1453,6 @@
 		}
 		{
 			icon: {
-				components: {
-					"draconicevolution:config_properties": [
-						[
-							{
-								"": "BOOLEAN"
-							}
-							{
-								default_value: 0b
-								formatter: "true_false"
-								name: "charge_held_item"
-								show_on_hud: 1b
-								value: 0b
-							}
-						]
-						[
-							{
-								"": "BOOLEAN"
-							}
-							{
-								default_value: 0b
-								formatter: "true_false"
-								name: "charge_armor"
-								show_on_hud: 1b
-								value: 0b
-							}
-						]
-						[
-							{
-								"": "BOOLEAN"
-							}
-							{
-								default_value: 0b
-								formatter: "true_false"
-								name: "charge_hot_bar"
-								show_on_hud: 1b
-								value: 0b
-							}
-						]
-						[
-							{
-								"": "BOOLEAN"
-							}
-							{
-								default_value: 0b
-								formatter: "true_false"
-								name: "charge_main"
-								show_on_hud: 1b
-								value: 0b
-							}
-						]
-						[
-							{
-								"": "BOOLEAN"
-							}
-							{
-								default_value: 0b
-								formatter: "true_false"
-								name: "charge_curios"
-								show_on_hud: 1b
-								value: 0b
-							}
-						]
-					]
-					"draconicevolution:module_entities": [ ]
-					"draconicevolution:provider_identity": [I;
-						447773607
-						-506706522
-						-1187786784
-						1238822552
-					]
-				}
 				id: "draconicevolution:wyvern_capacitor"
 			}
 			id: "26DF1427AC3966DE"

@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 0.75d
+			id: "16D288832534D86F"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier1.png"
 			rotation: 0.0d
 			width: 2.34375d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 0.75d
+			id: "464B5A3F801093E4"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier2.png"
 			rotation: 0.0d
 			width: 2.5875000000000004d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 0.75d
+			id: "7BB2D976E2C034C9"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier3.png"
 			rotation: 0.0d
 			width: 2.60625d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 0.75d
+			id: "1A97231AF26B282C"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier4.png"
 			rotation: 0.0d
 			width: 2.5875000000000004d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 0.75d
+			id: "58BD104C43B87CAD"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier5.png"
 			rotation: 0.0d
 			width: 2.578125d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "357146E616106484"
 			image: "atm:textures/questpics/forbidden/forbidden_title_clibano.png"
 			rotation: 0.0d
 			width: 4.168539325842697d
@@ -59,6 +65,7 @@
 		{
 			dependency: "692183ACBB2AABF7"
 			height: 1.0d
+			id: "29B4E121A5B3FAF8"
 			image: "atm:textures/questpics/forbidden/forbidden_title_relics.png"
 			rotation: 0.0d
 			width: 3.6707317073170733d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 1.0d
+			id: "14CEBFA88E40C730"
 			image: "atm:textures/questpics/forbidden/forbidden_title.png"
 			rotation: -90.0d
 			width: 10.98876404494382d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 4.0d
+			id: "64E2052F5BE1C9EB"
 			image: "atm:textures/questpics/forbidden/forbidden_tier1.png"
 			rotation: 0.0d
 			width: 4.139650872817955d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 4.0d
+			id: "7B88B11F281DA43C"
 			image: "atm:textures/questpics/forbidden/forbidden_tier2.png"
 			rotation: 0.0d
 			width: 4.095011876484561d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 5.0d
+			id: "45E20745CC6A1BF6"
 			image: "atm:textures/questpics/forbidden/forbidden_tier3.png"
 			rotation: 0.0d
 			width: 4.952038369304556d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 4.0d
+			id: "28B60E9CF2FA8AE0"
 			image: "atm:textures/questpics/forbidden/forbidden_tier4.png"
 			rotation: 0.0d
 			width: 4.0771084337349395d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 4.0d
+			id: "67E73E97C4FE90F5"
 			image: "atm:textures/questpics/forbidden/forbidden_tier5.png"
 			rotation: 0.0d
 			width: 4.12621359223301d
@@ -116,6 +129,7 @@
 		{
 			dependency: "692183ACBB2AABF7"
 			height: 4.0d
+			id: "012FAD7AE0E2D78F"
 			image: "forbidden_arcanus:item/enhancer/elementarium"
 			rotation: 0.0d
 			width: 4.0d
@@ -124,6 +138,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5B223E1ED1612688"
 			image: "atm:textures/questpics/forbidden/forbidden_clibano4.png"
 			rotation: 0.0d
 			width: 3.133037694013304d
@@ -132,6 +147,7 @@
 		}
 		{
 			height: 2.0d
+			id: "471A0B6ED949D12C"
 			image: "atm:textures/questpics/forbidden/forbidden_blackhole.png"
 			rotation: 0.0d
 			width: 3.3306451612903225d
@@ -141,6 +157,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 1.0d
+			id: "68FFE0DECF848903"
 			image: "atm:textures/questpics/forbidden/forbidden_automatic.png"
 			rotation: 0.0d
 			width: 9.547619047619047d
@@ -150,6 +167,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 6.0d
+			id: "46779EA5C91FECEC"
 			image: "atm:textures/questpics/chap3/creative_forge4.png"
 			rotation: 0.0d
 			width: 6.697674418604651d
@@ -159,6 +177,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 2.0d
+			id: "5A85566E19ABFFA9"
 			image: "atm:textures/questpics/forbidden/forbidden_sink.png"
 			rotation: 0.0d
 			width: 1.9330708661417322d
@@ -168,6 +187,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 4.0d
+			id: "2095745906FF1AF7"
 			image: "atm:textures/questpics/forbidden/forbidden_tree.png"
 			rotation: 5.0d
 			width: 3.4841121495327103d
@@ -177,6 +197,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 2.0d
+			id: "4FC1F3B5F021681A"
 			image: "atm:textures/questpics/forbidden/forbidden_pedestal.png"
 			rotation: 0.0d
 			width: 1.9162995594713657d
@@ -186,6 +207,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 2.0d
+			id: "6321A31845C2F1D4"
 			image: "atm:textures/questpics/forbidden/forbidden_holder.png"
 			rotation: 0.0d
 			width: 1.7149425287356321d
@@ -195,6 +217,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 1.0d
+			id: "4886CBFA2A8AF509"
 			image: "atm:textures/questpics/forbidden/forbidden_condenser.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -632,6 +655,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_1"
 				}
 				id: "39FEA97553B2367A"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_1"
@@ -699,6 +723,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_2"
 				}
 				id: "7F1B7BC6D0BE42BB"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_2"
@@ -856,6 +881,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_3"
 				}
 				id: "114F4D54018B45EE"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_3"
@@ -1006,6 +1032,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_4"
 				}
 				id: "6C4DA123838166A7"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_4"
@@ -1107,17 +1134,6 @@
 					}
 					type: "item"
 				}
-				{
-					id: "2959A3E2AC7AD0FA"
-					item: {
-						components: {
-							"ftbquests:missing_item": "industrialization_overdrive:terminal"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
 			]
 			shape: "hexagon"
 			size: 2.0d
@@ -1126,6 +1142,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_5"
 				}
 				id: "7878654529FB7236"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_5"

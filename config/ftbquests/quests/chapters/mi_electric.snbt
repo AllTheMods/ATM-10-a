@@ -9,6 +9,7 @@
 	id: "5C4F10E65D86ED0E"
 	images: [{
 		height: 5.5d
+		id: "233F9484623082B4"
 		image: "atm:textures/questpics/modernindustrialization/ebf.png"
 		rotation: 0.0d
 		width: 4.5d

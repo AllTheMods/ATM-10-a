@@ -9,9 +9,9 @@
 	id: "4EAAE0CEB26378A6"
 	images: [
 		{
-			click: "https://m.youtube.com/watch?v=phsjFbUs7gw"
+			click_action: "open_uri:https://m.youtube.com/watch?v=phsjFbUs7gw"
 			height: 1.0d
-			hover: ["Pilpoh's Time Crystal Automation Tutorial"]
+			id: "05A71C0D9576E258"
 			image: "actuallyadditions:item/youtube"
 			rotation: 0.0d
 			width: 1.0d
@@ -20,6 +20,7 @@
 		}
 		{
 			height: 0.25d
+			id: "5C5E4C83769D00A9"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.25d
@@ -28,6 +29,7 @@
 		}
 		{
 			height: 0.25d
+			id: "659B3C7FD83C4758"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.25d
@@ -3086,6 +3088,7 @@
 						id: "justdirethings:time_crystal_budding_block"
 					}
 					id: "0FB06A55F5FE6F26"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "justdirethings:time_crystal_budding_block"

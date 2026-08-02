@@ -13,8 +13,6 @@
 	quest.199932BF623A6785.quest_desc: ["El Guardián Olvidado es el Jefe del Undergarden. \\n\\nDescansa en la Estructura de la Catacumba."]
 	quest.199932BF623A6785.title: "Matar al Guardián Olvidado"
 	quest.1F18B64C84C8809D.title: "&l&9Recompensa del Overworld:&r&e Arañas"
-	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers nos da muchas variantes diferentes de Creepers para diferentes Biomas. \\n\\n¡Cada uno tiene diferentes drops e incluso algunos son amigables! \\n\\nTodos tienen miedo de los gatos sin embargo..."]
-	quest.1F31EBF49079F9D3.title: "Overhauled Creepers"
 	quest.2B05A29C62676EB2.title: "&l&9Recompensa del Overworld:&r&e Zombis"
 	quest.2BD077EFE77B8EBB.quest_desc: ["Los Zombis tienen diferentes variantes que aparecen en otros Biomas. \\n\\nHusks- aparecen en Desiertos. \\nAhogados- aparecen Bajo el Agua. \\nGélidos- aparecen en Biomas Fríos. \\n\\nMatorrales- aparecen en Junglas."]
 	quest.2BD077EFE77B8EBB.title: "Variantes de Zombi"
@@ -29,8 +27,6 @@
 	quest.42822B1E8A53D051.title: "&l&9Recompensa del Overworld:&r&e Esqueletos"
 	quest.56DA46DC82F6665D.quest_desc: ["La Quimera Wilden es un Jefe añadido por Ars Nouveau y es necesario para progresar a través de él. \\n\\n¡Necesita ser invocado a través de un ritual y luego combatido!"]
 	quest.56DA46DC82F6665D.title: "Matar a la Quimera Wilden"
-	quest.570223A03231DF8C.quest_desc: ["¡Overhauled Endermen es un Mod similar a Overhauled Creepers! ¡Solo que con Endermen, por supuesto! \\n\\n¡Encontrarás todos estos Endermen en diferentes Biomas y cada uno es único a su manera! ¡Algunos tienen diferentes ataques, algunos sueltan diferentes Perlas, y todos se ven diferentes!"]
-	quest.570223A03231DF8C.title: "Endermen Revisados"
 	quest.5AC497F76A086A5C.title: "&l&9Recompensa del Overworld:&r&e Brujas"
 	quest.6141DE779232C8AA.title: "&l&cRecompensa del Nether:&r&e Blazes"
 	quest.6827836C8E675A94.quest_desc: ["¡Los Esqueletos tienen diferentes variantes, al igual que los Zombis! \\n\\nErrantes: aparecen en Biomas Fríos. \\nAtascados: aparecen en Pantanos y Cámaras de Prueba. \\nOscuros: aparecen bajo el agua en Arrecifes de Coral. \\nVerdes: aparecen en Junglas."]

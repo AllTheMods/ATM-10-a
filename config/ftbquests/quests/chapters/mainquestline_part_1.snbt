@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "0BB323DF88DE3BA5"
 			image: "atm:textures/questpics/gettingstarted/titleimage1.png"
 			order: -1
 			rotation: 0.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 0.01d
+			id: "10FFA715A3913CE8"
 			image: "ftbquests:textures/shapes/square/outline.png"
 			rotation: 0.0d
 			width: 15.4d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 4.0d
+			id: "62BAF8987CF0D89E"
 			image: "atm:textures/questpics/gettingstarted/sniffer3.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0F09787FC1FEE2CB"
 			image: "minecraft:block/torchflower"
 			rotation: 0.0d
 			width: 1.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0DC2219FDD42BC33"
 			image: "minecraft:block/torchflower"
 			rotation: 0.0d
 			width: 1.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 0.5d
+			id: "7DF31A9A29629992"
 			image: "alltheores:item/iron_dust"
 			rotation: 0.0d
 			width: 0.5d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 0.5d
+			id: "18CFDDCA24424160"
 			image: "alltheores:item/iron_dust"
 			rotation: 0.0d
 			width: 0.5d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 5.0d
+			id: "6EDC5E913C10F8A6"
 			image: "atm:textures/questpics/gettingstarted/wither2.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 5.0d
+			id: "2E0C1C786BEA970F"
 			image: "atm:textures/questpics/gettingstarted/enderdragon.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 5.0d
+			id: "0D4617F65DBACEC6"
 			image: "atm:textures/questpics/gettingstarted/warden_roar.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51B7F683FECF1882"
 			image: "minecraft:block/torchflower"
 			rotation: 0.0d
 			width: 1.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4BE048953B5D2A14"
 			image: "ironfurnaces:block/iron_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0061D730B6149B6E"
 			image: "generatorgalore:block/copper_generator_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 0.8d
+			id: "34C3D6F30C380C1C"
 			image: "minecraft:block/furnace_front_on"
 			rotation: 0.0d
 			width: 0.8d

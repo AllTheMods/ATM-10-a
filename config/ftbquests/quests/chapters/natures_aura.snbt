@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "25DD6DEB90AF5704"
 			image: "naturesaura:item/gold_leaf"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "72E6AD9E3E0B4F66"
 			image: "naturesaura:item/vacuum_bottle"
 			rotation: 0.0d
 			width: 2.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "66C83F2ADE273C61"
 			image: "atm:textures/questpics/natures_aura/natures_aura_title.png"
 			rotation: 0.0d
 			width: 12.1d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2BDF3772525EF6C4"
 			image: "naturesaura:item/eye_improved"
 			rotation: 0.0d
 			width: 1.5d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.75d
+			id: "1628780A92783F51"
 			image: "refurbished_furniture:textures/particle/super_bounce_0.png"
 			rotation: 0.0d
 			width: 1.75d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 5.0d
+			id: "118ADCED433E7A06"
 			image: "atm:textures/questpics/natures_aura/natural_altar.png"
 			rotation: 0.0d
 			width: 9.859550561797754d

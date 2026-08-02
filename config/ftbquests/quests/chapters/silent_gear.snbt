@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "5BD265C2EEE0C620"
 			image: "silentgear:item/azure_repair_kit"
 			rotation: 0.0d
 			width: 1.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 5.0d
+			id: "57FE430BA714EA8B"
 			image: "atm:textures/questpics/silentgear/starcharger.png"
 			rotation: 0.0d
 			width: 10.0d

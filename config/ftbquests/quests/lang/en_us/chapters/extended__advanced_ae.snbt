@@ -1,4 +1,8 @@
 {
+	image.0B2D5CD977F74A21.title: "Quantum Boots"
+	image.149A176D07AB65FF.title: "Quantum Chestplate"
+	image.23E849CECDB50D7B.title: "Quantum Leggings"
+	image.2E4DE5F916E2E67C.title: "Quantum Helmet"
 	quest.03164C4C7813CE2B.quest_desc: [
 		"The Quantum Computer is a powerful Crafting CPU. It is capable of running unlimited crafting jobs, and sharing co-processing threads among them, so long as it has storage available for it to use."
 		""
