@@ -51,18 +51,6 @@ ServerEvents.recipes(allthemods => {
         }
     ]
 
-    if (Platform.isLoaded("eternal_starlight")) {
-        runic_controllers.push({
-            id: 'modern_industrialization:star_altar',
-            aureal: 200000,
-            blood: 1000000,
-            souls: 10000,
-            xp: 75000,
-            main: 'eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]',
-            secondary: 'alltheores:enderium_gear'
-        })
-    }
-
     for (let item of runic_controllers) {
         allthemods.recipes.modern_industrialization.auto_forge(512, 300)
             .fluidIn(`${item.aureal}x kubejs:liquid_aureal`)
@@ -373,7 +361,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             },
             forge_tier: 5,
             inputs: [
-                { amount: 1, ingredient: Ingredient.of(Platform.isLoaded("eternal_starlight") ? 'eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]' : 'ftbquests:missing_item[ftbquests:missing_item="eternal_starlight:loot_bag"]').toJson() },
+                { amount: 1, ingredient: Ingredient.of('occultism:eldritch_chalice').toJson() },
                 { amount: 1, ingredient: Ingredient.of('enderio:z_logic_controller').toJson() },
                 { amount: 1, ingredient: Ingredient.of('alltheores:enderium_gear').toJson() },
                 { amount: 1, ingredient: Ingredient.of('forbidden_arcanus:mundabitur_dust').toJson() },
