@@ -54,57 +54,6 @@ ServerEvents.recipes(allthemods => {
         ]
     })
 
-    // Energy processor
-    allthemods.custom({
-        "type": "modern_industrialization:packer",
-        "duration": 200,
-        "eu": 8,
-        "item_inputs": [
-            {
-                "amount": 1,
-                "item": "appflux:charged_redstone"
-            },
-            {
-                "amount": 1,
-                "item": "appflux:energy_processor_press",
-                "probability": 0.0
-            }
-        ],
-        "item_outputs": [
-            {
-                "amount": 1,
-                "item": "appflux:printed_energy_processor"
-            }
-        ]
-    })
-    allthemods.custom({
-        "type": "modern_industrialization:assembler",
-        "duration": 200,
-        "eu": 16,
-        "fluid_inputs": [
-            {
-                "amount": 90,
-                "fluid": "modern_industrialization:molten_redstone"
-            }
-        ],
-        "item_inputs": [
-            {
-                "amount": 1,
-                "item": "appflux:printed_energy_processor"
-            },
-            {
-                "amount": 1,
-                "item": "ae2:printed_silicon"
-            }
-        ],
-        "item_outputs": [
-            {
-                "amount": 1,
-                "item": "appflux:energy_processor"
-            }
-        ]
-    })
-
     // Concurrent processor
     allthemods.custom({
         "type": "modern_industrialization:packer",

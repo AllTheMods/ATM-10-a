@@ -173,7 +173,7 @@ ServerEvents.recipes(allthemods => {
 
     extractor({
         output: { item:"fluxnetworks:flux_dust", count: 1 },
-        target: { type: "xycraft_core:block_rule", block: "appflux:charged_redstone_block" },
+        target: { type: "xycraft_core:block_rule", block: "minecraft:crying_obsidian" },
         adjacent: [
             { type: "xycraft_core:block_rule", block: "minecraft:obsidian" },
             { type: "xycraft_core:block_rule", block: "minecraft:obsidian" },
@@ -186,7 +186,7 @@ ServerEvents.recipes(allthemods => {
 
     extractor({
         output: { item:"fluxnetworks:flux_dust", count: 1 }, id: "bedrock",
-        target: { type: "xycraft_core:block_rule", block: "appflux:charged_redstone_block" },
+        target: { type: "xycraft_core:block_rule", block: "minecraft:crying_obsidian" },
         adjacent: [
             { type: "xycraft_core:block_rule", block: "minecraft:obsidian" },
             { type: "xycraft_core:block_rule", block: "minecraft:obsidian" },

@@ -107,7 +107,6 @@ ServerEvents.recipes(allthemods => {
     universalPress('minecraft:diamond', 'ae2:printed_engineering_processor', 'printed_engineering_processor')
     universalPress('minecraft:gold_ingot', 'ae2:printed_logic_processor', 'printed_logic_processor')
     universalPress('megacells:sky_steel_ingot', 'megacells:printed_accumulation_processor', 'printed_accumulation_processor')
-    universalPress('appflux:charged_redstone', 'appflux:printed_energy_processor', 'printed_energy_processor')
     universalPress('extendedae:entro_crystal', 'extendedae:concurrent_processor_print', 'concurrent_processor_print')
     universalPress('minecraft:iron_block', 'kubejs:universal_press', 'universal_press_duplicate')
     universalPress('advanced_ae:quantum_alloy', 'advanced_ae:printed_quantum_processor', 'printed_quantum_processor')

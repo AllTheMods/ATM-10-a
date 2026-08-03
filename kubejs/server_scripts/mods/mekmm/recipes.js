@@ -21,7 +21,6 @@ ServerEvents.recipes(allthemods => {
     allthemods.remove({id: /mekmm:.*rolling_mill.*/})
     allthemods.remove({type: 'mekmm:recycling'})
 
-    allthemods.remove({id: /mekmm:compat\/appflux.*/})
     allthemods.remove({id: /mekmm:compat\/advanced_ae.*/})
     allthemods.remove({id: /mekmm:compat\/ae2.*/})
     allthemods.remove({id: /mekmm:compat\/extendedae.*/})
