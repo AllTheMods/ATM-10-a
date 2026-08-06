@@ -424,8 +424,6 @@
 	quest.5A9B2246E33065A5.quest_desc: ["影响蜜蜂生产蜂蜜时你收到的蜂巢数量。共有 4 个等级：&a普通&r、&9中等&r、&d高&r、&c非常高&r。&c非常高&r是我们的目标。\\n\\n它存在于 KamikazBee 和 BeeBee 身上。BeeBee 可以在彼界中自然找到，是一种极其致命的蜜蜂。如果你不想冒险对付一只异常致命的蜜蜂，你也可以依靠 KamikazBee。\\n\\n要获得 KamikazBee，你需要一个蜂巢头盔。在佩戴头盔时被生物攻击（或用箭射自己）有 30% 的几率产生 KamikazBee。它非常快，会蜇攻击者（除非是你），所以最好快速捕捉它或使用捕捉器。"]
 	quest.5A9B2246E33065A5.quest_subtitle: "大型特性"
 	quest.5A9B2246E33065A5.title: "&a&l产量"
-	quest.5AE851B8074BC7E6.quest_subtitle: "发光蜜蜂 + 巧克力穴居蜜蜂"
-	quest.5AE851B8074BC7E6.title: "红石水晶蜜蜂"
 	quest.5B969BF6F00A84D8.quest_subtitle: "在离心机中将6个RuBee刷怪蛋离心成1个铬蜜蜂刷怪蛋"
 	quest.5B969BF6F00A84D8.title: "铬蜜蜂"
 	quest.5CC9CB0911954215.quest_desc: ["芦苇蜂巢可在任何主世界生物群系中工作，并会吸引石匠蜜蜂或芦苇蜜蜂。"]
