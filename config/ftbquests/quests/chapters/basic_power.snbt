@@ -879,6 +879,9 @@
 		{
 			dependencies: ["35CC898E0E49FE58"]
 			hide_until_deps_complete: true
+			icon: {
+				id: "xycraft_machines:extractor"
+			}
 			id: "1EECA19DF9CF6A0C"
 			optional: true
 			rewards: [
@@ -899,18 +902,11 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [
-				{
-					id: "122A80350E32318A"
-					item: { count: 1, id: "xycraft_machines:extractor" }
-					type: "item"
-				}
-				{
-					id: "0E8994B88ABB9271"
-					item: { count: 1, id: "appflux:charged_redstone_block" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "122A80350E32318A"
+				item: { count: 1, id: "xycraft_machines:extractor" }
+				type: "item"
+			}]
 			x: -4.5d
 			y: 2.0d
 		}

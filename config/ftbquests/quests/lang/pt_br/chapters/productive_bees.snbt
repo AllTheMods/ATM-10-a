@@ -474,8 +474,6 @@
 	quest.5A9B2246E33065A5.quest_desc: ["Afeta a quantidade de favos que você recebe sempre que uma abelha produz favos de mel. Existem 4 níveis disso: &aNormal&r, &9Média&r, &dAlta&r, &cMuito Alta&r. &cMuito Alta&r é o que estamos procurando.\\n\\nEla é encontrada na Abelha Kamikaz e na BeeBee. A BeeBee pode ser encontrada naturalmente no O Outro, e é uma abelha EXTREMAMENTE letal. Se você não quiser correr o risco de lidar com uma abelha excepcionalmente letal, também pode contar com as Abelhas Kamikaz.\\n\\nPara obter uma Abelha Kamikaz, você precisa de um Capacete de Ninho de Abelha. Seja atacado por mobs (ou se mate com uma flecha) enquanto usa o capacete para uma chance de 30% de uma Abelha Kamikaz aparecer. Ela é bem rápida e vai picar o agressor (a menos que seja você), então é melhor capturá-la rapidamente ou usar o Pegador."]
 	quest.5A9B2246E33065A5.quest_subtitle: "A grande!"
 	quest.5A9B2246E33065A5.title: "&a&lProdutividade"
-	quest.5AE851B8074BC7E6.quest_subtitle: "Luminoso + Mineradora de Chocolate"
-	quest.5AE851B8074BC7E6.title: "&fAbelha de Cristal de Redstone"
 	quest.5B969BF6F00A84D8.quest_subtitle: "Centrifugue 6 Ovos de Geração de Abelha Rubi em 1 Ovo de Geração de Abelha de Cromo"
 	quest.5B969BF6F00A84D8.title: "&fAbelha de Cromo"
 	quest.5CC9CB0911954215.quest_desc: ["Um &fNinho de &aCana&r funcionará em qualquer bioma do Mundo Superior e atrairá uma Abelha Pedreira ou uma Abelha de Junco."]
