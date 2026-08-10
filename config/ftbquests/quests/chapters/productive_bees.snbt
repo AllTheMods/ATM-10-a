@@ -1486,7 +1486,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -1532,8 +1532,8 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 18.0d
+			x: -9.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["6EFFF0DC80C1C8A3"]
@@ -2501,8 +2501,8 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 17.0d
+			x: -1.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -3546,29 +3546,6 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 19.0d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
-				id: "appflux:charged_redstone"
-			}
-			id: "5AE851B8074BC7E6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4B29EF6C34B1C546"
-				table_id: 6438168168113377309L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "733ED19C9DA65FA9"
-				item: { components: { "productivebees:bee_type": "productivebees:redstone_crystal" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: -1.0d
 			y: 19.0d
 		}
 		{
@@ -5294,7 +5271,7 @@
 				type: "item"
 			}]
 			x: -9.5d
-			y: 22.0d
+			y: 22.5d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
@@ -5477,7 +5454,7 @@
 				type: "item"
 			}]
 			x: -9.5d
-			y: 19.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
