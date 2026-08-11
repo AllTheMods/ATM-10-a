@@ -1,3 +1,4 @@
 {
-  "org.embeddedt.embeddium.impl.gui.EmbeddiumVideoOptionsScreen": false
+  "org.embeddedt.embeddium.impl.gui.EmbeddiumVideoOptionsScreen": false,
+  "title_screen": false
 }
