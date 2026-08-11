@@ -3,6 +3,7 @@
     "minecraft",
     "alltheores",
     "allthemodium",
+	"allthecompressed",
     "kubejs",
     "mekanism",
     "modern_industrialization",
@@ -13,7 +14,8 @@
     "ae2",
     "enderio",
     "utilitarian",
-    "actuallyadditions"
+    "actuallyadditions",
+	"excessive_utilities"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -46,7 +48,8 @@
     "c:silicon",
     "c:plastics",
     "atm10:tiny_coals",
-    "atm10:tiny_charcoals"
+    "atm10:tiny_charcoals",
+	"allthemods:compressed_{compressedmaterial}_{number}x"
   ],
   "ignored_tags": [],
   "ignored_items": [
