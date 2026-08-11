@@ -17,7 +17,35 @@ ServerEvents.recipes(allthemods => {
             C: 'minecraft:sculk_shrieker',
             D: 'justdirethings:upgrade_blank'
           })
-
+	
+	allthemods.custom({
+		  "type": "excessive_utilities:shaped_unstable",
+		  "pattern": {
+			"key": {
+			  "I": {
+				"item": "excessive_utilities:unstable_ingot"
+			  },
+			  "L": {
+				"item": "minecraft:phantom_membrane"
+			  },
+			  "F": {
+				"tag": "c:feathers"
+			  },
+			  "B": {
+				"item": "justdirethings:upgrade_blank"
+			  }
+			},
+			"pattern": [
+			  "LIL",
+			  "FBF",
+			  "LIL"
+			]
+		  },
+		  "result": {
+			"count": 1,
+			"id": "justdirethings:upgrade_flight"
+		  }
+	}).id("justdirethings:upgrade_flight")
 
 })
 

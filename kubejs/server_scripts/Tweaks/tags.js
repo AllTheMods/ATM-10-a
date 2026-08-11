@@ -516,7 +516,14 @@ ServerEvents.tags('worldgen/biome', allthemods => {
   allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
 });
 
-
+ServerEvents.tags('potion', allthemods => {
+	// Blacklist Flying Potion from Charms
+	allthemods.add('apotheosis:potion_charm_blacklist', [
+		'apothic_attributes:flying',
+		'apothic_attributes:long_flying',
+		'apothic_attributes:extra_long_flying'
+	])
+})
 // cataclysm:ghost_sickness
 
 
