@@ -42,7 +42,7 @@ ServerEvents.recipes(allthemods => {
     A: 'productivebees:configurable_comb[productivebees:bee_type="productivebees:withered"]',
     B: 'industrialforegoing:wither_builder',
     C: 'deeperdarker:heart_of_the_deep',
-    D: 'generatorgalore:netherstar_generator_64x',
+    D: 'excessive_utilities:rainbow_generator',
     F: 'mysticalagriculture:witherproof_bricks',
     G: 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]',
     H: 'ars_nouveau:glyph_wither',
@@ -51,14 +51,14 @@ ServerEvents.recipes(allthemods => {
 
   // Philosopher's Fuel
   allthemods.shaped('allthetweaks:philosophers_fuel', ['ABC', 'DEF', 'GHI'], {
-  A: 'generatorgalore:ender_generator',
+  A: 'excessive_utilities:ender_quarry_fortune_three_upgrade',
 	B: 'ironfurnaces:rainbow_coal'  ,
 	C: 'bigreactors:insanite_block' ,
 	D: Ingredient.of(['modern_industrialization:uranium_fuel_rod_quad','create:blaze_burner']),
 	E: 'mysticalagradditions:insanium_coal_block',
   F: 'forbidden_arcanus:smelter_prism',
 	G: 'mysticalagriculture:awakened_supremium_ingot_block',
-	H: 'generatorgalore:magmatic_generator_64x',
+	H: 'excessive_utilities:heated_redstone_generator',
   I: 'evilcraft:dark_tank[cyclopscore:fluid_content={amount:16000,id:"justdirethings:refined_t4_fluid_source"}]'
   }).id('allthemods:allthetweaks/philosophers_fuel')
 
