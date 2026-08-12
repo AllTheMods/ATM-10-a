@@ -1,0 +1,451 @@
+[general]
+	#The radius in blocks that a Chandelier prevents monster spawns.
+	# Default: 16
+	# Range: > 1
+	chandelierRadius = 16
+	#The radius in blocks that a Magnum Torch prevents monster spawns.
+	# Default: 64
+	# Range: > 1
+	magnumTorchRadius = 64
+	#The radius in blocks that a Sound Muffler prevents Sculk Sensors, Shriekers, and Wardens from hearing vibrations.
+	# Default: 8.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	soundMufflerRadius = 8.0
+	#The speed in blocks per tick that Conveyor Belts will move entities.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.7976931348623157E308
+	conveyorBeltSpeed = 0.1
+	#Whether Ender Lilies should teleport away when they get wet.
+	funnyEnderLilyTeleporting = true
+	#The number of ticks that the Ender Porcupine will wait at each position before moving to the next one
+	# Default: 20
+	# Range: > 1
+	enderPorcupineMarchTime = 20
+	#How many chunks are between each player's "home location" in The Last Millennium
+	# Default: 1024
+	# Range: 2 ~ 100
+	tlmChunkDistance = 100
+	#How much to multiply incoming fire damage when you have the Oily potion applied
+	# Default: 1.2
+	# Range: 0.0 ~ 1.7976931348623157E308
+	oilyFireDamageFactor = 1.2
+
+	[general.healing_axe]
+		#The chance per tick that the Healing Axe will feed you a bit.
+		# Default: 0.01
+		# Range: 0.0 ~ 1.0
+		healingAxeChancePerTick = 0.01
+		#The amount of hunger points that the Healing Axe will restore when it feeds you.
+		# Default: 1
+		# Range: > 0
+		healingAxeFoodAmount = 1
+		#The amount of saturation points that the Healing Axe will restore when it feeds you.
+		# Default: 0.2
+		# Range: 0.0 ~ 1.7976931348623157E308
+		healingAxeSaturationAmount = 0.2
+		#The amount of health that the Healing Axe will transfer between you and the entity you hit.
+		# Default: 4.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		healingAxeHealthTransferAmount = 4.0
+
+	[general.filing_cabinets]
+		#The maximum number of items that a Basic Filing Cabinet can hold.
+		# Default: 270
+		# Range: > 1
+		basicFilingCabinetCapacity = 270
+		#The maximum number of items that an Advanced Filing Cabinet can hold.
+		# Default: 540
+		# Range: > 1
+		advancedFilingCabinetCapacity = 540
+
+	[general.flat_transfer_nodes]
+		#The number of items per tick that Flat Item Transfer Nodes will transfer.
+		# Default: 1
+		# Range: > 1
+		flatItemTransferNodeSpeed = 1
+		#The amount of fluid in millibuckets per tick that Flat Fluid Transfer Nodes will transfer.
+		# Default: 50
+		# Range: > 1
+		flatFluidTransferNodeSpeed = 50
+
+	[general.peaceful_table]
+		#Whether the Peaceful Table should only work when the difficulty is set to Peaceful.
+		peacefulTableOnlyInPeaceful = true
+		#The chance per tick that the Peaceful Table will try to generate a drop.
+		# Default: 0.0016666666666666668
+		# Range: 0.0 ~ 1.0
+		peacefulTableChancePerTick = 0.0016666666666666668
+
+	[general.cursed_earth]
+		#Should Cursed Earth burn when exposed to sunlight?
+		cursedEarthBurnInDay = true
+		#The maximum number of mobs around a Cursed Earth before it stops trying to spawn more.
+		# Default: 10
+		# Range: > 1
+		cursedEarthMaxSpawnedMobs = 10
+		#The radius in blocks around a Cursed Earth block that it checks for nearby mobs before trying to spawn more.
+		# Default: 8.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		cursedEarthCheckRadius = 8.0
+		#How many times more damage mobs spawned by Cursed Earth inflict.
+		# Default: 1.5
+		# Range: -Infinity ~ Infinity
+		cursedEarthBonusStrength = 1.5
+		#How many times faster mobs spawned by Cursed Earth move.
+		# Default: 0.2
+		# Range: -Infinity ~ Infinity
+		cursedEarthBonusSpeed = 0.2
+
+	[general.inversion_ritual]
+		#The number of ticks between each time the Ritual tries to spawn a new wave of monsters.
+		# Default: 20
+		# Range: > 1
+		inversionRitualInterval = 20
+		#How many monsters are spawned in each wave.
+		# Default: 1
+		# Range: > 1
+		inversionRitualSpawnsPer = 1
+		#The maximum number of monsters the Ritual can have spawned at once.
+		# Default: 100
+		# Range: > 1
+		inversionRitualMaxSpawnedMonsters = 100
+		#How many monsters must be killed to complete the Ritual.
+		# Default: 100
+		# Range: > 1
+		inversionRitualKillsPer = 100
+
+	[general.the_depths]
+		#How many points of damage you get from being in darkness in the Deep Dark.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		deepDarkDamageAmount = 1.0
+		#How many ticks you have to be in darkness in the Deep Dark before getting hurt.
+		# Default: 100
+		# Range: > 0
+		deepDarkDamageInterval = 100
+		#What light level provides safety in the Deep Dark.
+		# Default: 4
+		# Range: 0 ~ 15
+		deepDarkSafeLightLevel = 4
+
+	[general.heating_coil]
+		#The number of ticks a Heating Coil will burn in a Furnace.
+		# Default: 20
+		# Range: > 1
+		heatingCoilBurnTime = 20
+		#How much FE will be spent when a Heating Coil is used as Furnace fuel.
+		# Default: 50
+		# Range: > 1
+		heatingCoilBurnCost = 50
+		#The maximum amount of FE a Heating Coil can store.
+		# Default: 1500000
+		# Range: > 1
+		heatingCoilMaxEnergy = 1500000
+
+	[general.drums]
+		#The fluid capacity of Stone Drums in millibuckets.
+		# Default: 16000
+		# Range: > 1
+		stoneDrumCapacity = 16000
+		#The fluid capacity of Iron Drums in millibuckets.
+		# Default: 256000
+		# Range: > 1
+		ironDrumCapacity = 256000
+		#The fluid capacity of Reinforced Large Drums in millibuckets.
+		# Default: 4096000
+		# Range: > 1
+		reinforcedLargeDrumCapacity = 4096000
+		#The fluid capacity of Demonically Gargantuan Drums in millibuckets.
+		# Default: 65536000
+		# Range: > 1
+		demonicallyGargantuanDrumCapacity = 65536000
+		#The fluid capacity of Bedrock Drums in millibuckets.
+		# Default: 1048576000
+		# Range: > 1
+		bedrockDrumCapacity = 1048576000
+
+	[general.boomerang]
+		#The radius in blocks around the Boomerang that it will pick up items.
+		# Default: 4.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		boomerangItemPickupRadius = 4.0
+		#The radius in blocks around the Boomerang that it will break plants if it has the Boomereaperang enchantment.
+		# Default: 4.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		boomereaperangRadius = 4.0
+
+	[general.soul_fragments]
+		#The amount of health that each Soul Fragment is worth.
+		# Default: 2.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		healthPerSoulFragment = 2.0
+		#What should happen to your Soul Debt/Surplus when you die.
+		#KEEP: You keep all of your Soul Debt/Surplus
+		#RESET: You reset to having 0 Soul Debt/Surplus
+		#REMOVE_NEGATIVE: You keep Soul Surplus, but reset Soul Debt to 0
+		#Allowed Values: KEEP, RESET, REMOVE_NEGATIVE
+		soulFragmentResetOnDeath = "KEEP"
+
+[machines]
+	#The radius that the QED looks for Ender-Flux Crystals
+	# Default: 4
+	# Range: > 1
+	qedRadius = 4
+
+	[machines.fe_generators]
+		#How many times longer should a furnace fuel burn in the Furnace Generator compared to a regular furnace.
+		# Default: 2.5
+		# Range: 0.0 ~ 1.7976931348623157E308
+		furnaceGeneratorBurnTimeMultiplier = 2.5
+		#How much FE per tick the Furnace Generator produces when active.
+		# Default: 40
+		# Range: > 1
+		furnaceGeneratorFePerTick = 40
+		#How many times longer should a furnace fuel burn in the Survivalist Generator compared to a regular furnace.
+		# Default: 100.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		survivalistGeneratorBurnTimeMultiplier = 100.0
+		#How much FE per tick the Survivalist Generator produces when active.
+		# Default: 5
+		# Range: > 1
+		survivalistGeneratorFePerTick = 5
+		#How much FE the Overclocked Generator burns for each tick tha the item would have burned in a Furnace.
+		# Default: 40
+		# Range: > 1
+		overclockedGeneratorFePerBurnTick = 40
+		#The radius in blocks that the Nether Star Generator applies the Withering II effect while active.
+		# Default: 10.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		netherStarGeneratorEffectRadius = 10.0
+		#The radius in blocks that the Death Generator applies the Doom effect while active.
+		# Default: 3.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		deathGeneratorEffectRadius = 3.0
+		#How much FE per tick the Rainbow Generator produces when active.
+		# Default: 25000000
+		# Range: > 1
+		rainbowGeneratorFePerTick = 25000000
+
+	[machines.furnace]
+		#The amount of FE the Furnace will burn per tick while active.
+		# Default: 20
+		# Range: > 0
+		furnaceFePerTick = 20
+		#The number of ticks it takes for the Furnace to complete a recipe.
+		# Default: 100
+		# Range: > 1
+		furnaceTicksPerRecipe = 100
+
+	[machines.wireless_fe_transmitter]
+		#The maximum distance in blocks that Wireless FE Transmitters will connect to blocks.
+		# Default: 4
+		# Range: > 1
+		wirelessFeTransmitterRange = 4
+		#The amount of FE per tick that Wireless FE Transmitters will transmit.
+		# Default: 80
+		# Range: > 1
+		wirelessFeTransmitterRate = 480
+
+	[machines.ender_quarry]
+		#The maximum number of fence blocks that can be used to create the perimeter for an Ender Quarry.
+		# Default: 100000
+		# Range: > 4
+		enderQuarryFencePerimeterLimit = 100000
+		#The maximum distance in blocks that the Ender Quarry will search for its markers.
+		# Default: 1000
+		# Range: > 1
+		enderQuarryMarkerSearchDistance = 1000
+		#The amount of FE the Ender Quarry will use per block mined.
+		# Default: 10.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		enderQuarryFePerBlock = 10.0
+		#The maximum number of blocks the Ender Quarry will mine per tick.
+		# Default: 0.5
+		# Range: 0.0 ~ 1.7976931348623157E308
+		enderQuarryBlocksPerTick = 0.5
+
+		[machines.ender_quarry.eq_upgrades]
+			#How many times faster the Ender Quarry mines with a Speed I Upgrade.
+			# Default: 1.5
+			# Range: 0.0 ~ 1.7976931348623157E308
+			eqSpeedOneSpeedMultiplier = 1.5
+			#How many times faster the Ender Quarry mines with a Speed II Upgrade.
+			# Default: 2.0
+			# Range: 0.0 ~ 1.7976931348623157E308
+			eqSpeedTwoSpeedMultiplier = 2.0
+			#How many times faster the Ender Quarry mines with a Speed III Upgrade.
+			# Default: 3.0
+			# Range: 0.0 ~ 1.7976931348623157E308
+			eqSpeedThreeSpeedMultiplier = 3.0
+
+			[machines.ender_quarry.eq_upgrades.eq_upgrade_costs]
+				#How many times more FE the Ender Quarry will drain when it has a Silk Touch Upgrade.
+				# Default: 1.5
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqSilkTouchCostMultiplier = 1.5
+				#How many times more FE the Ender Quarry will drain when it has a Fortune I Upgrade.
+				# Default: 5.0
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqFortuneOneCostMultiplier = 5.0
+				#How many times more FE the Ender Quarry will drain when it has a Fortune II Upgrade.
+				# Default: 20.0
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqFortuneTwoCostMultiplier = 20.0
+				#How many times more FE the Ender Quarry will drain when it has a Fortune III Upgrade.
+				# Default: 80.0
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqFortuneThreeCostMultiplier = 80.0
+				#How many times more FE the Ender Quarry will drain when it has a Speed I Upgrade.
+				# Default: 1.0
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqSpeedOneCostMultiplier = 1.0
+				#How many times more FE the Ender Quarry will drain when it has a Speed II Upgrade.
+				# Default: 1.5
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqSpeedTwoCostMultiplier = 1.5
+				#How many times more FE the Ender Quarry will drain when it has a Speed III Upgrade.
+				# Default: 2.0
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqSpeedThreeCostMultiplier = 2.0
+				#How many times more FE the Ender Quarry will drain when it has a World Hole Upgrade.
+				# Default: 1.0
+				# Range: 0.0 ~ 1.7976931348623157E308
+				eqWorldHoleCostMultiplier = 1.0
+
+	[machines.quantum_quarry]
+		#The amount of FE the Quantum Quarry will use per block mined.
+		# Default: 20000.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		quantumQuarryFePerBlock = 20000.0
+		#The maximum number of blocks the Quantum Quarry will mine per tick.
+		# Default: 2.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		quantumQuarryBlocksPerTick = 2.0
+
+	[grid_power.gp_generation]
+		#The amount of GP the Manual Mill generates per player cranking it.
+		# Default: 15.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		manualMillGenerationPerPlayer = 15.0
+		#The amount of GP the Solar Panel generates when it can see the sun.
+		# Default: 1.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		solarPanelGeneration = 1.0
+		#The amount of GP the Lunar Panel generates when it can see the moon.
+		# Default: 1.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		lunarPanelGeneration = 1.0
+		#The amount of GP the Lava Mill generates when Lava is adjacent.
+		# Default: 2.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		lavaMillGeneration = 2.0
+		#The amount of GP the Fire Mill generates when Fire is below it.
+		# Default: 4.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		fireMillGeneration = 4.0
+		#The amount of GP the Water Mill generates per side with flowing water adjacent.
+		# Default: 4.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		waterMillGenerationPerSide = 4.0
+		#The amount of GP the Dragon Egg Mill generates when a Dragon Egg is on top of it.
+		# Default: 500.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		dragonEggMillGeneration = 500.0
+		#The amount of GP the Creative Mill generates.
+		# Default: 10000.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		creativeMillGeneration = 10000.0
+
+	[grid_power.gp_usage]
+		#The amount of GP to be occupied while a piece of Red Coal is burning in a Furnace.
+		# Default: 4.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		redCoalGpCost = 4.0
+		#How many times longer should a piece of Red Coal burn in a Furnace compared to regular coal.
+		# Default: 8.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		redCoalBurnTimeMultiplier = 8.0
+		#The multiplier applied to the GP cost of Speed Upgrades.
+		#Note that you can also change the GP cost formula directly using KubeJS.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		speedUpgradeGpCostMultiplier = 1.0
+		#The amount of GP to be occupied while using a Chicken Wing Ring.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		chickenWingRingGpCost = 1.0
+		#The amount of GP to be occupied while using a Flying Squid Ring.
+		# Default: 16.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		flyingSquidRingGpCost = 16.0
+		#The amount of GP to be occupied while flying with an Angel Ring.
+		# Default: 64.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		angelRingGpCost = 64.0
+		#The amount of GP to be occupied per connection while using a Wireless FE Transmitter.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		wirelessFeTransmitterGpCostPerConnection = 1.0
+
+[watering_can]
+	#Whether the Watering Can should be broken when used by a fake player.
+	isWateringCanBreakable = true
+	#The radius in blocks around the player that the Watering Can will effect.
+	# Default: 3
+	# Range: > 1
+	wateringCanRadius = 3
+	#The chance that each block in the radius will get ticked when the Watering Can is used.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	wateringCanTickChance = 0.3
+	#The amount of water in millibuckets that the Watering Can will use per tick.
+	#Setting this to 0 will make it not require water at all.
+	# Default: 10
+	# Range: > 0
+	wateringCanWaterUsagePerTick = 10
+	#The radius in blocks around the player that the Reinforced Watering Can will effect.
+	# Default: 5
+	# Range: > 1
+	reinforcedWateringCanRadius = 5
+	#The chance that each block in the radius will get ticked when the Reinforced Watering Can is used.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	reinforcedWateringCanTickChance = 0.5
+	#The amount of water in millibuckets that the Reinforced Watering Can will use per tick.
+	#Setting this to 0 will make it not require water at all.
+	# Default: 10
+	# Range: > 0
+	reinforcedWateringCanWaterUsagePerTick = 0
+
+	#GP costs are defined elsewhere!
+	[rings.chicken_wing_ring]
+		#The max fall speed when using a Chicken Wing Ring.
+		# Default: 0.1
+		# Range: 0.0 ~ 1.7976931348623157E308
+		chickenWingRingFallSpeed = 0.1
+		#The number of ticks that the Chicken Wing Ring will last.
+		# Default: 200
+		# Range: > 1
+		chickenWingRingDurationTicks = 200
+		#The number of ticks that the Chicken Wing Ring will take to fully recharge.
+		# Default: 100
+		# Range: > 1
+		chickenWingRingRechargeTicks = 100
+
+	[rings.flying_squid_ring]
+		#How many times stronger than your gravity the upward thrust of the Ring of the Flying Squid is.
+		# Default: 1.1
+		# Range: 0.0 ~ 1.7976931348623157E308
+		flyingSquidRingThrustMultiplier = 1.1
+		#The maximum upward speed in blocks per tick that the Ring of the Flying Squid will push you.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		flyingSquidRingMaxUpwardSpeed = 1.0
+		#The number of ticks that the Ring of the Flying Squid will last.
+		# Default: 300
+		# Range: > 1
+		flyingSquidRingDurationTicks = 300
+		#The number of ticks that the Ring of the Flying Squid will take to fully recharge.
+		# Default: 200
+		# Range: > 1
+		flyingSquidRingRechargeTicks = 200
