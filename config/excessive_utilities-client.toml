@@ -1,0 +1,42 @@
+#The density of particles emitted by certain generators
+# Default: 1.0
+# Range: 0.0 ~ 1.7976931348623157E308
+generatorParticleDensity = 1.0
+#The radius in blocks that sound mufflers will affect
+# Default: 8.0
+# Range: 0.0 ~ 1.7976931348623157E308
+soundMufflerRadius = 8.0
+#Whether to show the tooltip about Athena compatibility on items that are compatible with Athena
+athenaTooltip = true
+#Whether or not Vomit particles should be disabled
+disableVomit = false
+
+[rainbow_generator]
+	#The speed of the Rainbow Generator's animation. Higher is faster.
+	# Default: 0.005
+	# Range: 0.0 ~ 1.7976931348623157E308
+	rainbowGeneratorTimeFactor = 0.005
+	#The width of the Rainbow Generator's rays
+	# Default: 0.4
+	# Range: 0.0 ~ 1.7976931348623157E308
+	rainbowGeneratorRayWidth = 0.4
+	#The length of the Rainbow Generator's rays
+	# Default: 2.5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	rainbowGeneratorRayLength = 2.5
+
+[ender_porcupine]
+	#The color of the Ender Porcupine's search volume, in the integer version of a hexadecimal number of format 0xAARRGGBB.
+	enderPorcupineSearchVolumeColor = 1728053247
+	#The color of the Ender Porcupine's current target highlight, in the integer version of a hexadecimal number of format 0xAARRGGBB.
+	enderPorcupineCurrentTargetColor = -1
+
+[tesseract]
+	#How fast the Tesseract's animation is.
+	# Default: 0.025
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tesseractSpeed = 0.025
+	#The color of the Tesseract's inner cube.
+	tesseractInnerColor = -30720
+	#The color of the Tesseract's outer cube.
+	tesseractOuterColor = -16742145
