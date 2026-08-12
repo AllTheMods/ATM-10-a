@@ -13,7 +13,6 @@ const runicYEET = [
 ]
 
 RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
-    allthemods.remove('quarryplus:adv_quarry')
     allthemods.remove('allthetweaks:greg_star')
     allthemods.remove('allthetweaks:greg_star_block')
 
@@ -35,6 +34,7 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
     let $DyeColor = Java.loadClass("net.minecraft.world.item.DyeColor")
     for (let color of $DyeColor.values()) {
         allthemods.remove(`/refinedstorage:${color}_.*/`)
+        allthemods.remove(`/cabletiers:${color}_.*/`)
     }
 
     allthemods.remove('mekmm:scrap')
@@ -100,7 +100,6 @@ RecipeViewerEvents.removeEntries('item', allthemods => {
         "modern_industrialization:creative_tank",
         "modern_industrialization:creative_storage_unit",
         "pneumaticcraft:creative_upgrade",
-        "quarryplus:creative_generator",
         "rftoolspower:dimensionalcell_creative",
         "xycraft_machines:item_selector",
         "xycraft_machines:fluid_selector",
