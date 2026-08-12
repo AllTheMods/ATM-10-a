@@ -94,7 +94,7 @@ allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', 'GHI'], {
   E: 'pocketstorage:psu_4',
   F: 'occultism:stable_wormhole',
   G: 'rootsclassic:crystal_staff',
-  H: 'industrialforegoing:mycelial_explosive',
+  H: 'excessive_utilities:explosive_generator',
   I: 'evilcraft:lightning_bomb'
 }).id('allthemods:pressure/allthetweaks/pulsating_black_hole')
 
