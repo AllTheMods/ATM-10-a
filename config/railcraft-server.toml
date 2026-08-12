@@ -87,11 +87,11 @@ preferredOres = ["railcraft", "minecraft"]
 	#Adjust the amount of power produced in a Turbine
 	# Default: 1.0
 	# Range: 0.10000000149011612 ~ 100.0
-	turbinePowerMultiplier = 4.0
+	turbinePowerMultiplier = 25.0
 	#Adjust the amount of energy output rate in a Turbine
 	# Default: 1.0
 	# Range: 0.10000000149011612 ~ 100.0
-	turbineEnergyPowerRateMultiplier = 4.0
+	turbineEnergyPowerRateMultiplier = 50.0
 
 [steam]
 	#Adjust the heat value of Fuel in a Boiler
