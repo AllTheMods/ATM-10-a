@@ -6,7 +6,7 @@ ServerEvents.recipes(allthemods => {
   allthemods.remove({ id: 'entangled:item' })
   allthemods.shaped('entangled:block', ['UEU', 'FCG', 'UHU'], {
     U: '#c:ingots/unobtainium',
-    E: 'generatorgalore:ender_generator_8x',
+    E: 'excessive_utilities:ender_lily',
     F: 'alltheores:enderium_block',
     G: 'allthecompressed:ender_pearl_block_2x',
     H: 'productivebees:configurable_comb[productivebees:bee_type="productivebees:enderium"]',
