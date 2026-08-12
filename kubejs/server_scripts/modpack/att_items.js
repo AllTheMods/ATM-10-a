@@ -17,7 +17,7 @@ ServerEvents.recipes(allthemods => {
 
  // Improbable Probability Device
  allthemods.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CBC', 'FDF'], {
-  A: 'mekanism:pellet_antimatter',
+  A: Item.of('excessive_utilities:opinium_core[excessive_utilities:opinium_core_contents={center:{count:1,id:"minecraft:iron_ingot"},name:{translate:"item.excessive_utilities.opinium_core.perfected"},outer:{count:1,id:"minecraft:nether_star"}}]'),
   B: 'ae2:singularity',
   C: Ingredient.of(['megacells:portable_item_cell_256m', 'modern_industrialization:blastproof_casing']),
   D: 'pneumaticcraft:aerial_interface',
