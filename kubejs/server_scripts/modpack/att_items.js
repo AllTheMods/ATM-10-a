@@ -12,7 +12,7 @@ ServerEvents.recipes(allthemods => {
     I: 'allthemodium:piglich_heart_block',
     B: 'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:soul_lava"}]',
 	  G: 'cataclysm:abyssal_sacrifice',
-    E:'enderio:dew_of_the_void_bucket' 
+    E:'enderio:liquid_sunshine_bucket' 
   }).id('allthemods:allthetweaks/dragon_soul')
 
  // Improbable Probability Device
