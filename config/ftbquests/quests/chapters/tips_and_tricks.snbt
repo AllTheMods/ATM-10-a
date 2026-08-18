@@ -431,7 +431,7 @@
 			]
 			tasks: [{
 				id: "279AB1DAAFD60C52"
-				item: { components: { "ftbfiltersystem:filter": "or(item(disenchanting_table:disenchanting_table)item(draconicevolution:disenchanter)item(tombstone:book_of_disenchantment)item(actuallyadditions:lens_of_disenchanting)item(apothic_enchanting:scrap_tome)item(apothic_enchanting:improved_scrap_tome)item(apothic_enchanting:extraction_tome)item(minecraft:anvil)item(industrialforegoing:enchantment_extractor)item(evilcraft:purifier)item(evilcraft:blook))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(disenchanting_table:disenchanting_table)item(draconicevolution:disenchanter)item(actuallyadditions:lens_of_disenchanting)item(apothic_enchanting:scrap_tome)item(apothic_enchanting:improved_scrap_tome)item(apothic_enchanting:extraction_tome)item(minecraft:anvil)item(industrialforegoing:enchantment_extractor)item(evilcraft:purifier)item(evilcraft:blook))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 1.5d

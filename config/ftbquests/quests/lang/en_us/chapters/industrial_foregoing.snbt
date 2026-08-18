@@ -16,8 +16,6 @@
 	quest.0E8647B8EB4AAC41.title: "Pink Slime \\& Liquid Meat"
 	quest.0EA9E52B67B533DF.quest_desc: ["When Rubber is smelted it turns into Plastic, which is the main resource in Industrial Foregoing."]
 	quest.0EC2053B191C55C6.quest_desc: ["Extracts Latex from logs, runs faster when given power.\\n\\nCheck JEI for acceptable logs and Latex amounts. The best log to use is Acacia or Mangrove."]
-	quest.0FAAE744E156D8EF.quest_desc: ["The &bMycelial Reactor&r consists of all the Mycelial Generators working at the same time, near the reactor block, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Mycelial Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchanting Mycelial Generator&r.\\n\\nBut after you get it all automated, you don't need to stop at one, you can make more reactors."]
-	quest.0FAAE744E156D8EF.quest_subtitle: "Mycelial Reactor, huh?"
 	quest.15551AC6C68E12E0.quest_desc: ["Basically the spawner of &bIndustrial Foregoing&r. It uses &aEssence&r along with a mob in a Mob Imprisonment Tool to spawn a copy of that mob.\\n\\nBosses and other mobs that cannot be put into a spawner* are blacklisted from the Mob Duplicator as well.\\n\\n*&8With a few exceptions, hold SHIFT on a spawn egg while advanced tooltips (F3 + H) are enabled to see if you can find the Mob Duplicator Blacklist tag."]
 	quest.1684D52FDAAC894B.quest_desc: ["Remember that Not-An-Ore-Doctor fella? The Washing Factory fills in for him, to handle the Raw Ore Meat from the Washing Factory, turning it into Fermented Ore Meat. This machine has 4 modes.\\n\\n1. 2x ore processing rate, 5 seconds to process.\\n2. 3x ore processing rate, 45 seconds to process.\\n3. 4x ore processing rate, 120 seconds to process. Uses &#FF69B4Pink Slime&r as a catalyst.\\n4. 5x ore processing rate, 300 seconds to process. Uses &bEther Gas&r as a catalyst."]
 	quest.1684D52FDAAC894B.quest_subtitle: "Ore Processing: Step 2"
@@ -89,7 +87,7 @@
 		"{image:atm:textures/questpics/industrialforegoing/blaze_input_for_interface.png width:125 height:100 align:center}"
 		"{image:atm:textures/questpics/industrialforegoing/water_for_interface.png width:125 height:100 align:center}"
 		"{@pagebreak}"
-		"Optionally, you can place a Transfer Label between the &5Advanced Provider&r and the &cBrewer&r.\\n\\nIf you're still confused by this setup, or would rather watch a video, check out the video I have linked here, from ChosenArchitect:"
+		"Optionally, you can place a Flat Transfer Node between the &5Advanced Provider&r and the &cBrewer&r.\\n\\nIf you're still confused by this setup, or would rather watch a video, check out the video I have linked here, from ChosenArchitect:"
 		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/DOW4xkxqp6g?si=paZ2xFKyycPumqaS&t=427\"},\"color\":\"blue\",\"text\":\"VIDEO LINK HERE\",\"underlined\":true} "
 	]
 	quest.538186D01429F05F.quest_subtitle: "Using AE2"
@@ -115,11 +113,9 @@
 	quest.7CB4D47ABC295B92.quest_desc: ["It brews potions. Much like a standard Brewing Stand, it requires Blaze Powder as fuel, and uses bottles. Unlike a Brewing Stand, though, it can autofill those bottles with water.\\n\\nUnlike with other quests where I give a brief overview of the machine, I will provide a setup in another quest to automate this machine, as it is fairly janky and unintuitive in some areas."]
 	quest.7E39FB9F3E973009.quest_subtitle: "No, it's not a Mekanism Chemical, it's Wither Milk"
 	quest.7E39FB9F3E973009.title: "Ether Gas"
-	task.1F1A69738DE70DB6.title: "The Mycelial Reactor"
 	task.335D80E83360A7DB.title: "Understanding Ether Gas"
 	task.38E166AC8F55D42E.title: "Upgrades"
 	task.391AB5CA0E5C35FD.title: "Understanding Latex and Plastic"
-	task.4031B8B8FBDDEEE4.title: "Transfer Labels"
 	task.5BCE4EFD40BF767D.title: "Wrenches that work with IF Machines"
 	task.6B17A0D9906E8C90.title: "AllRightsReserved"
 	task.6D00B76B8A141BB8.title: "Any #advanced_ae:adv_pattern_provider"

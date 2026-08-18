@@ -7,9 +7,9 @@
 	quest.0BB367839D28607D.quest_desc: ["These &8Coal Generators&r are some of the easiest generators to make.\\n\\nThey are very simple to use and create a decent amount of power based on the combustible material you put in. They also automatically distributes power to adjacent blocks."]
 	quest.0BB367839D28607D.quest_subtitle: "Fossil Fuels"
 	quest.0BB367839D28607D.title: "&8Coal Generators"
-	quest.0BB42C5861B22D32.quest_desc: ["The &bMycelial Reactor&r consists of all the Mycelial Generators working at the same time, near the reactor block, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Mycelial Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchanting Mycelial Generator&r.\\n\\nBut after you get it all automated, you don't need to stop at one, you can make more reactors."]
-	quest.0BB42C5861B22D32.quest_subtitle: "It's not Yourcelial Reactor"
-	quest.0BB42C5861B22D32.title: "&9Industrial Foregoing: &bMycelial Reactor"
+	quest.0BB42C5861B22D32.quest_desc: ["The &zRainbow Generator&r consists of all the Generators from &e&lExcessive Utilities&r working at the same time, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchantment Generator&r."]
+	quest.0BB42C5861B22D32.quest_subtitle: "With your powers combined!"
+	quest.0BB42C5861B22D32.title: "&9Excessive Utilities: &zRainbow Generator"
 	quest.11D09E918015355C.quest_desc: ["Mekanism's &cHeat Generator&r is a different take on basic power production. It has two modes of creating power:\\n\\n&9Passive:&r Surrounding the generator with Lava source or flowing blocks creates passive power over time through heat. Place one Lava source block on top and let it flow over the sides. Make sure to have Pipes connected for energy first!\\n\\n&9Active:&r Placing combustible materials such as Coal or Wood into the generator will burn the fuel to create power. This is not very efficient."]
 	quest.11D09E918015355C.title: "&cHeat Generator"
 	quest.1409C17773B6A131.quest_desc: ["\\\\nAll Upgrades increase the amount the &e&lPipez&r move and also grant more options to use with the &e&lPipe&r. \\\\n\\\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r, to change distribution either:Closest First, Farthest First, Round-Robin, or Random, and to add Filters.\\\\n\\\\nImproved, Advanced, and Ultimate upgrades don't grant anything new they just move more!"]
@@ -17,7 +17,7 @@
 	quest.1BE26A00A420DAE3.quest_desc: ["In this mod, you'll need &aFlux Cores&r and &aFlux Blocks&r to craft the core parts of your network. Make a few of each!"]
 	quest.1BE26A00A420DAE3.quest_subtitle: "Of Cores you need these"
 	quest.1BE26A00A420DAE3.title: "The \"Core\" Crafting Materials"
-	quest.1EECA19DF9CF6A0C.quest_desc: ["Flux Dust can also be automated using &6XyCraft&r!\\n\\nPlace a charged redstone crystal block on bedrock, surround the crystal block with 4 obsidian on all sides and place the extractor on top.\\nThen just place a storage on top of the extractor and you're done!"]
+	quest.1EECA19DF9CF6A0C.quest_desc: ["Flux Dust can also be automated using &6XyCraft&r!\\n\\nPlace crying obsidian on bedrock, surround the crystal block with 4 obsidian on all sides and place the extractor on top.\\nThen just place a storage on top of the extractor and you're done!"]
 	quest.1EECA19DF9CF6A0C.title: "Automated Flux Dust"
 	quest.1F81EA5E45424308.quest_desc: ["If you're looking for different ways to get power out of your machines, this is where you can find it!\\n\\nThere are several options, both &awired&r and &9wireless&r, for transferring power."]
 	quest.1F81EA5E45424308.title: "&f&lTransferring Power"

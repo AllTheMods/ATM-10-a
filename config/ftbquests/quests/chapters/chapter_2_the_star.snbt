@@ -19,15 +19,6 @@
 		}
 		{
 			height: 2.0d
-			id: "4F64723764FB0D0B"
-			image: "generatorgalore:block/copper_generator_top_on"
-			rotation: 0.0d
-			width: 2.0d
-			x: 12.0d
-			y: 10.0d
-		}
-		{
-			height: 2.0d
 			id: "675C520D6E06518C"
 			image: "atm:textures/questpics/occultism/aviarcircle.png"
 			rotation: 0.0d
@@ -77,8 +68,8 @@
 			image: "atm:textures/questpics/justdirethings/goo_spread_ferricore.png"
 			rotation: 0.0d
 			width: 3.003550295857988d
-			x: -13.0d
-			y: 3.5d
+			x: -7.5d
+			y: 14.5d
 		}
 		{
 			height: 3.0d
@@ -151,15 +142,6 @@
 			width: 3.0594059405940595d
 			x: 6.0d
 			y: -6.0d
-		}
-		{
-			height: 2.5d
-			id: "3AEC5321503A00D5"
-			image: "atm:textures/questpics/gettingstarted/started_starlight.png"
-			rotation: 0.0d
-			width: 4.524033930254477d
-			x: 17.0d
-			y: -3.5d
 		}
 		{
 			height: 3.0d
@@ -285,7 +267,27 @@
 			rotation: 0.0d
 			width: 3.0d
 			x: 14.5d
-			y: 0.5d
+			y: -1.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "6A61B2FC107B5A7B"
+			image: "excessive_utilities:block/block_of_unstable_ingot/particle"
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.0d
+			y: 10.0d
+		}
+		{
+			click_action: "none:"
+			height: 3.0d
+			id: "080A00BCF83ED4FF"
+			image: "enderio:item/creative_tab_icon"
+			rotation: 0.0d
+			width: 3.0d
+			x: -10.5d
+			y: 18.0d
 		}
 	]
 	order_index: 2
@@ -438,6 +440,7 @@
 				"2F76D074AEA84A4D"
 				"14B7EEBE0F6C2776"
 				"2A444F4CCC72545D"
+				"4069785E5822068C"
 			]
 			id: "4E82E843737045D9"
 			rewards: [
@@ -1115,8 +1118,8 @@
 				item: { count: 1, id: "justdirethings:paradoxmachine" }
 				type: "item"
 			}]
-			x: -6.25d
-			y: 11.875d
+			x: -5.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["2B57C8D2F98A9279"]
@@ -1165,7 +1168,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["11374A3B5BD644F5"]
+			dependencies: ["76C63670624C3C56"]
 			hide_dependent_lines: true
 			id: "4B12425E74C5E511"
 			rewards: [
@@ -1187,11 +1190,11 @@
 			size: 1.25d
 			tasks: [{
 				id: "70D98005AD05BF31"
-				item: { count: 1, id: "industrialforegoing:mycelial_explosive" }
+				item: { count: 1, id: "excessive_utilities:explosive_generator" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 12.0d
+			x: 8.125d
+			y: 11.875d
 		}
 		{
 			dependencies: ["3F5B5D6B788E0A73"]
@@ -1324,15 +1327,16 @@
 					id: "39AEB8115BCD86E9"
 					item: {
 						count: 1
-						id: "generatorgalore:netherstar_generator_8x"
+						id: "excessive_utilities:nether_star_generator"
 					}
 					type: "item"
 				}
 				{
+					count: 64
 					id: "5544C0DF9B6BA88B"
 					item: {
 						count: 1
-						id: "minecraft:nether_star"
+						id: "excessive_utilities:rainbow_stone"
 					}
 					type: "item"
 				}
@@ -1345,7 +1349,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "44DE0C14A2545FEE"
-				item: { count: 1, id: "generatorgalore:netherstar_generator_64x" }
+				item: { count: 1, id: "excessive_utilities:rainbow_generator" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -1471,7 +1475,7 @@
 					id: "6CBE081AC55CF0CF"
 					item: {
 						count: 1
-						id: "generatorgalore:magmatic_generator_8x"
+						id: "excessive_utilities:magmatic_generator"
 					}
 					type: "item"
 				}
@@ -1499,7 +1503,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "2FFF1FAD3E5A2D2A"
-				item: { count: 1, id: "generatorgalore:magmatic_generator_64x" }
+				item: { count: 1, id: "excessive_utilities:heated_redstone_generator" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -1644,6 +1648,21 @@
 			id: "59EC02C1FBCF14EA"
 			rewards: [
 				{
+					id: "35DA82E9CD03EAE5"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:fortune": 3
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+				{
 					count: 4
 					id: "3AF2DE9B59EBF2B8"
 					item: {
@@ -1661,7 +1680,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "194A26964952B3BF"
-				item: { count: 1, id: "generatorgalore:ender_generator" }
+				item: { count: 1, id: "excessive_utilities:ender_quarry_fortune_three_upgrade" }
 				type: "item"
 			}]
 			x: 10.0d
@@ -2317,7 +2336,7 @@
 			y: 10.0d
 		}
 		{
-			dependencies: ["372B5BF416CA83A4"]
+			dependencies: ["76C63670624C3C56"]
 			hide_dependent_lines: true
 			id: "5869E198DA416346"
 			rewards: [
@@ -2325,8 +2344,23 @@
 					count: 2
 					id: "26F805492344C137"
 					item: {
+						components: {
+							"excessive_utilities:opinium_core_contents": {
+								center: {
+									count: 1
+									id: "minecraft:iron_ingot"
+								}
+								name: {
+									translate: "item.excessive_utilities.opinium_core.perfected"
+								}
+								outer: {
+									count: 1
+									id: "minecraft:nether_star"
+								}
+							}
+						}
 						count: 1
-						id: "mekanism:pellet_antimatter"
+						id: "excessive_utilities:opinium_core"
 					}
 					type: "item"
 				}
@@ -2340,11 +2374,12 @@
 			tasks: [{
 				count: 2L
 				id: "0198D38E04586DC3"
-				item: { count: 1, id: "mekanism:pellet_antimatter" }
+				item: { components: { "excessive_utilities:opinium_core_contents": { center: { count: 1, id: "minecraft:iron_ingot" }, name: { translate: "item.excessive_utilities.opinium_core.perfected" }, outer: { count: 1, id: "minecraft:nether_star" } } }, count: 1, id: "excessive_utilities:opinium_core" }
+				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: -12.0d
-			y: 14.0d
+			x: 8.244047619047635d
+			y: 13.446428571428577d
 		}
 		{
 			dependencies: ["022C38096F79EF07"]
@@ -2533,7 +2568,7 @@
 				item: { count: 1, id: "mekanism:module_gravitational_modulating_unit" }
 				type: "item"
 			}]
-			x: -10.0d
+			x: -11.875d
 			y: 13.75d
 		}
 		{
@@ -3223,7 +3258,7 @@
 		}
 		{
 			icon: {
-				id: "generatorgalore:copper_generator"
+				id: "excessive_utilities:unstable_ingot"
 			}
 			id: "76C63670624C3C56"
 			rewards: [
@@ -3366,8 +3401,8 @@
 				item: { count: 1, id: "justdirethings:gooblock_tier1" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 10.0d
+			x: -6.0d
+			y: 12.0d
 		}
 		{
 			id: "7A579E233C69871F"
@@ -3719,8 +3754,8 @@
 				item: { count: 1, id: "immersiveengineering:tesla_coil" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 12.0d
+			x: 6.25d
+			y: 11.875d
 		}
 		{
 			dependencies: ["1682CED78D9D4BA7"]
@@ -4090,6 +4125,65 @@
 			}]
 			x: -3.0d
 			y: 10.0d
+		}
+		{
+			icon: {
+				id: "enderio:alloy_smelter"
+			}
+			id: "25DF42B99D658884"
+			rewards: [
+				{
+					count: 4
+					id: "4FB30DBAC79CC50A"
+					item: {
+						count: 1
+						id: "enderio:grains_of_infinity"
+					}
+					type: "item"
+				}
+				{
+					id: "757737C6F0A73712"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "408671A83862613F"
+				item: { count: 1, id: "enderio:grains_of_infinity" }
+				type: "item"
+			}]
+			x: -10.410714285714278d
+			y: 16.30357142857143d
+		}
+		{
+			dependencies: ["25DF42B99D658884"]
+			hide_dependent_lines: true
+			id: "4069785E5822068C"
+			rewards: [
+				{
+					id: "260CEBAD42771A98"
+					item: {
+						count: 1
+						id: "enderio:cloud_seed_concentrated_bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "188F7D39A3E9CF8D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				id: "7CDA43CF1EF0FB4C"
+				item: { count: 1, id: "enderio:cloud_seed_concentrated_bucket" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 14.0d
 		}
 	]
 }
