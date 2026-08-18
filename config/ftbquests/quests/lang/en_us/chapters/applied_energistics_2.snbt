@@ -37,7 +37,7 @@
 	quest.16299B9AE87257DC.quest_subtitle: "This is what you're here for"
 	quest.16299B9AE87257DC.title: "Wireless Terminals"
 	quest.1710B3D05215A71E.quest_desc: [
-		"&bP2P&f (peer-to-peer) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage. "
+		"&bP2P&f (point-to-point) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage. "
 		""
 		"Right-clicking on a P2P tunnel with certain items will &eattune&f the tunnel into one capable of transferring something else, such as items through pipes, energy through cables, redstone signals and (by default) even ME connections themselves. "
 		""
@@ -106,6 +106,8 @@
 	quest.30E853CE699E669B.quest_subtitle: "Download more RAM"
 	quest.3195A7AA874163CD.quest_desc: ["The &bEqual Distribution Card&f is an upgrade for storage cells that pre-allocates a certain amount of items that can be taken up by any individual type.\\n\\nThis behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out."]
 	quest.3195A7AA874163CD.quest_subtitle: "ME Storage &mCells&r Drawers"
+	quest.332A3C7BA261DBFC.quest_desc: ["Using a &eDowsing Rod&r from &dArs Nouveau&r will help you find the exact location of a &eMeteorite&r once you've used the &eMeteorite Compass&r to find its general location."]
+	quest.332A3C7BA261DBFC.quest_subtitle: "For more accuracy"
 	quest.33ADE41526C39AFD.quest_desc: ["This behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out."]
 	quest.361CCBD353D6FF34.quest_desc: [
 		"With the 1k Storage Component, you can now craft yourself a 1k ME Item Storage Cell to start your digital item storage system. You'll most likely want the majority of your storage to be for items, so you'll probably want to make a few &bME Item Storage Cells&f. "
@@ -144,7 +146,7 @@
 	quest.4E8A05C3BFA80540.quest_subtitle: "Items as a file system"
 	quest.4E8A05C3BFA80540.title: "The Storage"
 	quest.5034A9137E0F3D3D.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.51236544BFEF487B.quest_desc: ["It is time to find &eMeteorites&f that contain &bSky Stone&f. These can be either on the surface or underground, and contain a &bMysterious Cube&f in its center.\\n\\nThis cube contains all of the different &ePresses&f used in the Inscriber to make AE2's special crafting components.\\n\\nThe easiest way to locate a meteorite is by crafting a &eMeteorite Compass&r by placing a compass inside of a Charger."]
+	quest.51236544BFEF487B.quest_desc: ["It is time to find &eMeteorites&r that contain &bSky Stone&r. They are found buried underground, typically near the surface, and contain a &bMysterious Cube&f in its center.\\n\\nThis cube contains all of the different &ePresses&r used in the Inscriber to make AE2's special crafting components.\\n\\nThe easiest way to locate a meteorite is by crafting a &eMeteorite Compass&r by placing a compass inside of a Charger."]
 	quest.51236544BFEF487B.quest_subtitle: "'COMIC #42: shearching 4 bobby [Fischer]'"
 	quest.51236544BFEF487B.title: "Meteorite hunting"
 	quest.51A57E142C686C8F.quest_desc: ["The fifth and final MEGA tier of storage component, providing &e268435456&f (262144k) bytes of storage."]
@@ -233,7 +235,7 @@
 		"However, unlike regular cells, their contents can also be accessed standalone via the cell item itself, a bit like a digital ME-flavoured backpack."
 	]
 	quest.78311531069807DE.quest_desc: ["In Applied Energistics 2, every ME network has a certain number of &echannels&f available, which simply means how many networked devices can fit on the whole network.\\n\\nAs a rule of thumb, any device that more or less handles ME data directly (items stored within the network) and carries out some form of I/O will take up a channel. Usually components that are only concerned with the internal power storage of the network, like &eEnergy Cells&f and &eInscribers&f, do &onot&r take up channels.\\n\\nNetworks without an &bME Controller&f are known as 'ad-hoc' networks and only support a maximum of 8 channels."]
-	quest.79D2617E01481281.quest_desc: ["To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. You will find Certus Quartz Crystals in Meteroites that you can mine for Certus Quartz &eDust&f and &eCrystals&f."]
+	quest.79D2617E01481281.quest_desc: ["To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. You will find Certus Quartz Crystals in Meteorites that you can mine for Certus Quartz &eDust&f and &eCrystals&f."]
 	quest.79D2617E01481281.title: "Certus Quartz"
 	quest.7B7D1F0CB326B28F.quest_desc: ["The &bME IO Port&f allows for the contents of an ME network's storage to be quickly rearranged between different storage media such as ME cells and external containers connected to storage buses.\\n\\nWhen a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages."]
 	quest.7B7D1F0CB326B28F.quest_subtitle: "Defragmentation"

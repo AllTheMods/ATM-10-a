@@ -795,7 +795,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "18736EFD68DF29F2"
-				item: { count: 1, id: "industrialforegoing:mycelial_reactor" }
+				item: { count: 1, id: "excessive_utilities:rainbow_generator" }
 				type: "item"
 			}]
 			x: -1.0d

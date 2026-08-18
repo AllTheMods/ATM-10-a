@@ -5117,29 +5117,6 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
-				id: "enderio:conductive_alloy_ingot"
-			}
-			id: "16987C41D4F5BA47"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7F85503A2D7D256C"
-				table_id: 6438168168113377309L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "52213CAAC7B43162"
-				item: { components: { "productivebees:bee_type": "productivebees:copper_alloy" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 10.5d
-			y: 22.0d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
 				id: "enderio:vibrant_alloy_ingot"
 			}
 			id: "0691BDE968724213"
@@ -5180,29 +5157,6 @@
 			}]
 			x: 10.5d
 			y: 21.0d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
-				id: "tombstone:grave_dust"
-			}
-			id: "573BC5360C5CA675"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "13B6E279E6C0F4B2"
-				table_id: 6438168168113377309L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "40C0F6F01D2D2346"
-				item: { components: { "productivebees:bee_type": "productivebees:grave" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 8.5d
-			y: 20.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]

@@ -9,159 +9,6 @@
 	id: "193F91842D2ED7D9"
 	images: [
 		{
-			height: 1.0d
-			id: "5F7130482717776D"
-			image: "industrialforegoing:block/reactor_front_mycelial"
-			rotation: 0.0d
-			width: 1.0d
-			x: 8.0d
-			y: 16.0d
-		}
-		{
-			height: 1.0d
-			id: "38C9237CE707D7A8"
-			image: "industrialforegoing:block/generators/generator_front_crimed"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: 13.5d
-		}
-		{
-			height: 1.0d
-			id: "630760A1BF479B3E"
-			image: "industrialforegoing:block/generators/generator_front_culinary"
-			rotation: 0.0d
-			width: 1.0d
-			x: 8.5d
-			y: 13.5d
-		}
-		{
-			height: 1.0d
-			id: "7E613D9B14B95983"
-			image: "industrialforegoing:block/generators/generator_front_death"
-			rotation: 0.0d
-			width: 1.0d
-			x: 9.5d
-			y: 13.5d
-		}
-		{
-			height: 1.0d
-			id: "5B9D9BBBE904A711"
-			image: "industrialforegoing:block/generators/generator_front_disenchantment"
-			rotation: 0.0d
-			width: 1.0d
-			x: 6.5d
-			y: 13.5d
-		}
-		{
-			height: 1.0d
-			id: "129E139AC64AA282"
-			image: "industrialforegoing:block/generators/generator_front_ender"
-			rotation: 0.0d
-			width: 1.0d
-			x: 10.5d
-			y: 14.5d
-		}
-		{
-			height: 1.0d
-			id: "2ADED0C7612662A7"
-			image: "industrialforegoing:block/generators/generator_front_explosive"
-			rotation: 0.0d
-			width: 1.0d
-			x: 10.5d
-			y: 15.5d
-		}
-		{
-			height: 1.0d
-			id: "2ADFC2B215BD524C"
-			image: "industrialforegoing:block/generators/generator_front_frosty"
-			rotation: 0.0d
-			width: 1.0d
-			x: 10.5d
-			y: 16.5d
-		}
-		{
-			height: 1.0d
-			id: "61004E88B052530D"
-			image: "industrialforegoing:block/generators/generator_front_furnace"
-			rotation: 0.0d
-			width: 1.0d
-			x: 10.5d
-			y: 17.5d
-		}
-		{
-			height: 1.0d
-			id: "5EB8D6F1CB2685F9"
-			image: "industrialforegoing:block/generators/generator_front_halitosis"
-			rotation: 0.0d
-			width: 1.0d
-			x: 9.5d
-			y: 18.5d
-		}
-		{
-			height: 1.0d
-			id: "78E60834C44627DA"
-			image: "industrialforegoing:block/generators/generator_front_magmatic"
-			rotation: 0.0d
-			width: 1.0d
-			x: 8.5d
-			y: 18.5d
-		}
-		{
-			height: 1.0d
-			id: "218F41B2C6DF27CA"
-			image: "industrialforegoing:block/generators/generator_front_meatallurgic"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: 18.5d
-		}
-		{
-			height: 1.0d
-			id: "6DBB0760AEA28AD2"
-			image: "industrialforegoing:block/generators/generator_front_netherstar"
-			rotation: 0.0d
-			width: 1.0d
-			x: 6.5d
-			y: 18.5d
-		}
-		{
-			height: 1.0d
-			id: "611E3767268058B5"
-			image: "industrialforegoing:block/generators/generator_front_pink"
-			rotation: 0.0d
-			width: 1.0d
-			x: 5.5d
-			y: 17.5d
-		}
-		{
-			height: 1.0d
-			id: "6634FE937858CFDC"
-			image: "industrialforegoing:block/generators/generator_front_potion"
-			rotation: 0.0d
-			width: 1.0d
-			x: 5.5d
-			y: 16.5d
-		}
-		{
-			height: 1.0d
-			id: "57DF85970C73B0ED"
-			image: "industrialforegoing:block/generators/generator_front_rocket"
-			rotation: 0.0d
-			width: 1.0d
-			x: 5.5d
-			y: 15.5d
-		}
-		{
-			height: 1.0d
-			id: "229AE81CA37E9A27"
-			image: "industrialforegoing:block/generators/generator_front_slimey"
-			rotation: 0.0d
-			width: 1.0d
-			x: 5.5d
-			y: 14.5d
-		}
-		{
 			click_action: "open_quest:0EC2053B191C55C6"
 			height: 1.0d
 			id: "226296BE0F417E6D"
@@ -221,22 +68,14 @@
 			y: 2.9013605442176953d
 		}
 		{
+			click_action: "none:"
 			height: 1.0d
 			id: "3487274096ECCAE5"
-			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
+			image: "jei:textures/jei/atlas/gui/icons/arrow_next_v2.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 2.130612244897911d
 			y: 2.8896258503401455d
-		}
-		{
-			height: 7.0d
-			id: "318B8F241F316A6B"
-			image: "atm:textures/questpics/industrialforegoing/mycelial_reactor.png"
-			rotation: 0.0d
-			width: 12.0d
-			x: 18.0d
-			y: 16.0d
 		}
 		{
 			height: 7.0d
@@ -258,9 +97,10 @@
 			y: 2.8896258503401455d
 		}
 		{
+			click_action: "none:"
 			height: 1.0d
 			id: "70EEA06F4303CB61"
-			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
+			image: "jei:textures/jei/atlas/gui/icons/arrow_next_v2.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 4.028571428571368d
@@ -285,15 +125,6 @@
 			y: -5.0d
 		}
 		{
-			height: 0.3d
-			id: "3D3604D8825F9D88"
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: 22.5d
-			y: 5.9d
-		}
-		{
 			click_action: "open_uri:https://youtu.be/d4XVnLaHgrc?si=u_DIyC_FU7ZrNsgA"
 			height: 1.0d
 			id: "362BDD0CB412D079"
@@ -304,7 +135,7 @@
 			y: -3.0d
 		}
 	]
-	order_index: 3
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -999,24 +830,6 @@
 		}
 		{
 			dependencies: ["3514E9C1A8C7400C"]
-			id: "0AD768E4CC10358C"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0EED8DA56BFB8AD2"
-				table_id: 5124217649411489500L
-				type: "random"
-			}]
-			tasks: [{
-				id: "183086ACEB713E82"
-				item: { count: 1, id: "industrialforegoing:mycelial_furnace" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["3514E9C1A8C7400C"]
 			id: "605A5AC65BC7E864"
 			rewards: [{
 				id: "739A3B6C7097D073"
@@ -1030,42 +843,6 @@
 			}]
 			x: 6.0d
 			y: 5.5d
-		}
-		{
-			dependencies: ["3514E9C1A8C7400C"]
-			id: "377F505175DFB790"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6F721D4E6F86B787"
-				table_id: 5124217649411489500L
-				type: "random"
-			}]
-			tasks: [{
-				id: "54E7A3F21AE2CA54"
-				item: { count: 1, id: "industrialforegoing:mycelial_culinary" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 7.5d
-		}
-		{
-			dependencies: ["3514E9C1A8C7400C"]
-			id: "45DA9A3DA47AF2F0"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "13177FFCB2A370AD"
-				table_id: 5124217649411489500L
-				type: "random"
-			}]
-			tasks: [{
-				id: "3ECC5C50C2436DB2"
-				item: { count: 1, id: "industrialforegoing:mycelial_pink" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 9.5d
 		}
 		{
 			dependencies: [
@@ -1085,24 +862,6 @@
 			}]
 			x: 9.0d
 			y: 4.5d
-		}
-		{
-			dependencies: ["3514E9C1A8C7400C"]
-			id: "29C9EBD333E59A35"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0B36CE105F704DFE"
-				table_id: 5124217649411489500L
-				type: "random"
-			}]
-			tasks: [{
-				id: "345746E883043F2A"
-				item: { count: 1, id: "industrialforegoing:mycelial_frosty" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 8.5d
 		}
 		{
 			dependencies: ["3514E9C1A8C7400C"]
@@ -1241,31 +1000,6 @@
 			y: 6.5d
 		}
 		{
-			dependencies: ["7B4AF35313D7D779"]
-			id: "0F8FE6692717AA6A"
-			optional: true
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1ABB19B5E00E3E6D"
-					table_id: 8352280757313595670L
-					type: "loot"
-				}
-				{
-					id: "3DAF70162DFE5991"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [{
-				id: "6D24AD02DA331FA5"
-				item: { count: 1, id: "industrialforegoing:mycelial_reactor" }
-				type: "item"
-			}]
-			x: 11.5d
-			y: 10.5d
-		}
-		{
 			dependencies: ["7E39FB9F3E973009"]
 			id: "7B4AF35313D7D779"
 			rewards: [
@@ -1291,78 +1025,6 @@
 		}
 		{
 			dependencies: ["0BCCDE24D378F260"]
-			id: "65C5D30F48B77D20"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "149850904760F703"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "285EB289271FF17A"
-				item: { count: 1, id: "industrialforegoing:mycelial_explosive" }
-				type: "item"
-			}]
-			x: 22.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
-			id: "7DC044EFFDC208D7"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1A72C528C5669C74"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "4AF8DF7BC38E419B"
-				item: { count: 1, id: "industrialforegoing:mycelial_slimey" }
-				type: "item"
-			}]
-			x: 14.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
-			id: "014262BDF1BBA54D"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "44298E7999EB7B94"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "56ACF4EA4F91E75C"
-				item: { count: 1, id: "industrialforegoing:mycelial_crimed" }
-				type: "item"
-			}]
-			x: 18.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
-			id: "5186CB4CD85B530C"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "227F6EF7AE909565"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "1E468D6A624E64E2"
-				item: { count: 1, id: "industrialforegoing:mycelial_potion" }
-				type: "item"
-			}]
-			x: 15.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
 			id: "287B47E27EBC2C18"
 			rewards: [{
 				id: "6A086C38FA0F3BF4"
@@ -1376,24 +1038,6 @@
 			}]
 			x: 14.5d
 			y: 3.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
-			id: "776EE1F5C4565146"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "298134FBAFA1E326"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "6F96A800F8BDA3FD"
-				item: { count: 1, id: "industrialforegoing:mycelial_rocket" }
-				type: "item"
-			}]
-			x: 21.5d
-			y: 6.5d
 		}
 		{
 			dependencies: ["0BCCDE24D378F260"]
@@ -1445,24 +1089,6 @@
 		}
 		{
 			dependencies: ["0BCCDE24D378F260"]
-			id: "272E27EFE40C913A"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6351B04D5DB904AC"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "0D2B10E4838ACFA2"
-				item: { count: 1, id: "industrialforegoing:mycelial_death" }
-				type: "item"
-			}]
-			x: 20.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
 			id: "7CB4D47ABC295B92"
 			rewards: [{
 				id: "779538DCF9AF15D6"
@@ -1492,60 +1118,6 @@
 			}]
 			x: 15.5d
 			y: 4.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
-			id: "393A7BA6768A3F56"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6750356BF00D4D8C"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "185FE487EF5B3069"
-				item: { count: 1, id: "industrialforegoing:mycelial_disenchantment" }
-				type: "item"
-			}]
-			x: 16.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
-			id: "1BF511A13DF35C3A"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "35B1C843F3FA5B7A"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "2C993EEE2B11D440"
-				item: { count: 1, id: "industrialforegoing:mycelial_ender" }
-				type: "item"
-			}]
-			x: 17.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["0BCCDE24D378F260"]
-			id: "38FF05B6A26DB2EC"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0C0798BE81F2F11E"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "04F5D3F7B29D441B"
-				item: { count: 1, id: "industrialforegoing:mycelial_magma" }
-				type: "item"
-			}]
-			x: 19.5d
-			y: 6.5d
 		}
 		{
 			dependencies: [
@@ -1687,60 +1259,6 @@
 		}
 		{
 			dependencies: ["7B4AF35313D7D779"]
-			id: "60719C4317D39E5A"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "66568091CEBF968A"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "42FC1011D077857F"
-				item: { count: 1, id: "industrialforegoing:mycelial_meatallurgic" }
-				type: "item"
-			}]
-			x: 12.5d
-			y: 9.5d
-		}
-		{
-			dependencies: ["7B4AF35313D7D779"]
-			id: "3A97E99FEC78E9C2"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "36AEF3332136C672"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "26CFE6CE592741D6"
-				item: { count: 1, id: "industrialforegoing:mycelial_halitosis" }
-				type: "item"
-			}]
-			x: 10.5d
-			y: 9.5d
-		}
-		{
-			dependencies: ["7B4AF35313D7D779"]
-			id: "7342B2669D96C509"
-			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6B90E8101E9805A5"
-				table_id: 8352280757313595670L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "077D65D9C7397844"
-				item: { count: 1, id: "industrialforegoing:mycelial_netherstar" }
-				type: "item"
-			}]
-			x: 11.5d
-			y: 9.5d
-		}
-		{
-			dependencies: ["7B4AF35313D7D779"]
 			id: "28B3591BFC0FA08B"
 			rewards: [
 				{
@@ -1762,40 +1280,6 @@
 			}]
 			x: 12.5d
 			y: 8.0d
-		}
-		{
-			dependencies: [
-				"776EE1F5C4565146"
-				"377F505175DFB790"
-				"65C5D30F48B77D20"
-				"393A7BA6768A3F56"
-				"272E27EFE40C913A"
-				"38FF05B6A26DB2EC"
-				"45DA9A3DA47AF2F0"
-				"0AD768E4CC10358C"
-				"3A97E99FEC78E9C2"
-				"1BF511A13DF35C3A"
-				"7342B2669D96C509"
-				"60719C4317D39E5A"
-				"29C9EBD333E59A35"
-				"5186CB4CD85B530C"
-				"014262BDF1BBA54D"
-				"7DC044EFFDC208D7"
-				"0F8FE6692717AA6A"
-			]
-			id: "0FAAE744E156D8EF"
-			optional: true
-			rewards: [{
-				id: "4072266D7E2B23B7"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "1F1A69738DE70DB6"
-				type: "checkmark"
-			}]
-			x: 11.5d
-			y: 13.0d
 		}
 		{
 			dependencies: [
@@ -1976,14 +1460,14 @@
 					type: "item"
 				}
 				{
-					id: "7FBDB1383D052B82"
-					item: { components: { "ftbfiltersystem:filter": "or(item(ae2:export_bus)item_tag(ae2:interface))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					id: "4ED3082185DBBC10"
+					item: { count: 1, id: "excessive_utilities:flat_transfer_node_items" }
+					optional_task: true
 					type: "item"
 				}
 				{
-					id: "4031B8B8FBDDEEE4"
-					item: { components: { "ftbfiltersystem:filter": "mod(transfer_labels)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					optional_task: true
+					id: "7FBDB1383D052B82"
+					item: { components: { "ftbfiltersystem:filter": "or(item(ae2:export_bus)item_tag(ae2:interface))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 			]

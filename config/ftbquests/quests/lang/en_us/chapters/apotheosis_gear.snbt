@@ -1,5 +1,5 @@
 {
-	image.5FFE8A4A38F129ED.title: "Sigil of Supremacy"
+	image.74A7CFE953BEC302.title: "Sigil of Supremacy"
 	quest.001C1881E9289566.quest_desc: ["&9Rare&r is the middle ground of Rarities. \\n\\nIt appears in all &lWorld Tiers&r but most common in &lWorld Tier: &eAscent&r. \\n\\n&9Luminous Crystal Shards&r are made from using &9Rare&r &eItems&r in a &c&lSalvaging Table&r."]
 	quest.001C1881E9289566.quest_subtitle: "&9Rare"
 	quest.001C1881E9289566.title: "&9Luminous Crystal Shard"
@@ -26,13 +26,14 @@
 	quest.1D1FAA2F86695781.title: "&lWorld Tier: &eAscent"
 	quest.2002C7EB13626AE7.quest_desc: ["The &6&lAugmenting Table&r needs different Fuel to work, and that Fuel is &6Sigils of Enhancement&r. \\n\\nEach Reroll will cost 1 &6Sigil of Enhancement&r while each Upgrade will cost 2! \\n\\nYou'll need a &6Godforged Pearl&r for 4 of them."]
 	quest.2002C7EB13626AE7.title: "&6Sigil of Enhancement"
+	quest.22E57BF23B9BA2C5.quest_desc: ["&6&lApotheosis&r is now integrated with &aGateways&r.\\n\\nThere are &aGateways&r based on each &lWorld Tier&r (except &l&9Haven&r), providing waves of monsters and &4Invaders&r. These &aGateways&r may only be used within their respective &lWorld Tier&r. Once you beat the final wave, you get a variety of rewards, useful for finishing their respective &lWorld Tier&r.\\n\\nUnlike other &aGateways&r, you have a total of 3 lives to work with."]
 	quest.24D11ED5F4EEDC48.quest_desc: ["To those new to &6&lApotheosis&r, &9Sockets&r can be confusing and irritating. \\n\\nIn short, your Weapons and Armor need &9Sockets&r to use &aGems&r with it. \\n\\nBut what if it doesn't have a &9Socket&r? \\n\\nThen you'll need a &9Sigil of Socketing&r! \\n\\nCombine your item and &9Sigil&r in a &8&lSmithing Table&r and boom you can get up to 2 &9Sockets&r."]
 	quest.24D11ED5F4EEDC48.title: "&9Sigil of Socketing"
 	quest.29EA8E178F8F8FDB.quest_desc: ["The &9&lSimple Reforging Table&r is used like an &5&lEnchantment Table&r but with &eAffixes&r! \\n\\nTo add an &eAffix&r to any &eItem&r, place the &eItem&r in the center Slot. Then, add your Rarity Material to the left Slot. \\n\\nThe Rarity Material will determine what Rarity &eAffix&r you get on your &eItem&r. This can be used to upgrade some Items, like from &8Common&r to &aUncommon&r. \\n\\nYou will get 3 choices of &eAffixes&r you can pick, also similar to an &5&lEnchantment Table&r the second and third get more expensive. \\n\\nWith the &9&lSimple Reforging Table&r we can only get up to &9Rare&r &eAffixes&r."]
 	quest.29EA8E178F8F8FDB.title: "&9&lSimple Reforging Table"
 	quest.2A032EC573B5316C.quest_desc: ["To get the &lWorld Tier: &2Frontier&r, you'll obviously need &9&lHaven&r done, but also need a few &eAffixed Items&r! \\n\\nHow many? You need a full set of &eAffixed Armor&r plus an &eAffixed Tool &for &eWeapon&r. \\n\\nNow &aUncommon&r &4Invaders &fand &aGems&r are most abundant, with the rest following in order: &8Common&r, &9Rare&r, and also &5Epic&r. \\n\\nThe Player with &lWorld Tier: &2Frontier&r will get a 35% Experience Boost, 20% Luck, and &a45 Max Eterna&r in total! \\n\\nHey, not everything will be easy though, now &4Monsters&r will gain 4 Armor Points extra."]
 	quest.2A032EC573B5316C.title: "&lWorld Tier: &2Frontier"
-	quest.2E5E129F25707C5D.quest_desc: ["The &6Sigil of Supremacy&r!\\n\\nAnother sigil that cannot be crafted, similarly to &cMalice&r. Like &cMalice&r, it can make affixes stronger. Unlike &cMalice&r, it does this to EVERY affix on the gear, and will not sacrifice any in the process.\\n\\nYou can obtain this from the Holo Battle Tower by spending 100 Battle Points."]
+	quest.2E5E129F25707C5D.quest_desc: ["The &6Sigil of Supremacy&r!\\n\\nAnother sigil that cannot be crafted, similarly to &cMalice&r. Like &cMalice&r, it can make affixes stronger. Unlike &cMalice&r, it does this to EVERY affix on the gear, and will not sacrifice any in the process.\\n\\nYou can obtain this by beating 100 waves of the &zEndless Gateway of Apothic Invaders&r. "]
 	quest.377A41499D8218C9.quest_desc: ["The 1st &lWorld Tier&r is &l&9Haven&r! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an &eAffixed Item&r in your Hand! It will automatically be set when unlocked. \\n\\nThe &lWorld Tier: &9Haven&r has highest chances for &8Common&r &aGear&r &fand &aGems&r. It can also have &aUncommon&r and very rarely, &9Rare&r.\\n\\nYour &aMax Eterna&r is also set to &a30&r on this &lWorld Tier&r.\\n\\nThis is also the only &lWorld Tier&r where &4Invaders&r cannot spawn naturally."]
 	quest.377A41499D8218C9.title: "&lWorld Tier: &9Haven"
 	quest.38956DC28E317DEF.quest_desc: ["The &dSigil of Rebirth&r is Fuel for all the &l&9Reforging Tables&r. \\n\\nThey still need the other Material, and obviously the Item it'll change to work though... \\n\\nAtleast they're relatively easier to Craft!"]
@@ -49,6 +50,8 @@
 	quest.6667638252DB9C74.quest_desc: ["&8Sigils&r are items used to change your &6&lApotheosis&r &eAffixed Items&r; whether it be clearing &9Sockets&r, adding more &9Sockets&r, or removing the Name! \\n\\nAll are used with your Item in a &8&lSmithing Table&r, &9&lReforging Table&r, or &6&lAugementing Table&r."]
 	quest.6667638252DB9C74.quest_subtitle: "Just Sigils now!"
 	quest.6667638252DB9C74.title: "&mVials and&r &8Sigils"
+	quest.6B5B01C612951BAF.quest_desc: ["Unlike other Gate Pearls, this one is obtained by clearing the &4&lPinnacle&r Gateway.\\n\\nIt will come with the sacrifice of &zCraig the Eternal&r, a creature with a LOT of health, though.\\n\\nThis gateway will summon an endless stream of increasingly scaling waves, with less and less time between each one. It can spawn &4Invaders&r from ANY dimension, not just the dimension you used it in. This also means you can get gems normally exclusive to other dimensions, such as Endersurge Gems outside of The End.\\n\\nIf you can beat 100 waves, you can get..."]
+	quest.6B5B01C612951BAF.title: "&zGate Pearl - Endless Gateway of Apothic Invaders"
 	quest.6EF206A0BD5BAC0A.quest_desc: ["&5Epic&r is finally climbing more to the overpowered side. \\n\\n&5Epic&r appears after &lWorld Tier: &2Frontier&r and is most common in &lWorld Tier: &4Pinnacle&r. \\n\\n&5Arcane Sands&r are made from using &5Epic&r &eItems&r in a &c&lSalvaging Table&r."]
 	quest.6EF206A0BD5BAC0A.quest_subtitle: "&5Epic"
 	quest.6EF206A0BD5BAC0A.title: "&5Arcane Sands"
@@ -59,6 +62,7 @@
 	quest.7CB03F92F9ECEFFB.title: "&aSigil of Withdrawal"
 	quest.7EF873DCEB3B9D48.quest_desc: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r or &6Mythic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we are more likely to get &zPerfect&r gems! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades you'll get 125% Experience Gained and 100% Luck increase, and your &aMax Eterna&r reaches its highest point, &a100&r. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
 	quest.7EF873DCEB3B9D48.title: "&lWorld Tier: &4Pinnacle"
+	task.1F073FD0F4A296A3.title: "Apothic Gateways"
 	task.31C72EBA091270E7.title: "AllRightsReserved"
 	task.67D884FA6DD22065.title: "Any Apotheosis Gem"
 }

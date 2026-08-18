@@ -10,7 +10,7 @@
 	images: [
 		{
 			height: 2.0d
-			id: "0507F915CC0C93B7"
+			id: "01522D208B7445AD"
 			image: "atm:textures/questpics/apothic/apotheosis_gear.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -19,7 +19,7 @@
 		}
 		{
 			height: 2.0d
-			id: "4DA743E5F56D0B5F"
+			id: "1E1D7DF542866858"
 			image: "atm:textures/questpics/apothic/gear_augment.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -28,7 +28,7 @@
 		}
 		{
 			height: 2.0d
-			id: "3EF287393629B7F6"
+			id: "00C7741F52A1504E"
 			image: "atm:textures/questpics/apothic/gear_simple.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -37,7 +37,7 @@
 		}
 		{
 			height: 2.0d
-			id: "3038752F4F910D1D"
+			id: "0951AEF8C2F3305D"
 			image: "atm:textures/questpics/apothic/gear_reforge.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -46,7 +46,7 @@
 		}
 		{
 			height: 2.0d
-			id: "6F7E1A09CE74CD79"
+			id: "342EA34407C3E056"
 			image: "atm:textures/questpics/apothic/gear_gem.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -55,7 +55,7 @@
 		}
 		{
 			height: 2.0d
-			id: "3ADE61F7E1227F5C"
+			id: "78F9ACAAFAEEDDDF"
 			image: "atm:textures/questpics/apothic/gear_smith.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -64,7 +64,7 @@
 		}
 		{
 			height: 1.0d
-			id: "37520E25AB8086EA"
+			id: "57F756B5AEA58838"
 			image: "apotheosis:items/sigils/enhancement"
 			rotation: 0.0d
 			width: 1.0d
@@ -73,7 +73,7 @@
 		}
 		{
 			height: 1.0d
-			id: "6AEE3F77CF0C1FEF"
+			id: "67C09159AAF67C25"
 			image: "apotheosis:items/sigils/withdrawal"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,7 +82,7 @@
 		}
 		{
 			height: 1.0d
-			id: "76B19824DD6602A7"
+			id: "3E4CFCB65A3CEF60"
 			image: "apotheosis:items/sigils/rebirth"
 			rotation: 0.0d
 			width: 1.0d
@@ -91,17 +91,8 @@
 		}
 		{
 			height: 1.0d
-			id: "13171C28EE1E9781"
+			id: "1873144808F0BA84"
 			image: "apotheosis:items/sigils/unnaming"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.0d
-			y: 1.0d
-		}
-		{
-			height: 1.0d
-			id: "5E1DE5FF9CF12FE2"
-			image: "apotheosis:items/sigils/socketing"
 			rotation: 0.0d
 			width: 1.0d
 			x: 6.0d
@@ -109,7 +100,16 @@
 		}
 		{
 			height: 1.0d
-			id: "37BB9195257B67C0"
+			id: "7E969795ECD438B8"
+			image: "apotheosis:items/sigils/socketing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			id: "023C07A0A7DC6406"
 			image: "apotheosis:textures/gui/book/haven_icon.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -118,7 +118,7 @@
 		}
 		{
 			height: 1.0d
-			id: "533DC77C8ACE718B"
+			id: "4B4EA98085D41745"
 			image: "apotheosis:textures/gui/book/frontier_icon.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -127,7 +127,7 @@
 		}
 		{
 			height: 1.0d
-			id: "31A2D3FB10197589"
+			id: "03EF617785748387"
 			image: "apotheosis:textures/gui/book/summit_icon.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -136,7 +136,7 @@
 		}
 		{
 			height: 2.0d
-			id: "096611AE35266BC9"
+			id: "621D5D47BADA5C94"
 			image: "atm:textures/questpics/apothic/gear_salvage.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -145,7 +145,7 @@
 		}
 		{
 			height: 0.75d
-			id: "2D279BA6506B92ED"
+			id: "599A9A491C887941"
 			image: "atm:textures/questpics/apothic/gear_sigils.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -154,7 +154,7 @@
 		}
 		{
 			height: 0.75d
-			id: "469778554A1FE570"
+			id: "4478C2D8F977AA78"
 			image: "atm:textures/questpics/apothic/gear_tiers.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -163,7 +163,7 @@
 		}
 		{
 			height: 1.0d
-			id: "658DF9FCEA34AE75"
+			id: "7C8C4BEDAB608A49"
 			image: "apotheosis:items/sigils/malice"
 			rotation: 0.0d
 			width: 1.0d
@@ -173,12 +173,22 @@
 		{
 			click_action: "open_quest:2E5E129F25707C5D"
 			height: 1.0d
-			id: "5FFE8A4A38F129ED"
+			id: "74A7CFE953BEC302"
 			image: "apotheosis:items/sigils/supremacy"
 			rotation: 0.0d
 			width: 1.0d
-			x: 5.0d
+			x: 4.0d
 			y: 1.0d
+		}
+		{
+			color: 16755200
+			height: 2.5d
+			id: "543FF0DD62417D5D"
+			image: "gateways:item/gate_pearl_large"
+			rotation: 0.0d
+			width: 2.5d
+			x: -7.0d
+			y: 2.0d
 		}
 	]
 	order_index: 0
@@ -938,7 +948,132 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["6667638252DB9C74"]
+			dependencies: ["2A032EC573B5316C"]
+			id: "22E57BF23B9BA2C5"
+			rewards: [
+				{
+					count: 4
+					id: "473D5E78D7E86DD7"
+					item: {
+						count: 1
+						id: "apotheosis:gem_dust"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "46F82C45D5B1394B"
+					item: {
+						count: 1
+						id: "apotheosis:timeworn_fabric"
+					}
+					type: "item"
+				}
+				{
+					id: "0728DA7695A6B750"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [{
+				id: "1F073FD0F4A296A3"
+				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/frontier\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/ascent\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/summit\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/pinnacle\"}))item(gateways:gate_pearl)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"22E57BF23B9BA2C5"
+				"7EF873DCEB3B9D48"
+			]
+			icon: {
+				components: {
+					"gateways:gateway": "apotheosis:endless_invader"
+				}
+				id: "gateways:gate_pearl"
+			}
+			id: "6B5B01C612951BAF"
+			rewards: [
+				{
+					count: 32
+					id: "62B800A1111A79A9"
+					item: {
+						count: 1
+						id: "apotheosis:godforged_pearl"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "1DB2DF554FC79AEA"
+					item: {
+						count: 1
+						id: "apotheosis:gem_dust"
+					}
+					type: "item"
+				}
+				{
+					id: "23510F828F60F8AE"
+					item: {
+						count: 1
+						id: "apotheosis:music_disc_glimmer"
+					}
+					type: "item"
+				}
+				{
+					id: "6D62862FF1008E67"
+					item: {
+						count: 1
+						id: "apotheosis:music_disc_shimmer"
+					}
+					type: "item"
+				}
+				{
+					id: "77C15E6925DD6838"
+					item: {
+						count: 1
+						id: "apotheosis:music_disc_flash"
+					}
+					type: "item"
+				}
+				{
+					id: "23FE831BDA8848EA"
+					item: {
+						components: {
+							"gateways:gateway": "apotheosis:endless_invader"
+						}
+						count: 1
+						id: "gateways:gate_pearl"
+					}
+					type: "item"
+				}
+				{
+					id: "14E6533C235C2E3A"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			tasks: [
+				{
+					id: "68A6804F5E9D1B90"
+					item: { components: { "gateways:gateway": "apotheosis:tiered/pinnacle" }, count: 1, id: "gateways:gate_pearl" }
+					match_components: "strict"
+					type: "item"
+				}
+				{
+					id: "3CD3B96BCB661E58"
+					item: { components: { "gateways:gateway": "apotheosis:endless_invader" }, count: 1, id: "gateways:gate_pearl" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6B5B01C612951BAF"]
 			id: "2E5E129F25707C5D"
 			rewards: [
 				{
@@ -982,14 +1117,15 @@
 					xp_levels: 100
 				}
 			]
-			shape: "rsquare"
+			shape: "none"
+			size: 1.5d
 			tasks: [{
 				id: "2624E09A5B8C1D0D"
 				item: { count: 1, id: "apotheosis:sigil_of_supremacy" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: -7.071428571428555d
+			y: 1.7678571428571388d
 		}
 		{
 			id: "7080F026A37F1832"

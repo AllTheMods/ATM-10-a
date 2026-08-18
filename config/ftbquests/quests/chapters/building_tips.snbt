@@ -1502,7 +1502,7 @@
 		{
 			dependencies: ["0FE30548F25FEDB1"]
 			icon: {
-				id: "glassential:glass_ethereal"
+				id: "excessive_utilities:ethereal_glass"
 			}
 			id: "72DB967E59EEA729"
 			rewards: [{
@@ -1516,7 +1516,7 @@
 			}]
 			tasks: [{
 				id: "53A682560123F9B6"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(glassential))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(excessive_utilities:glass_bricks)item(excessive_utilities:edged_glass)item(excessive_utilities:golden_edged_glass)item(excessive_utilities:glowing_glass)item(excessive_utilities:heart_glass)item(excessive_utilities:obsidian_glass)item(excessive_utilities:reinforced_dark_glass)item(excessive_utilities:square_glass)item(excessive_utilities:swirling_glass)item(excessive_utilities:thickened_glass)item(excessive_utilities:patterned_glass)item(excessive_utilities:redstone_glass)item(excessive_utilities:ethereal_glass)item(excessive_utilities:inverted_ethereal_glass)item(excessive_utilities:ineffable_glass)item(excessive_utilities:inverted_ineffable_glass)item(excessive_utilities:dark_ineffable_glass))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -8.0d

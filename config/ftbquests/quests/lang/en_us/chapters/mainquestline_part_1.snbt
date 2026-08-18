@@ -29,6 +29,7 @@
 	quest.3ADCAD65EA6900BA.title: "&2Archaeology&r!"
 	quest.3B6F1BD64C0C570F.quest_desc: ["Just like wind generation this will give you lots of power without giving it any resources. The only downside here is it has to be daytime. "]
 	quest.3B6F1BD64C0C570F.title: "Solar Power"
+	quest.4521A03C3F19121D.quest_desc: ["&aEnder IO&r also offers its own furnace-type generator, the Stirling Furnace. It has been buffed in this pack to make it a more viable early game option."]
 	quest.4869C413646CC4CC.quest_desc: [
 		"Transferring power out of your generators is probably a good idea, but how can you do it? "
 		""
@@ -54,8 +55,8 @@
 	quest.4DE1158931F84F22.title: "&cRedstone&r"
 	quest.4E5238F00CEED8B2.quest_desc: ["Smelting down raw ores in the beginning is necessary, but you are missing out on extra resources!\\n\\nThere are several ways to double your output per raw ore, but one of the easiest ways is by creating and using an &eOre Hammer&r.\\n\\nThese will break down 1 raw ore into 2 ore dust, which can be smelted into ingots, effectively doubling your ingot output!\\n\\nWant more per raw ore? Check out the mod &5Occultism&r!"]
 	quest.4E5238F00CEED8B2.title: "&eBasic Ore Doubling"
-	quest.5792CC9E3AFAB229.quest_desc: ["We also have the mod called &aGenerators Galore&r! This mod adds unique generators that use coal or other items."]
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
+	quest.5792CC9E3AFAB229.quest_desc: ["We also have the mod called &eExcessive Utilities&r! This mod adds, among other things, unique generators that use coal or other items."]
+	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 Aeronautics is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
 	quest.5CF320E9C4C1B1E1.title: "&eWelcome to Getting Started&r!"
 	quest.5E799B92358A8732.quest_desc: ["In the &cNether&r, you'll run into &6Ancient Debris&r. This can be smelted down into Scraps that can be combined with Gold to create &6Netherite Ingots&r, which is an endgame metal used to craft some of the strongest tools and armor in the game."]
 	quest.5E799B92358A8732.title: "&dAncient Metals"
@@ -88,7 +89,7 @@
 	quest.7741905EA8380B25.quest_desc: ["&aArmor Trims&r are items used to add trims to your armor! This can be done in Smithing Tables.\\n\\nWhile they do have a recipe, most of the trims are rare finds in from loot chests or archaeology digs. Once you find one, you can dupe the Template by using the recipe to create more!"]
 	quest.7741905EA8380B25.title: "&dArmor Trims"
 	quest.790EC3EDC2DB1FB0.quest_desc: ["As was mentioned before, this mod adds a ton of fun ways to generate power that require specific builds."]
-	quest.790EC3EDC2DB1FB0.title: "Generators Galore"
+	quest.790EC3EDC2DB1FB0.title: "More Excessive Utilities Generators"
 	quest.7975C7145572C438.quest_desc: ["Whether you are an experienced modded player, or a complete noob to MC, everyone has to make a &2Wooden Pickaxe&r.\\n\\nPickaxes allow you to break most stone and metal blocks. This wooden one won't last long, so make sure to gather some &3Cobblestone&r with it!"]
 	quest.7975C7145572C438.title: "Our First Pick"
 	quest.7D38BC3DB3406F51.quest_desc: ["With our Wooden Pickaxe, stone shouldn't be a problem to break!\\n\\n&3Cobblestone&r unlocks the next part of progression by allowing you to craft a Furnace to smelt our ores.\\n\\nYou'll also want to upgrade your pickaxe to stone to mine better ores like &bIron&r!"]
@@ -96,11 +97,11 @@
 	quest.7EC01E7DB045DB05.quest_desc: ["&aAugments&r are Furnace upgrades that can either change or upgrade the function of a Furnace.\\n\\n - Blasting: Converts the Furnace to only allow for Blasting recipes.\\n\\n - Smoking: Converts the Furnace to only allow for Smoking recipes.\\n\\n - Factory: Converts the Furnace to use power instead of fuel, and upgrades it to a factory, allowing it to smelt multiple items at once. This increases depending on the tier of Furnace.\\n\\n - Speed: Doubles the speed of the furnace at the cost of double the fuel.\\n\\n - Fuel Efficiency: Doubles the amount of items smelted per fuel, but reduces the speed by 25%"]
 	quest.7EC01E7DB045DB05.title: "Furnace &aAugments"
 	task.0AFA64F1025569A2.title: "Netherite Gear"
+	task.1329EDCB0F482F3D.title: "Excessive Utilities Furnace Generators"
 	task.1693B07767081FB3.title: "Armor Trims"
 	task.173044E1C1134A80.title: "Cobblestone"
 	task.1869893A4F8E9E9C.title: "Ore Hammers"
 	task.1960B985B54B9FBD.title: "Power Cables"
-	task.26CDA4EADF919D5C.title: "Generators"
 	task.285A53DB9D54595D.title: "Logs"
 	task.2CE553B282962E01.title: "Buckets"
 	task.2E49798B39BAA192.title: "Solar Power"
@@ -108,6 +109,7 @@
 	task.3BEA6C6A41D5ABEA.title: "Furnace Augments"
 	task.3C95552D03C16F3D.title: "Power Storage"
 	task.44CEA28EBD6C0898.title: "AllRightsReserved"
+	task.4DB11C6F180743E9.title: "Lava Power"
 	task.539C6F64C251543B.title: "Coal"
 	task.6CAD0E4CF3577BEB.title: "Kill 1 Warden"
 	task.76C41881A02F2098.title: "Kill 1 Wither"
