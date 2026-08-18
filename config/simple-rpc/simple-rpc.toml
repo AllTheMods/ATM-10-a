@@ -275,6 +275,10 @@
 	[[generic.presence.buttons]]
         label = "Download Modpack"
         url = "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10-aeronautics"
+		
+	[[generic.presence.buttons]]
+        label = "20% off with Akliz"
+        url = "https://akliz.net/allthemodsoly"
 
 #Custom Config Variables that you can use
 [custom]
