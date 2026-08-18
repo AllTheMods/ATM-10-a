@@ -59,7 +59,7 @@
 	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Stones"
 	quest.23631A4A743D4F0C.quest_desc: ["Don't even complain about this one. \\n\\nThere are dozens of ways of getting Iron and it's needed for even just normal progression. \\n\\nYou will get Iron, you will make it into a Block, and you will make it pretty!"]
 	quest.23631A4A743D4F0C.title: "&l&bChipped&r Metals"
-	quest.266127E7947CB3D4.quest_desc: ["All the beautiful Builds you see on this Quest Page are from people in the ATM Discord! \\n\\nDon't worry all have given consent to sharing their Builds and have been credited! \\n\\nIf you wish to share your Builds as well, check out the artwork-builds-showoff Channel in the Discord! \\n\\n(I can not assure that all Builds were made in ATM10 only that they were made by fellow Minecraft Players. Same ways that some might use Shaders, so if your Builds aren't exactly the same that could be why!)"]
+	quest.266127E7947CB3D4.quest_desc: ["All the beautiful Builds you see on this Quest Page are from people in the ATM Discord! \\n\\nDon't worry all have given consent to sharing their Builds and have been credited! \\n\\nIf you wish to share your Builds as well, check out the artwork-builds-showoff Channel in the Discord! \\n\\n(I can not assure that all Builds were made in ATM10 Aeronautics only that they were made by fellow Minecraft Players. Same ways that some might use Shaders, so if your Builds aren't exactly the same that could be why!)"]
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r is a Mod that adds a few very helpful Items. \\n\\nAll for of course, building! \\n\\nEach requires &cEnergy&r to work and has a Menu which is pulled up by default &lG&r.\\n\\nYou can even link these to an AE2 network by putting it into a Wireless Access Point!"]
 	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
 	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r is similar to Chisels Mods as it changes the designs of Blocks, but &b&lChipped&r has their own way of doing so! \\n\\n&b&lChipped&r instead uses Stations you'll need to go to, to change Blocks. \\n\\nThere's 7 different Stations each change different Blocks: Carpenters Table changes Wood, Glassblower changes Glass. \\n\\nAnd 6 of those Stations can be changed into a handheld Item for easier access. \\n\\nThere's even Backpack Upgrades for them!"]
@@ -157,8 +157,8 @@
 	quest.6BC78AF7C9D93F11.title: "&l&bChipped&r Terracotta"
 	quest.6F65216B13E9FFA9.quest_desc: ["Get a Block. Literally any Block. \\n\\nEvery Player should know Blocks are the building Blocks of building. To actually build something you will need Blocks."]
 	quest.6F65216B13E9FFA9.title: "Blocks!"
-	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r is very important Mod for building, even for builds with purposes! \\nIt's not just normal Glass, these have abilities which can be read while hovering over the Item! \\n\\nLike Ethereal Glass which you can walk through but Mobs can't. (I used that for my Bee Dome in 9sky!)"]
-	quest.72DB967E59EEA729.title: "&3&lGlassential&r"
+	quest.72DB967E59EEA729.quest_desc: ["&e&lExcessive Utilities&r offers a bunch of different Glass variants! \\n\\nIt's not just normal Glass, some of these have abilities which can be read by pressing ALT while hovering over the Item! \\n\\nLike Ethereal Glass (Inverted) which you can walk through but Mobs can't. (I used that for my Bee Dome in 9sky!)"]
+	quest.72DB967E59EEA729.title: "&e&lExcessive Utilities&r Glass"
 	quest.7C2ED69E07988DF4.quest_desc: ["The original &2&lMinecraft&r Chair, the stairs. \\n\\nWelcome to Modded &2&lMinecraft&r, we have much more than just stairs for decoration. \\n\\nThere are dozens of mods that add decoration and even more that add items that can be used for decoration!"]
 	quest.7C2ED69E07988DF4.title: "Decoration!"
 	quest.7CF13A4941F608E5.quest_desc: ["From normal Glass, to Glass with Panes, to even Mosaics!"]
@@ -222,7 +222,7 @@
 	task.4E28970476CABACD.title: "Chipped Lights"
 	task.50BED71A6677392E.title: "Railcraft Stones"
 	task.53A6720343E57302.title: "Sushi Go Crafting"
-	task.53A682560123F9B6.title: "Glassential"
+	task.53A682560123F9B6.title: "Excessive Utilities Glass"
 	task.5936B8B8EDE0AE55.title: "Metal and Gem Blocks"
 	task.5DEABD15EDE5736F.title: "XyCraft Glass"
 	task.5FB27C61053F7FB5.title: "Ars Nouveau Lights"

@@ -610,9 +610,9 @@
 			dependencies: ["17C87EB8ED8A27AB"]
 			id: "3F1430ADB648102F"
 			rewards: [{
-				id: "7D66827934F17D92"
-				type: "xp_levels"
-				xp_levels: 50
+				id: "42E1AEA3233C2C5C"
+				type: "xp"
+				xp: 50
 			}]
 			tasks: [{
 				id: "36B1DF7B054D803A"
@@ -626,9 +626,9 @@
 			dependencies: ["17C87EB8ED8A27AB"]
 			id: "17410BE15A81DD96"
 			rewards: [{
-				id: "39962F3D8EB1C56B"
-				type: "xp_levels"
-				xp_levels: 100
+				id: "06ECCE9CD47C9C33"
+				type: "xp"
+				xp: 100
 			}]
 			tasks: [{
 				id: "602E67E4865AF1C5"

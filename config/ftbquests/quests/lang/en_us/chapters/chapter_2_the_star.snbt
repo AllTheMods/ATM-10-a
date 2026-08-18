@@ -65,8 +65,11 @@
 	quest.23AE395433AED3C0.title: "&6&lThe Star's&r Casing"
 	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lModern Industrialization&r is a mod as big as its name! \\n\\nIt has multiple tiers of machines and thankfully we don't need to go to the last one for the &6&lStar&r. \\n\\nInfact now, it is entirely optional! If you'd rather play with &6&lCreate&r to create (get it?) the &6&lATM Star&r you can!"]
 	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
-	quest.263C9A0FC04472AB.quest_desc: ["This one can either eat &cLava&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
-	quest.263C9A0FC04472AB.title: "&464x Magmatic Generator"
+	quest.25DF42B99D658884.quest_desc: ["&7&lEnder IO&r is a tech mod.\\n\\nStart by getting &7Grains of Infinity&r from setting Bedrock or Deepslate on fire in the Overworld.\\n\\nFor the longest time, it did not have a questline, but it does have one now!"]
+	quest.25DF42B99D658884.quest_subtitle: "&oBing bang boom, sweep infinity with a broom"
+	quest.25DF42B99D658884.title: "&7&lEnder IO"
+	quest.263C9A0FC04472AB.quest_desc: ["This one can either eat &cLava&r and &4Redstone&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
+	quest.263C9A0FC04472AB.title: "&6Heated Redstone Generator"
 	quest.268EA2DEC8840D13.quest_desc: ["When working on &4Computers&r, especially Quantum ones, the Hammers and Pliers on the Crafting Table won't be able to craft us what we need, we'll need a &bCrystal Assembler&r. \\n\\nFor this one we'll need a whole bunch of &9Singularities&r!"]
 	quest.268EA2DEC8840D13.title: "&4Quantum Computer Multi-Threader"
 	quest.28DB59B20109D0D4.quest_desc: ["&6&lOritech&r is a Tech Mod (go figure!) known for lots of &lMultiblock Machines&r, Dangerous Blocks, and Colorful Titled Blocks! \\n\\nYou'll need a bunch of Machines, many different Alloys and Materials, and lots of time. \\n\\nYou'll need a &6Magnetic Coil&r to start, and good luck!"]
@@ -84,7 +87,7 @@
 	quest.2CECCA9D05D3EF12.quest_desc: ["The &2Eternal Stella&r is quite expensive. You'll need a Tier 3 Forge first! \\n\\nThen, you'll need &7Stellarite Piece&r which you can mine for. And you have to get 3 &aXpetried Orbs&r which you can no longer mine for. Instead you'll have to feed a Black Hole &aEXP&r to get it! \\n\\nFinally, you'll need an &6AllTheModium Ingot&r to get the &2Eternal Stella&r. It makes sense why it is so expensive as it can be combined with any Tool to make it Invincibile!"]
 	quest.2CECCA9D05D3EF12.title: "&2Eternal Stella"
 	quest.2D474F8075E9DBD0.quest_desc: ["First you need to place down the Casting Altar and Standing Stones in the pattern specified in JEI. \\n\\nThen, you'll need to put a Diamond Block, a Stick, and Blaze Powder into the Altar. \\n\\nAfter that, place down 4 Incense Blaziers around the Altar, put the Block of Coal in one, Acacia Bark in another, Verdant Bark in the third, and Birch Bark in the last. And light them all up with a Flint and Steel! \\n\\nThen Shift Right Click the Altar to start the Ritual! If it didn't work check the pattern the Standing Stones are in."]
-	quest.2D64EF8D803AF9DA.quest_desc: ["The most expensive Portal we can make. First for &dDragon Eggs&r you don't have to keep milking the &dDragon&r you can use &l&bHNN&r or &l&2MA&r to get them or an Extrator to make more! \\n\\nThen, you'll need &dInfused Dragon's Breath&r from Enchanting. \\n\\nThere you'll need &9Soul-Touched Sculkshelves&r to Enchant it and to make the Portal. \\n\\nIf you are wondering why the Portal won't work, it's because you are already in the &2&lOverworld&r! Just kidding you can't use it!"]
+	quest.2D64EF8D803AF9DA.quest_desc: ["The most expensive Portal we can make. First for &dDragon Eggs&r you don't have to keep milking the &dDragon&r you can use &l&bHNN&r or &l&2MA&r to get them or an Extractor to make more! \\n\\nThen, you'll need &dInfused Dragon's Breath&r from Enchanting. \\n\\nThere you'll need &9Soul-Touched Sculkshelves&r to Enchant it and to make the Portal. \\n\\nIf you are wondering why the Portal won't work, it's because you are already in the &2&lOverworld&r! Just kidding you can't use it!"]
 	quest.2E88CCBC7B97A1F0.quest_desc: ["If only that giant portal in the Ancient City did something! Oh wait with &9&lDeeper and Darker&r it can! \\n\\nYou only need a..."]
 	quest.2E88CCBC7B97A1F0.title: "&9&lDeeper and Darker"
 	quest.2F76D074AEA84A4D.quest_desc: ["By Right Clicking an &dEnder Dragon&r with an empty &bData Model&r, you can make the &dEnder Dragon &bData Model&r. \\n\\nThe Quest needs any version of it, but the &d&lDragon Soul&r needs the &bData Model&r to be &6Self Aware&r. \\n\\nIn order to get it &6Self Aware&r you need to keep killing the &dDragon&r or make a crap-ton of Predictions!"]
@@ -123,6 +126,7 @@
 	quest.3F5B5D6B788E0A73.quest_desc: ["Blood, flesh, rituals, if it's evil you can bet it's from &4&lEvilCraft&r! "]
 	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
 	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r is an Effect in &l&2Vanilla&r so of course we need our own way of using and abusing it! \\n\\nYou can Brew an Awkward Potion with a &8Wither Skeleton Skull&r to create it. Then you can craft Arrows with it!"]
+	quest.4069785E5822068C.quest_desc: ["Made in the VAT, &3Cloud Seed Concentrated&r can be used with the Weather Obelisk to make the weather thundering. Or be used for the &6&lStar&r."]
 	quest.4195800B4D7631E2.quest_desc: ["Through the ritual of &6Eziveus' Spectral Compulsion&r we can combine a &7Wormhole Frame&r, 2 Quartz, and an &3Enderpearl&r to get our Wormhole!"]
 	quest.4195800B4D7631E2.title: "&6Stable Wormhole"
 	quest.42AF4EBDA5D6CC36.quest_desc: ["You can make &2Blastproof Alloy&r by combining the three strongest Metals available. &5Tungsten&r, &dTitanium&r, and &7Stainless Steel&r. Yes, stains matter apparently. \\n\\nWith these you can combine them to make the &2Casing&r. \\n\\nFor the &3&lImprobable Probablity Device&r we'll need either 2 &2Blastproof Casings&r, or 2 256M Portable Item Cells, or we can use a mix of both!"]
@@ -133,13 +137,14 @@
 	quest.486B5A605D79EA10.title: "&cManhattan &aModule"
 	quest.49FDD8666356A3E7.quest_desc: ["We can use either or both &2Blastproof Casing&r or 256M Portable Item Cells to Craft the &3&lImprobable Probability Device&r. \\n\\nWait did I say either or both? \\n\\nYes I did! We can use 2 &2Blastproof Casings&r or 2 256M Portable Item Cells or one of each."]
 	quest.49FDD8666356A3E7.title: "Either or &2Blastproof Casings&f and 256M Portable Item Cells"
-	quest.4B12425E74C5E511.quest_desc: ["The &cExplosive Mycelial Generator&r does an amazing job at soaking up Explosions. \\n\\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
-	quest.4B12425E74C5E511.title: "&cExplosive Mycelial Generator"
+	quest.4B12425E74C5E511.quest_desc: ["The &cExplosive Generator&r does an amazing job at soaking up Explosions. \\n\\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
+	quest.4B12425E74C5E511.title: "&cExplosive Generator"
 	quest.4B7D387CEFF9667E.quest_desc: ["Finally! &6&lCreate&r has been updated and it is definitely worth the wait! \\n\\n&6&lCreate&r is all about rotating and using Rotational Power... well for practically everything! Crafting, crushing, mixing, brewing, ETC. \\n\\nIf it has been so long that you don't remember how to use &6&lCreate&r, you can use &7&lModern Industrialization&r to Craft the &6&lATM Star&r."]
 	quest.4B7D387CEFF9667E.title: "&6&lCreate"
 	quest.4BD203AD481DDE8F.quest_desc: ["The &4Meat Shredder&r is made from &4Witherite&r, which is a Drop from &4&lThe Harbringer&r. \\n\\nYou'll need to find the &4Ancient Factory&r which lies deep underground in the &2&lOverworld&r. \\n\\nThen you'll find the powered down &4&lHarbringer&r, to power it up we'll need to feed it a Nether Star! \\n\\nThen, after a very difficult and long boss fight, you can Craft the &4Meat Shredder&r!"]
 	quest.4BD203AD481DDE8F.title: "&4Meat Shredder"
-	quest.4CB488E5CF10F3A4.quest_desc: ["Only the most powerful and expensive Generator from &c&lGenerator Galore&r. \\n\\nYou'll need an &9Echo Shard&r, a &bConduit&r, and a ton of Netherstar Generators!"]
+	quest.4CB488E5CF10F3A4.quest_desc: ["Only the most powerful and expensive Generator from &e&lExcessive Utilities&r. \\n\\nYou'll need one of every Generator in the mod!"]
+	quest.4CB488E5CF10F3A4.title: "&zRainbow Generator!"
 	quest.4D7D4C718837BCA5.quest_desc: ["The main part of the recipe for the Miniature Nether Portal is the &3Hellshelf of Masterful Sight&r. Usually it is used to see what Enchantments you'll get but we're here for the &6&lATM Star&r not for Enchantments. \\n\\nYou'll only need to enchant to an &4Infused Hellshelf&r which you can get from just a few Shelves. Then you need to craft with it to upgrade it even more! \\n\\nAfter that you can craft the Miniature Nether Portal, which no you can't walk through you're too big!"]
 	quest.4E82E843737045D9.quest_desc: [""]
 	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
@@ -165,10 +170,10 @@
 	quest.5791F3000D18E2C9.quest_desc: ["The &8Wither&r has a tendency to break and blow up Blocks. \\n\\nMost players do not enjoy this, so the &8Witherproof Bricks&r are just what you are looking for! \\n\\nThey are just like &8Witherproof Blocks&r, just with a better design!"]
 	quest.5791F3000D18E2C9.title: "&8Witherproof Bricks"
 	quest.57F107892FFA1F52.quest_desc: ["To grow Nether Star Seeds you'll need a Crux below the Farmland. Yes growing Nether Stars needed to be made more expensive! \\n\\nTo make the Nether Star Crux you'll need &7Withering Souls&r which have a 1/3 chance drop from &8Withers&r."]
-	quest.5869E198DA416346.quest_desc: ["Late Game &5&lMekanism&r is just insane. For 1 &5Antimatter Pellet&r you need to crystallize 1,000mb &5Antimatter&r. \\n\\nFor 1mb of &5Antimatter&r you need to power 1,000mb of &3Polonium&r through the SPS. \\n\\nTo get 1mb of &3Polonium&r you'll need to activate the Neutrons of 5mb of &2Nuclear Waste&r. \\n\\nAnd &2Nuclear Waste&r you get from processing &9Fissile Fuel&r through a Fission Reactor!"]
-	quest.5869E198DA416346.title: "2 &5Antimatter Pellets"
-	quest.59EC02C1FBCF14EA.quest_desc: ["You can upgrade your &5Obsidian Generator&r into an &3Ender Generator&r. \\n\\nThen, it can use &3Ender Pearls&r or &3Eyes of Ender&r to make Energy! \\n\\nOr make the &6&lStar&r, your choice."]
-	quest.59EC02C1FBCF14EA.title: "&3Ender Generator"
+	quest.5869E198DA416346.quest_desc: ["The embodiment of a perfect opinion.\\n\\nA single Perfected Opinium Core requires:\\n- 1024 Red Coal\\n- 4609 Iron Ingots\\n- 2304 Gold Ingots\\n- 1152 Diamonds\\n- 576 Emeralds\\n- 32 Chorus Flowers\\n- 16 Bottles o' Enchanting\\n- 8 Elytras\\n- 4 Nether Stars\\n\\nIn my opinion, a better choice for the &3&lImprobable Probability Device&r than &5Antimatter&r."]
+	quest.5869E198DA416346.title: "2 Perfected Opinium Cores"
+	quest.59EC02C1FBCF14EA.quest_desc: ["&3Ender Quarry Fortune III Upgrade&r applies the Fortune III enchantment to the &3Ender Quarry&r."]
+	quest.59EC02C1FBCF14EA.title: "&3Ender Quarry Fortune III Upgrade"
 	quest.5A6831E0BD2F6AB5.quest_desc: ["You'll need a lotta &8Dark Gems&r!"]
 	quest.5A6831E0BD2F6AB5.title: "2 &4Piercing Vengeance Focuses"
 	quest.5B2FD54E425D5C9D.quest_desc: ["Now this ones hard to get... we'll need to kill 2 Bosses and a Miniboss to get everything for the &dVoid &cForge&r. \\n\\nFirst, we'll need a &4Mechanical Fusion Anvil&r. To get it, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbringer&r a Nether Star to power it up and kill it! &4&lThe Harbringer&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &cInfernal Forge&r. That is a Drop from the &c&lNetherite Monstrosity&r. \\n\\nGo to &c&lThe Nether&r to find the &cSoul Blacksmith&r structure. Then, fight and kill the &c&lNetherite Monstrosity&r to get your &cInfernal Forge&r! \\n\\nLast and probably easiest is the &dVoid Core&r. Thankfully it isn't dropped from a Boss, instead it is a Miniboss! \\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &dEnder Golem&r. This one will drop us our &dVoid Core&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &cInfernal Forge&r and &dVoid Core&r to create the &dVoid &cForge&r."]
@@ -234,13 +239,13 @@
 	quest.73E2A53A088AD29A.quest_subtitle: "11 Wet Pink Blocks"
 	quest.750B6316267CF574.quest_desc: ["When your Hives are vacant and in the dark you may find a little Bee visitor, the Skeletal Bee. \\n\\nYou can then feed your new visitor a &8Wither Rose&r to make them a &8Withered Bee&r. "]
 	quest.750B6316267CF574.title: "&8Withered Comb Block"
-	quest.752DD0BF36B70D88.quest_desc: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\\n\\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \\n\\nIt also has a Quest page it is just rooming together with &c&lGenerator Galore&r."]
+	quest.752DD0BF36B70D88.quest_desc: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\\n\\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \\n\\nIt also has a Quest page."]
 	quest.752DD0BF36B70D88.title: "&7&lIron Furnaces"
 	quest.75EE965CBA598FEA.quest_desc: ["The recipe may look confusing but trust me it is pretty easy. Craft any &dWireless Terminals&r then craft them together to make the &dUniversal Wireless Terminal&r. \\n\\nIt will also keep whatever you had on the &dTerminal&r like Extended Patterns, that is very helpful for using &b&lAE2&r but doesn't matter for the &6&lATM Star&r!"]
 	quest.75EE965CBA598FEA.title: "&dUniversal Wireless Terminal"
 	quest.764609E41957DA69.quest_subtitle: "6,561 Emerald Blocks"
-	quest.76C63670624C3C56.quest_desc: ["&c&lGenerator Galore&r gives us tons of helpful and simple Power Generators! \\n\\nSome can even be combined with each other to be more powerful. \\n\\nThere is a Quest page for them it's just roomates with &7&lIron Furnaces&r."]
-	quest.76C63670624C3C56.title: "&c&lGenerator Galore"
+	quest.76C63670624C3C56.quest_desc: ["&e&lExcessive Utilities&r is a continuation of &e&lExtra Utilities 1&r and &e&l2&r, offering various useful items and such. Some of you might remember the mod from older versions of modded Minecraft.\\n\\nWhether this is your first time seeing this mod, or your thousandth, you will need some things from the mod for the &6&lATM Star&r."]
+	quest.76C63670624C3C56.title: "&e&lExcessive Utilities"
 	quest.7766E66A14643F4D.quest_desc: ["&6Awakening&r is a relatively new addition to &2&lMystical Agriculture&r. Through the &6Awakening Ritual&r you can make &6Awakened Essence&r. \\n\\nThen you can combine those with Ingots to get this Block!"]
 	quest.7766E66A14643F4D.title: "&6Awakened Supremium Ingot Block"
 	quest.779CA0C49F93C4F9.quest_subtitle: "59,049 Obsidian"

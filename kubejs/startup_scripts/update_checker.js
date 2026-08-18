@@ -8,7 +8,8 @@ StartupEvents.postInit(event => {
     // testing
     //let currentVersion = new $DefaultArtifactVersion("0.2.0-beta")
     let currentVersion = new $DefaultArtifactVersion($BccInstance.betterStatus.version())
-    KJSTweaks.curseForgeGetEndpoint("v1/mods/" + modPackId + "/files?pageSize=1", Client, response => {
+    /*
+	KJSTweaks.curseForgeGetEndpoint("v1/mods/" + modPackId + "/files?pageSize=1", Client, response => {
       let displayName = response.get("data").get(0).get("displayName").getAsString()
       let cfLatestVersionStr = displayName.toLowerCase($Locale.ROOT).replace("all the mods 10-", "").replace(".zip", "")
       let cfLatestVersion = new $DefaultArtifactVersion(cfLatestVersionStr)
@@ -22,5 +23,6 @@ StartupEvents.postInit(event => {
         console.log("Pack is up to date!")
       }
     })
+	*/
   }
 })

@@ -139,8 +139,6 @@
 	quest.15C9CCCC8E06D430.title: "Black Quartz Bee"
 	quest.160BD0185954C891.quest_desc: ["Instead of using Honey Treats, this hive requires Gold Ingots to attract Bees."]
 	quest.160BD0185954C891.quest_subtitle: "Lures a Gold Bee when placed in the Nether"
-	quest.16987C41D4F5BA47.quest_subtitle: "Made in Alloy Smelter"
-	quest.16987C41D4F5BA47.title: "Copper Alloy Bee"
 	quest.170C31F3BAF050BC.quest_subtitle: "Made in Reprocessor"
 	quest.170C31F3BAF050BC.title: "Blutonium Bee"
 	quest.17419401147B5C02.quest_desc: [
@@ -408,8 +406,6 @@
 	quest.55882C10292B6A3D.quest_subtitle: "Feed a Crystalline Bee a Prosperity Block"
 	quest.55882C10292B6A3D.title: "ProsperiBee"
 	quest.57167FE67CFAC255.quest_subtitle: "Used to add Bees to a Filter"
-	quest.573BC5360C5CA675.quest_subtitle: "Ghostly + Skeletal"
-	quest.573BC5360C5CA675.title: "Grave's Bee"
 	quest.57ACD83205988834.quest_subtitle: "Gold + Ender"
 	quest.57ACD83205988834.title: "Platinum Bee"
 	quest.5867713D016143A6.quest_subtitle: "Made with Enchanting Apparatus"

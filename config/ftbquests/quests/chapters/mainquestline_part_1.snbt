@@ -118,9 +118,10 @@
 			y: 6.0d
 		}
 		{
+			click_action: "none:"
 			height: 1.0d
 			id: "0061D730B6149B6E"
-			image: "generatorgalore:block/copper_generator_front"
+			image: "enderio:block/stirling_generator_front_active"
 			rotation: 0.0d
 			width: 1.0d
 			x: 3.0d
@@ -986,7 +987,7 @@
 			]
 			tasks: [{
 				id: "4DB11C6F180743E9"
-				item: { components: { "ftbfiltersystem:filter": "or(item(powah:magmator_basic)item(powah:magmator_starter)item(generatorgalore:magmatic_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(powah:magmator_basic)item(powah:magmator_starter)item(excessive_utilities:magmatic_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 5.5d
@@ -1050,7 +1051,7 @@
 			}]
 			tasks: [{
 				id: "1329EDCB0F482F3D"
-				item: { count: 1, id: "generatorgalore:copper_generator" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(excessive_utilities:survivalist_generator)item(excessive_utilities:furnace_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 3.0d
@@ -1066,9 +1067,8 @@
 				type: "random"
 			}]
 			tasks: [{
-				id: "26CDA4EADF919D5C"
-				item: { components: { "ftbfiltersystem:filter": "or(item(generatorgalore:enchantment_generator)item(generatorgalore:halitosis_generator)item(generatorgalore:netherstar_generator)item(generatorgalore:potion_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
+				id: "4EA8E719C904DF50"
+				type: "checkmark"
 			}]
 			x: 3.0d
 			y: 9.0d
@@ -1090,6 +1090,26 @@
 			]
 			x: -4.0d
 			y: 1.5d
+		}
+		{
+			dependencies: ["24C9BA6DC32CFAD9"]
+			id: "4521A03C3F19121D"
+			rewards: [{
+				count: 4
+				id: "07D17FABA15F6EFC"
+				item: {
+					count: 1
+					id: "enderio:grains_of_infinity"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E20735A36F2BCA9"
+				item: { count: 1, id: "enderio:stirling_generator" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
 		}
 	]
 }
