@@ -3,7 +3,36 @@
 
 ItemEvents.modifyTooltips(allthemods => {
 
-    // ##### Gear #####
+    // ##### Railcraft #####
+    allthemods.add('railcraft:steam_turbine', [
+        Text.green('Increased Energy Production!'),
+        Text.gray('Cheaper Recipe!')
+    ])
+
+  // ##### BigReactors #####
+    allthemods.add(/bigreactors:/, [
+        Text.gray('Reduced multiblock size!'),
+    ])
+
+    // ##### EnderIO #####
+
+    const eiobase = [
+        'enderio:crafter', 
+        'enderio:soul_binder', 
+        'enderio:slice_and_splice', 
+        'enderio:sag_mill', 
+        'enderio:stirling_generator', 
+        'enderio:wireless_charger', 
+        'enderio:painting_machine', 
+        'enderio:alloy_smelter', 
+        'enderio:wired_charger'
+    ]
+
+    allthemods.add( eiobase, [
+        Text.gray('Increased Base stats!'),
+    ])
+
+    // ##### Mekanism #####
 
     //Mekasuit
     allthemods.add(/mekanism:mekasuit_/, [
@@ -17,23 +46,17 @@ ItemEvents.modifyTooltips(allthemods => {
         Text.green('Increased Attack Speed & Damage!')
     ])
 
-    // ##### Generators #####
-
     //Solar Generator
     allthemods.add('mekanismgenerators:solar_generator', [
-        Text.green('Increased Energy Capacity & Production!')
+        Text.red('Decreased Energy Production!')
     ])
     //Advanced Solar Generator
     allthemods.add('mekanismgenerators:advanced_solar_generator', [
-        Text.green('Increased Energy Capacity & Production!')
+        Text.red('Decreased Energy Production!')
     ])
     //Wind Generator
     allthemods.add('mekanismgenerators:wind_generator', [
-        Text.green('Increased Energy Capacity & Production!')
-    ])
-    //Heat Generator
-    allthemods.add('mekanismgenerators:heat_generator', [
-        Text.green('Increased Energy Capacity & Production!')
+        Text.red('Decreased Energy Production!')
     ])
     //Gas Burning Generator
     allthemods.add('mekanismgenerators:gas_burning_generator', [
@@ -48,14 +71,6 @@ ItemEvents.modifyTooltips(allthemods => {
     allthemods.add(/mekanismgenerators:fusion_/, [
         Text.red('Decreased Energy Production!'),
         Text.green('Decreased Fuel Consumption!'),
-    ])
-    //Turbine
-    allthemods.add(/mekanismgenerators:turbine_/, [
-        Text.green('Increased Production Speed!'),
-    ])
-    //Boiler
-    allthemods.add(/mekanism:boiler_/, [
-        Text.green('Increased Production Speed!'),
     ])
 
     // ##### Machines #####
