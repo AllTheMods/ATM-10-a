@@ -2,6 +2,13 @@
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 
 ServerEvents.tags('block', allthemods => {
+  // Tick Accel Blacklist
+  allthemods.add("allthemods:tick_acceleration_blacklist", ["excessive_utilities:quantum_quarry"])
+
+  allthemods.add("justdirethings:tick_speed_deny", "#allthemods:tick_acceleration_blacklist")
+  allthemods.add("tiab:un_acceleratable", "#allthemods:tick_acceleration_blacklist")
+  //allthemods.add('industrialforegoingsouls:cant_accelerate', '#allthemods:tick_acceleration_blacklist')
+  
   // Waystones
   allthemods.add('ftbchunks:interact_whitelist', ['@waystones'])
 
@@ -31,6 +38,9 @@ ServerEvents.tags('block', allthemods => {
   allthemods.add('c:storage_blocks/niter', 'kubejs:saltpeter_block')
   allthemods.add('c:storage_blocks/saltpeter', 'kubejs:saltpeter_block')
   allthemods.add('c:storage_blocks', '#c:storage_blocks/niter')
+  
+  // Fix Jank with Feral Flares and Enchanting
+  allthemods.add("minecraft:replaceable", "torchmaster:invisible_light")
 })
 
 ServerEvents.tags('fluid', allthemods => {
