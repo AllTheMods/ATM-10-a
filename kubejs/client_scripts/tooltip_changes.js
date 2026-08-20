@@ -5,7 +5,6 @@ ItemEvents.modifyTooltips(allthemods => {
 
     // ##### Railcraft #####
     allthemods.add('railcraft:steam_turbine', [
-        Text.green('Increased Energy Production!'),
         Text.gray('Cheaper Recipe!')
     ])
 
@@ -16,20 +15,43 @@ ItemEvents.modifyTooltips(allthemods => {
 
     // ##### EnderIO #####
 
-    const eiobase = [
+    const baseplus = [
         'enderio:crafter', 
         'enderio:soul_binder', 
         'enderio:slice_and_splice', 
         'enderio:sag_mill', 
-        'enderio:stirling_generator', 
         'enderio:wireless_charger', 
         'enderio:painting_machine', 
         'enderio:alloy_smelter', 
         'enderio:wired_charger'
     ]
 
-    allthemods.add( eiobase, [
-        Text.gray('Increased Base stats!'),
+//    const baseneg = [
+//    ]
+
+    const powpos = [
+        `enderio:stirling_generator`,
+        'enderio:soul_engine',
+        'railcraft:steam_turbine'
+    ]
+
+    const powneg = [
+    'mekanismgenerators:solar_generator',
+    'mekanismgenerators:advanced_solar_generator',
+    'mekanismgenerators:wind_generator',
+    'mekanismgenerators:gas_burning_generator'
+    ]
+
+    allthemods.add( baseplus, [
+        Text.green('Increased base speed!'),
+    ])
+
+    allthemods.add( powpos, [
+        Text.green('Increased power production!'),
+    ])
+
+    allthemods.add( powneg, [
+        Text.gray('Reduced power production'),
     ])
 
     // ##### Mekanism #####
@@ -46,31 +68,9 @@ ItemEvents.modifyTooltips(allthemods => {
         Text.green('Increased Attack Speed & Damage!')
     ])
 
-    //Solar Generator
-    allthemods.add('mekanismgenerators:solar_generator', [
-        Text.red('Decreased Energy Production!')
-    ])
-    //Advanced Solar Generator
-    allthemods.add('mekanismgenerators:advanced_solar_generator', [
-        Text.red('Decreased Energy Production!')
-    ])
-    //Wind Generator
-    allthemods.add('mekanismgenerators:wind_generator', [
-        Text.red('Decreased Energy Production!')
-    ])
-    //Gas Burning Generator
-    allthemods.add('mekanismgenerators:gas_burning_generator', [
-        Text.red('Decreased Energy Production!'),
-        Text.red('Increased Fuel Consumption!')
-    ])
     //Fission Generator
     allthemods.add(/mekanismgenerators:fission_/, [
         Text.red('Decreased Energy Production!'),
-    ])
-    //Fusion Generator
-    allthemods.add(/mekanismgenerators:fusion_/, [
-        Text.red('Decreased Energy Production!'),
-        Text.green('Decreased Fuel Consumption!'),
     ])
 
     // ##### Machines #####
