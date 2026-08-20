@@ -3,7 +3,7 @@
 
 ServerEvents.recipes(allthemods => {
     allthemods.remove({ id: `railcraft:steam_turbine` })
-    allthemods.shaped('railcraft:steam_turbine', [
+    allthemods.shaped('2x railcraft:steam_turbine', [
         'AAA',
         'BCB',
         'AAA'
