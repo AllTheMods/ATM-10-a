@@ -49,6 +49,27 @@ ServerEvents.recipes(allthemods => {
     // Remove Raw Redstone Block Recipe
     allthemods.remove({id: 'regions_unexplored:raw_redstone_block'});
 
+const ifgens = [
+        'industrialforegoing:mycelial_frosty',
+        'industrialforegoing:mycelial_explosive',
+        'industrialforegoing:mycelial_ender',
+        'industrialforegoing:mycelial_disenchantment',
+        'industrialforegoing:mycelial_potion',
+        'industrialforegoing:mycelial_culinary',
+        'industrialforegoing:mycelial_slimey',
+        'industrialforegoing:mycelial_furnace',
+        'industrialforegoing:mycelial_reactor',
+        'industrialforegoing:mycelial_rocket',
+        'industrialforegoing:mycelial_crimed',
+        'industrialforegoing:mycelial_meatallurgic',
+        'industrialforegoing:mycelial_death',
+        'industrialforegoing:mycelial_netherstar',
+        'industrialforegoing:mycelial_pink',
+        'industrialforegoing:mycelial_magma',
+        'industrialforegoing:mycelial_halitosis']
+
+    allthemods.remove({output: ifgens});
+
     // Dense Uraninite Ore Energizing Recipes
     allthemods.remove({ id: 'powah:energizing/uraninite_from_ore' })
     allthemods.custom({
