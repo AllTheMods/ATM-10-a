@@ -33,7 +33,7 @@ ServerEvents.recipes(allthemods => {
                 'EER'
             ],
             {
-                B: 'ars_nouveau:archmage_spell_book',
+                B: 'allthearcanistgear:unobtainium_spell_book',
                 S: 'allthetweaks:atm_star',
                 G: 'ars_nouveau:source_gem_block',
                 E: 'minecraft:ender_eye',
@@ -65,6 +65,193 @@ ServerEvents.recipes(allthemods => {
                 sourceCost: 0
             }
         ).id('allthemods:enchanting_apparatus/creative_source_jar')
+		
+	// Create (and addons)
+	
+		allthemods.custom({
+			"type": "create:mechanical_crafting",
+			"accept_mirrored": false,
+			"category": "misc",
+			"key": {
+				"P": {
+				"item": 'allthemodium:unobtainium_plate'
+				},
+				"W": {
+				"item": 'createaddition:electrum_spool'
+				},
+				"V": {
+				"item": 'allthemodium:vibranium_allthemodium_alloy_ingot'
+				},
+				"R": {
+				"item": 'allthemodium:vibranium_rod'
+				},
+				"C": {
+				"item": 'allthetweaks:atm_star'
+				}
+			},
+			"pattern": [
+				"  V  ",
+				" PWP ",
+				"PWRWP",
+				" PCP "
+			],
+			"result": {
+				"count": 1,
+				"id": 'create:creative_motor'
+			},
+			"show_notification": false
+		}).id("allthemods:create/creative_motor")
+		
+		allthemods.recipes.kubejs.shaped('createpropulsion:creative_thruster', 
+            [
+                'UPU', 
+                'NSN', 
+                'UVU'
+            ],
+            {
+                U: '#c:plates/unobtainium',
+                S: 'allthetweaks:atm_star',
+                P: 'excessive_utilities:transfer_pipe',
+                N: 'excessive_utilities:energy_transfer_node',
+                V: '#c:plates/vibranium'
+            }
+        ).id("allthemods:createpropulsion/creative_thruster")
+		
+		allthemods.recipes.kubejs.shaped('createpropulsion:creative_vector_thruster', 
+            [ 
+                'UTU', 
+                'NGN'
+            ],
+            {
+                U: '#c:plates/unobtainium',
+                T: 'createpropulsion:creative_thruster',
+                G: 'simulated:gimbal_sensor',
+                N: '#c:nuggets/unobtainium'
+            }
+        ).id("allthemods:createpropulsion/creative_vector_thruster")
+		
+		allthemods.recipes.kubejs.shaped('create_sa:creative_filling_tank', 
+            [
+                ' W ', 
+                'FSU', 
+                ' L '
+            ],
+            {
+                U: 'create_sa:large_fueling_tank',
+                S: '#c:nuggets/allthemodium',
+                W: 'extendedae:infinity_water_cell',
+                F: 'create_sa:large_filling_tank',
+                L: 'kubejs:lava_cell'
+            }
+        ).id("allthemods:create_sa/creative_filling_tank")
+		
+		allthemods.recipes.kubejs.shaped('create_enchantment_industry:creative_bookshelf', 
+            [
+                'BGB', 
+                'PTP', 
+                'BPB'
+            ],
+            {
+                B: 'create_enchantment_industry:brass_bookshelf',
+                G: 'apotheosis:gem[apotheosis:gem="apotheosis:overworld/royalty",apotheosis:purity="perfect"]',
+                P: 'apotheosis:god_fused_pearl',
+                T: 'apothic_enchanting:treasure_shelf'
+            }
+        ).id("allthemods:create_enchantment_industry/creative_bookshelf")
+		
+		    allthemods.custom({
+				"type": "create:mechanical_crafting",
+				"accept_mirrored": false,
+				"category": "misc",
+				"key": {
+					"A": {
+					"item": 'minecraft:cake'
+					},
+					"B": {
+					"item": 'farmersdelight:sweet_berry_cheesecake'
+					},
+					"C": {
+					"item": 'herbsandharvest:cheesecake'
+					},
+					"D": {
+					"item": 'herbsandharvest:blueberry_cheesecake'
+					},
+					"E": {
+					"item": 'herbsandharvest:raspberry_cheesecake'
+					},
+					"F": {
+					"item": 'herbsandharvest:pineapple_cake'
+					},
+					"G": {
+					"item": 'herbsandharvest:yellow_cake'
+					},
+					"H": {
+					"item": 'allthetweaks:atm_star'
+					},
+					"I": {
+					"item": 'herbsandharvest:black_forest_cake'
+					},
+					"J": {
+					"item": 'herbsandharvest:strawberry_cake'
+					},
+					"K": {
+					"item": 'herbsandharvest:carrot_cake'
+					},
+					"L": {
+					"item": 'create_enchantment_industry:experience_cake'
+					},
+					"M": {
+					"item": 'createaddition:honey_cake'
+					},
+					"N": {
+					"item": 'createaddition:chocolate_cake'
+					},
+					"O": {
+					"item": 'create:blaze_cake'
+					}
+				},
+				"pattern": [
+					"ABCDE",
+					"FGHIJ",
+					"KLMNO"
+				],
+				"result": {
+					"count": 1,
+					"id": 'create:creative_blaze_cake'
+				},
+				"show_notification": false
+			}).id("allthemods:create/creative_blaze_cake")
+			
+			allthemods.custom({
+			  "type": "mekanism:injecting",
+			  "chemical_input": {
+				"amount": 1,
+				"chemical": "mekanism:oxygen"
+			  },
+			  "item_input": {
+				"count": 1,
+				"item": "create:creative_blaze_cake"
+			  },
+			  "output": {
+				"count": 1,
+				"id": "createthrusters:oxidized_creative_blaze_cake"
+			  },
+			  "per_tick_usage": true
+			}).id("allthemods:create/oxidized_creative_blaze_cake")
+			
+			allthemods.custom({
+			  "type": "create:sandpaper_polishing",
+			  "ingredients": [
+				{
+				  "item": "createthrusters:oxidized_creative_blaze_cake"
+				}
+			  ],
+			  "results": [
+				{
+				  "id": "create:creative_blaze_cake"
+				}
+			  ]
+			}).id("allthemods:create/unoxidize_creative_blaze_cake")
 
     //EvilCraft
 
@@ -83,6 +270,27 @@ ServerEvents.recipes(allthemods => {
                 F: 'evilcraft:broom[cyclopscore:fluid_content={amount:10000,id:"evilcraft:blood"}]',
     }
 )
+
+	// Excessive Utilities
+	allthemods.recipes.kubejs.shaped('excessive_utilities:creative_mill', 
+            [
+                'MWP', 
+                'LSF', 
+                'VIE'
+            ],
+            {
+                M: 'excessive_utilities:manual_mill',
+                W: 'excessive_utilities:water_mill',
+				P: 'excessive_utilities:solar_panel',
+				L: 'excessive_utilities:lunar_panel',
+				F: 'excessive_utilities:fire_mill',
+				V: 'excessive_utilities:lava_mill',
+				I: 'excessive_utilities:wind_mill',
+                E: 'excessive_utilities:dragon_egg_mill',
+                S: 'allthetweaks:atm_star'
+            }
+        ).id("allthemods:excessive_utilities/creative_mill")
+	
     //Integrated Dynamics
         
         allthemods.custom(
@@ -304,6 +512,22 @@ ServerEvents.recipes(allthemods => {
                 F: 'minecraft:netherite_ingot'
         }
     )
+	
+	//Tempad
+	allthemods.recipes.kubejs.shaped('tempad:creative_chronometer', 
+            [
+                'PAP', 
+                'SCS', 
+                'PTP'
+            ],
+            {
+                S: 'productivelib:upgrade_time_2',
+                A: 'allthemodium:unobtainium_vibranium_alloy_ingot',
+                P: '#c:plates/allthemodium',
+                T: 'justdirethings:time_crystal',
+				C: 'tempad:chronometer'
+            }
+        ).id("allthemods:tempad/creative_chronometer")
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
