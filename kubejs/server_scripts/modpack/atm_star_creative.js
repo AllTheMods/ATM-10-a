@@ -130,21 +130,6 @@ ServerEvents.recipes(allthemods => {
             }
         ).id("allthemods:createpropulsion/creative_vector_thruster")
 		
-		allthemods.recipes.kubejs.shaped('create_sa:creative_filling_tank', 
-            [
-                ' W ', 
-                'FSU', 
-                ' L '
-            ],
-            {
-                U: 'create_sa:large_fueling_tank',
-                S: '#c:nuggets/allthemodium',
-                W: 'extendedae:infinity_water_cell',
-                F: 'create_sa:large_filling_tank',
-                L: 'kubejs:lava_cell'
-            }
-        ).id("allthemods:create_sa/creative_filling_tank")
-		
 		allthemods.recipes.kubejs.shaped('create_enchantment_industry:creative_bookshelf', 
             [
                 'BGB', 
