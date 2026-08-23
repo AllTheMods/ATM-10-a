@@ -219,6 +219,26 @@ ItemEvents.modifyTooltips(allthemods => {
 	[
 		Text.of("§9In a Botany Pot: Requires a hoe enchanted with Silk Touch to be harvested")
 	])
+
+	//Excessive Utilites
+    allthemods.add(
+        [
+            "excessive_utilities:angel_ring"
+        ],
+        [
+            Text.of("Any angel ring can have its appearance change in the crafting table.")
+        ]
+    )
+
+    allthemods.add(
+        [
+            "excessive_utilities:sun_crystal"
+        ],
+        [
+            Text.of("§cNOTICE: Must be fully charged before use."),
+            Text.of("Drop on the ground to charge. Needs to be day time and direct access to the sky.")
+        ]
+    )
 })
 
 
