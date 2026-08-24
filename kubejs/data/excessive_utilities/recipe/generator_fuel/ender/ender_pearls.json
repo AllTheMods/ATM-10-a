@@ -1,0 +1,9 @@
+{
+  "type": "excessive_utilities:single_item_fuel",
+  "duration": 1600,
+  "fe_per_tick": 120,
+  "generator_type": "ender",
+  "ingredient": {
+    "tag": "c:ender_pearls"
+  }
+}
