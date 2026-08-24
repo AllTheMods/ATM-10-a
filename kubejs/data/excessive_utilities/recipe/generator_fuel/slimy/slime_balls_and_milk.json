@@ -1,0 +1,13 @@
+{
+  "type": "excessive_utilities:item_and_fluid_fuel",
+  "duration": 100,
+  "fe_per_tick": 200,
+  "fluid_ingredient": {
+    "amount": 250,
+    "tag": "c:milk"
+  },
+  "generator_type": "slimy",
+  "item_ingredient": {
+    "tag": "c:slime_balls"
+  }
+}
