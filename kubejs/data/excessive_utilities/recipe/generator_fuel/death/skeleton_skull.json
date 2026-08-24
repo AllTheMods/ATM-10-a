@@ -1,0 +1,9 @@
+{
+  "type": "excessive_utilities:single_item_fuel",
+  "duration": 160,
+  "fe_per_tick": 160,
+  "generator_type": "death",
+  "ingredient": {
+    "item": "minecraft:skeleton_skull"
+  }
+}

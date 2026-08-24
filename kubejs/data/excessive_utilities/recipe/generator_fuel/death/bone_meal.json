@@ -1,0 +1,9 @@
+{
+  "type": "excessive_utilities:single_item_fuel",
+  "duration": 80,
+  "fe_per_tick": 80,
+  "generator_type": "death",
+  "ingredient": {
+    "item": "minecraft:bone_meal"
+  }
+}
