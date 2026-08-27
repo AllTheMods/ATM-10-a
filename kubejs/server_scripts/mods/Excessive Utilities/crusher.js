@@ -143,7 +143,7 @@ ServerEvents.recipes(allthemods => {
 		crush(`c:ores/${materials}`, `silentgear:raw_${materials}`, 2, `silentgear:raw_${materials}`)
 	})
 	// Silent Gear Alloys
-	const sgearalloys = ["crimson_steel", "tyrian_steel", "azure_electrum"]
+	const sgearalloys = ["crimson_steel", "tyrian_steel", "azure_electrum", "blaze_gold"]
 	sgearalloys.forEach(materials => {
 		crush(`c:ingots/${materials}`, `silentgear:${materials}_dust`, 1)
 	})
