@@ -149,21 +149,6 @@ const ifgens = [
         ]
 	).id("allthemods:saltpeter_dust_from_block")
 
-  const removals = [
-    "generatorgalore:copper_generator_8x",
-    "generatorgalore:copper_generator",
-    "generatorgalore:diamond_generator_8x",
-    "generatorgalore:diamond_generator",
-    "generatorgalore:emerald_generator_8x",
-    "generatorgalore:emerald_generator",
-    "generatorgalore:gold_generator_8x",
-    "generatorgalore:gold_generator",
-    "generatorgalore:obsidian_generator_8x",
-    "generatorgalore:obsidian_generator"
-  ]
-  removals.forEach((entry) => {
-    allthemods.remove({ output: entry })
-  })
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
