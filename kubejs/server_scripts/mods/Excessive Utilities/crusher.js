@@ -2,7 +2,9 @@
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 
 ServerEvents.recipes(allthemods => {
-	function crush(input, output, output_amount, aux_output, aux_output_amount = 1, aux_output_chance = 0.1) {
+	function crush(input, output, output_amount, aux_output, aux_output_amount, aux_output_chance) {
+		if (aux_output_amount === undefined) aux_output_amount = 1
+		if (aux_output_chance === undefined) aux_output_chance = 0.1
 		if (aux_output == undefined) {
 			allthemods.custom({
 			  "type": "excessive_utilities:crusher",
@@ -33,8 +35,10 @@ ServerEvents.recipes(allthemods => {
 			}).id(`allthemods:excessive_utilities/crusher/${input.split(":")[0]}/${input.split(":")[1]}`)
 		}
 	}
-	
-	function crush_without_tag(input, output, output_amount, aux_output, aux_output_amount = 1, aux_output_chance = 0.1) {
+
+	function crush_without_tag(input, output, output_amount, aux_output, aux_output_amount, aux_output_chance) {
+		if (aux_output_amount === undefined) aux_output_amount = 1
+		if (aux_output_chance === undefined) aux_output_chance = 0.1
 		if (aux_output == undefined) {
 			allthemods.custom({
 			  "type": "excessive_utilities:crusher",
@@ -65,7 +69,7 @@ ServerEvents.recipes(allthemods => {
 			}).id(`allthemods:excessive_utilities/crusher/${input.split(":")[0]}/${input.split(":")[1]}`)
 		}
 	}
-	
+
 	// Vanilla Dusts
 	const vanillaores = ["iron", "gold", "copper"]
 	vanillaores.forEach(materials => {
