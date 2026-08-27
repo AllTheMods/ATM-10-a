@@ -184,40 +184,68 @@ ServerEvents.recipes(allthemods => {
     );
 
     // input[], input_fluid, processing_time, output, outputfluid
-    let dissolution_chamber = allthemods.recipes.industrialforegoing.dissolution_chamber
+function dissolution_chamber(output, inputs, fluid, amount, time, id) {
+        let recipe = {
+            type: 'industrialforegoing:dissolution_chamber',
+            input: [],
+            inputFluid: {
+                fluid: fluid,
+                amount: amount
+            },
+            processingTime: time,
+            output: {
+                count: output.count || 1,
+                id: output.item
+            }
+        }
+
+        inputs.forEach(input => {
+            let ingredient = {}
+            if (input.tag) {
+                ingredient.tag = input.tag
+            } else {
+                ingredient.item = input.item
+            }
+            recipe.input.push(ingredient)
+        })
+
+        allthemods.custom(recipe).id(`kubejs:dissolution_chamber/${id}`)
+    }
 
     //Unobtainium - Vibranium Alloy
-
     dissolution_chamber(
+        { item: 'allthemodium:unobtainium_vibranium_alloy_ingot' },
         [
-            'industrialforegoing:pink_slime',
-            '#c:ingots/vibranium',
-            'industrialforegoing:pink_slime',
-            'allthemodium:piglich_heart',
-            'allthemodium:piglich_heart',
-            'industrialforegoing:pink_slime',
-            '#c:ingots/unobtainium',
-            'industrialforegoing:pink_slime'
+            { item: 'industrialforegoing:pink_slime' },
+            { tag: 'c:ingots/vibranium' },
+            { item: 'industrialforegoing:pink_slime' },
+            { item: 'allthemodium:piglich_heart' },
+            { item: 'allthemodium:piglich_heart' },
+            { item: 'industrialforegoing:pink_slime' },
+            { tag: 'c:ingots/unobtainium' },
+            { item: 'industrialforegoing:pink_slime' }
         ],
-        "100x allthemodium:soul_lava",
+        'allthemodium:soul_lava',
+        100,
         200,
-        'allthemodium:unobtainium_vibranium_alloy_ingot'
+        'unobtainium_vibranium_alloy_ingot'
     )
-
     dissolution_chamber(
+        { item: 'allthemodium:unobtainium_vibranium_alloy_block' },
         [
-            'industrialforegoing:pink_slime_block',
-            '#c:storage_blocks/vibranium',
-            'industrialforegoing:pink_slime_block',
-            'allthemodium:piglich_heart_block',
-            'allthemodium:piglich_heart_block',
-            'industrialforegoing:pink_slime_block',
-            '#c:storage_blocks/unobtainium',
-            'industrialforegoing:pink_slime_block'
+            { item: 'industrialforegoing:pink_slime_block' },
+            { tag: 'c:storage_blocks/vibranium' },
+            { item: 'industrialforegoing:pink_slime_block' },
+            { item: 'allthemodium:piglich_heart_block' },
+            { item: 'allthemodium:piglich_heart_block' },
+            { item: 'industrialforegoing:pink_slime_block' },
+            { tag: 'c:storage_blocks/unobtainium' },
+            { item: 'industrialforegoing:pink_slime_block' }
         ],
-        "900x allthemodium:soul_lava",
+        'allthemodium:soul_lava',
+        900,
         200,
-        'allthemodium:unobtainium_vibranium_alloy_block'
+        'unobtainium_vibranium_alloy_block'
     )
 
 })
