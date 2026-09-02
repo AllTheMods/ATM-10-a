@@ -113,15 +113,12 @@ ServerEvents.recipes(allthemods => {
 	crush("c:gems/certus_quartz", "ae2:certus_quartz_dust", 1)
 	crush("c:gems/fluix", "ae2:fluix_dust", 1)
 	crush_without_tag("ae2:sky_stone_block", "ae2:sky_dust", 1)
-	crush("c:gems/entro", "extendedae:entro_dust", 1)
-	crush_without_tag("advanced_ae:shattered_singularity", "advanced_ae:quantum_infused_dust", 1)
 	crush("c:ender_pearls", "ae2:ender_dust", 1)
 	// EvilCraft Dark Gem
 	crush("c:ores/dark_gem", "evilcraft:dark_gem", 2, "evilcraft:dark_gem_crushed", 1, 0.5)
 	crush("c:gems/dark_gem", "evilcraft:dark_gem_crushed", 1)
 	// Forbidden Arcanus Arcane Crystals
 	crush("c:ores/arcane_crystal", "forbidden_arcanus:arcane_crystal", 2)
-	crush("c:gems/arcane_crystal", "forbidden_arcanus:arcane_crystal_dust", 1)
 	// Mekanism Dusts
 	crush_without_tag("minecraft:coal", "mekanism:dust_coal", 1)
 	crush_without_tag("minecraft:charcoal", "mekanism:dust_charcoal", 1)
@@ -134,22 +131,11 @@ ServerEvents.recipes(allthemods => {
 	crush(`c:raw_materials/iesnium`, `occultism:iesnium_dust`, 2)
 	crush(`c:ingots/iesnium`, `occultism:iesnium_dust`, 1)
 	crush(`c:ores/iesnium`, `occultism:raw_iesnium`, 2, `occultism:raw_iesnium`)
-	// Oritech Alloys
-	const oritechalloys = ["adamant", "biosteel", "duratium", "energite"]
-	oritechalloys.forEach(materials => {
-		crush(`c:ingots/${materials}`, `oritech:${materials}_dust`, 1)
-	})
 	// Silent Gear Ores
 	const sgearores = ["crimson_iron", "azure_silver"]
 	sgearores.forEach(materials => {
 		crush(`c:raw_materials/${materials}`, `silentgear:${materials}_dust`, 2)
-		crush(`c:ingots/${materials}`, `silentgear:${materials}_dust`, 1)
 		crush(`c:ores/${materials}`, `silentgear:raw_${materials}`, 2, `silentgear:raw_${materials}`)
-	})
-	// Silent Gear Alloys
-	const sgearalloys = ["crimson_steel", "tyrian_steel", "azure_electrum", "blaze_gold"]
-	sgearalloys.forEach(materials => {
-		crush(`c:ingots/${materials}`, `silentgear:${materials}_dust`, 1)
 	})
 })
 
