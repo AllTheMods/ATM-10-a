@@ -125,7 +125,8 @@ ServerEvents.tags('item', allthemods => {
     "modern_industrialization:runic_enchanter"
   ])
 
-})
+  allthemods.remove("reliquified_artifacts:anglers_hat_valuables", ["#c:raw_materials"]);
+});
 
 ServerEvents.tags('entity_type', allthemods => {
 
