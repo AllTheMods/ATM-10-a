@@ -168,7 +168,7 @@
 	#Affects the Injection Rate, Max Temp, and Ignition Temp.
 	# Default: 10000000
 	# Range: 0 ~ 9223372036854775807
-	fuelEnergy = 100000
+	fuelEnergy = 10000000
 	#The fraction of the heat dissipated from the case that is converted to Joules.
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
