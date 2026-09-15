@@ -6,6 +6,7 @@
 		"oritech:promethium_pickaxe": "apotheosis:breaker",
 		"oritech:hand_drill": "apotheosis:breaker",
 		"draconicevolution:draconic_staff": "apotheosis:melee_weapon",
-		"draconicevolution:chaotic_staff": "apotheosis:melee_weapon"
+		"draconicevolution:chaotic_staff": "apotheosis:melee_weapon",
+		"reliquary:witch_hat": "apotheosis:none"
     }
 }
