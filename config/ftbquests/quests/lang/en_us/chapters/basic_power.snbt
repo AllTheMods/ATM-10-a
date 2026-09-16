@@ -4,7 +4,7 @@
 	quest.0AEC181F5E21A299.quest_desc: ["If you've ever heard of someone talking about \"Melon Power\", this is it. Mekanism's &dGas-Burning Generator&r can produce a good amount of power by pumping in &9Ethylene&r made from Melon Slices.\\n\\nTo produce &dEthylene&r, start by crushing organic materials in a &eCrusher&r to create &6Bio Fuel&r. Melon Slices are typically used for this! This is then pumped into a &dPressurized Reaction Chamber&r (PRC for short).\\n\\nThe PRC needs Water, Bio Fuel, and some Hydrogen to create Ethylene. You can get the Hydrogen from separating water in an &9Electrolytic Separator&r.\\n\\nOnce you've started producing the Ethylene, pump it into the Gas-Burning Generator to start generating power!"]
 	quest.0AEC181F5E21A299.quest_subtitle: "MELON POWER!"
 	quest.0AEC181F5E21A299.title: "&9Mekanism: &dGas-Burning Generator"
-	quest.0BB367839D28607D.quest_desc: ["These &8Coal Generators&r are some of the easiest generators to make.\\n\\nThey are very simple to use and create a decent amount of power based on the combustible material you put in. They also automatically distributes power to adjacent blocks."]
+	quest.0BB367839D28607D.quest_desc: ["These &8Coal Generators&r are some of the easiest generators to make.\\n\\nThey are very simple to use and create a decent amount of power based on the combustible material you put in. They also automatically distribute power to adjacent blocks."]
 	quest.0BB367839D28607D.quest_subtitle: "Fossil Fuels"
 	quest.0BB367839D28607D.title: "&8Coal Generators"
 	quest.0BB42C5861B22D32.quest_desc: ["The &zRainbow Generator&r consists of all the Generators from &e&lExcessive Utilities&r working at the same time, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchantment Generator&r."]
@@ -26,19 +26,7 @@
 		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
 	]
 	quest.27A4FA38992448A0.title: "Wireless Charging"
-	quest.2D4749DF9642F334.quest_desc: [
-		"The &eDyson Cube&r is the ultimate power source, producing an insane &l&a1GFE/t&r&r!"
-		""
-		"Set up an &eEM Rail Ejector Controller&r to launch &bSolar Sails&r and &bBeams&r into orbit around the Sun. You can input items &bautomatically&r through the center of the bottom face (you’ll definitely need automation to reach maximum power output). Unfortunately, it &ocannot fire&r at midday, at night, or during rain."
-		""
-		"To collect that glorious energy, build a &bRay Receiver Controller&r. It outputs power from the center of its bottom face but &ocannot receive power&r during &enight&r or &erain&r."
-		""
-		"You can &epackage&r beams and sails into bundles for faster launches, which is much easier than sending them one by one."
-		""
-		"For maximum output, you’ll need to send &c8,333,333&r beams and &c49,999,998&r sails into orbit, which is quite a lot."
-		""
-		"Before you start scaling up to that level, make sure you’ve got some &arobust resource generation&r in place."
-	]
+	quest.2D4749DF9642F334.quest_desc: ["The &eDyson Cube&r is the ultimate power source, producing an insane &l&a100MFE/t&r&r!\\n\\nSet up an &eEM Rail Ejector Controller&r to launch &bSolar Sails&r and &bBeams&r into orbit around the Sun. You can input items &bautomatically&r through the center of the bottom face (you’ll definitely need automation to reach maximum power output). Unfortunately, it &ocannot fire&r at midday, at night, or during rain.\\n\\nTo collect that glorious energy, build a &bRay Receiver Controller&r. It outputs power from the center of its bottom face but &ocannot receive power&r during &enight&r or &erain&r.\\n\\nYou can &epackage&r beams and sails into bundles for faster launches, which is much easier than sending them one by one.\\n\\nFor maximum output, you’ll need to send &c833,333&r beams and &c4,999,998&r sails into orbit, which is quite a lot.\\n\\nBefore you start scaling up to that level, make sure you’ve got some &arobust resource generation&r in place."]
 	quest.2D4749DF9642F334.quest_subtitle: "The power of the Sun, in the palm of your hand"
 	quest.2D4749DF9642F334.title: "&eDyson Cube"
 	quest.2EB7784D5296F410.quest_desc: [
@@ -58,7 +46,7 @@
 	quest.42D173B9FF8D16E4.quest_desc: ["Looking for early game power options? These are good ways to get you started with generating power.\\n\\nThese don't produce a ton of power, but they are typically easy or cheap to get in the early game!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Starter Power"
 	quest.42D173B9FF8D16E4.title: "&8&lEarly Game Power Options"
-	quest.43D83CFA824B0A70.quest_desc: ["&9Mekanism&r has an end game power option that is tough to beat. The &dFusion Reactor&r can produce up to 80MRF/t, and if you want to learn how to build it, make sure to check out the &aMekanism: &dReactors&r quest chapter!"]
+	quest.43D83CFA824B0A70.quest_desc: ["&9Mekanism&r has an end game power option that is...massively nerfed. The &dFusion Reactor&r can produce up to 400kRF/t, and if you want to learn how to build it, make sure to check out the &aMekanism: &dReactors&r quest chapter!"]
 	quest.43D83CFA824B0A70.quest_subtitle: "Fusion Activate!"
 	quest.43D83CFA824B0A70.title: "&9Mekanism: &dFusion Reactor"
 	quest.477B411F84342EEA.quest_desc: ["Mekanism is one of the best mods for energy storage, especially in the early game.\\n\\nThe Basic Energy Cube is easy to configure, easy to craft, and stores a lot of power. It can also be upgraded, and can charge items inside of the interface!\\n\\nTo learn more about upgrading the Energy Cube as well as the mod, head over to the &aMekanism&r quest chapter!"]

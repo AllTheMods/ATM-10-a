@@ -2229,7 +2229,7 @@
 			dependencies: ["17419401147B5C02"]
 			hide_dependency_lines: true
 			icon: {
-				id: "quarryplus:quarry"
+				id: "excessive_utilities:ender_quarry"
 			}
 			id: "6E093D16B12E12B3"
 			rewards: [{
