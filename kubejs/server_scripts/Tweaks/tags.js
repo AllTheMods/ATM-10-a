@@ -162,6 +162,7 @@ ServerEvents.tags('entity_type', allthemods => {
     
   allthemods.add('allthemods:jank_blacklist', [
     "@iceandfire",
+    '@shiny',
     'ars_nouveau:animated_block',
     'artifacts:mimic',
     'create:package',
