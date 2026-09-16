@@ -39,7 +39,7 @@ body:
       description: When you crash, Crash Assistant should popup and click Upload all
         and copy message, wait for logs to be uploaded, after it is done, paste
         here.
-      placeholder: "All the Mods 10 - 2.47 crashed. The logs have been uploaded to
+      placeholder: "ATM10: Aeronautics - 0.5.0 crashed. The logs have been uploaded to
         `gnomebot.dev`:
 
         ###
