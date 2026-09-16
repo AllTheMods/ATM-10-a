@@ -110,7 +110,7 @@ ServerEvents.recipes(allthemods => {
             ],
             {
                 U: '#c:plates/unobtainium',
-                S: 'allthetweaks:atm_star',
+                S: 'allthetweaks:atm_star_shard',
                 P: 'excessive_utilities:transfer_pipe',
                 N: 'excessive_utilities:energy_transfer_node',
                 V: '#c:plates/vibranium'
