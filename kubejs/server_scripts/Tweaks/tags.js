@@ -162,6 +162,7 @@ ServerEvents.tags('entity_type', allthemods => {
     
   allthemods.add('allthemods:jank_blacklist', [
     "@iceandfire",
+    '@shiny',
     'ars_nouveau:animated_block',
     'artifacts:mimic',
     'create:package',
@@ -189,7 +190,10 @@ ServerEvents.tags('entity_type', allthemods => {
   allthemods.add('ars_additions:source_spawner_denylist', '#allthemods:jank_blacklist')
   allthemods.add('oritech:spawner_blacklist', '#allthemods:jank_blacklist')
   allthemods.add('occultism:soul_shattered_deny_list', '#allthemods:jank_blacklist')  
-
+  allthemods.add('neovitae:deny_imprisonment', [
+	  "#c:capturing_not_supported",
+	  "#apothic_spawners:blacklisted_from_spawners"
+  ])
 })
 
 ServerEvents.tags('worldgen/structure', allthemods => {
