@@ -3,6 +3,9 @@
 	default_quest_shape: "square"
 	filename: "aeronautics"
 	group: "345801DAE9BD6E39"
+	icon: {
+		id: "simulated:physics_assembler"
+	}
 	id: "267B3604CFC8AB4D"
 	images: [
 		{
@@ -104,6 +107,66 @@
 			width: 4.0d
 			x: 5.5d
 			y: -1.0d
+		}
+		{
+			click_action: "none:"
+			height: 5.0d
+			id: "1C12955CBECB9D1E"
+			image: "atm:textures/questpics/create/aero_f15.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			click_action: "none:"
+			height: 5.0d
+			id: "684F6A4C2EAB0BE5"
+			image: "atm:textures/questpics/create/aero_blackhawk.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 14.0d
+			y: -5.5d
+		}
+		{
+			click_action: "none:"
+			height: 10.0d
+			id: "1D7465BFE78CF4EB"
+			image: "atm:textures/questpics/create/aero_balloon.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 1.5d
+			y: -15.0d
+		}
+		{
+			click_action: "none:"
+			height: 13.0d
+			id: "3A049DD82808C6B2"
+			image: "atm:textures/questpics/building_tips/building_frame.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 1.5d
+			y: -15.0d
+		}
+		{
+			click_action: "none:"
+			height: 13.0d
+			id: "555B4966CC2054BC"
+			image: "atm:textures/questpics/building_tips/building_frame.png"
+			rotation: 90.0d
+			width: 10.0d
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			click_action: "none:"
+			height: 13.0d
+			id: "78516B44F435CC43"
+			image: "atm:textures/questpics/building_tips/building_frame.png"
+			rotation: 90.0d
+			width: 10.0d
+			x: 14.0d
+			y: -5.5d
 		}
 	]
 	order_index: 1
@@ -1355,6 +1418,34 @@
 			}]
 			x: -1.5d
 			y: 1.5d
+		}
+		{
+			dependencies: ["197BFD219B9361E8"]
+			hide_dependency_lines: true
+			id: "0C678EA8174A00A1"
+			optional: true
+			rewards: [{
+				id: "2B854D7D9310C545"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "2B562E1403FF8821"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			id: "5BC92BD903EEFA8C"
+			optional: true
+			tasks: [{
+				id: "0ECC7A01B37CFCCC"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -9.5d
 		}
 	]
 }
