@@ -1,0 +1,1130 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "aeronautics_addons"
+	group: "345801DAE9BD6E39"
+	icon: {
+		id: "aeroworks:joystick"
+	}
+	id: "2DDA4AB4CD9BAF66"
+	images: [
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "411E5457703C0027"
+			image: "atm:textures/questpics/create/aero_redstone.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "3296481D003297AF"
+			image: "atm:textures/questpics/create/aero_power.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "7253BFCFFE17E8B6"
+			image: "atm:textures/questpics/create/aero_extra.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "04D28A615940C38A"
+			image: "atm:textures/questpics/create/aero_thrust.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "62B17F84C9BECB6C"
+			image: "atm:textures/questpics/create/aero_title.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "44F51BAFFE143FEC"
+			image: "atm:textures/questpics/create/aero_addons.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 9.5d
+			y: -3.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "770DD8ADBDA02586"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "7B696AAC7FD7FEE3"
+				item: {
+					count: 1
+					id: "create:copycat_panel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C5776C8356D7D23"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:copycat_control_desk)item(aeroworks:copycat_control_stand))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			hide_dependent_lines: true
+			id: "4B2DD219B7D5C1F8"
+			rewards: [
+				{
+					count: 3
+					id: "3E8024E6AA37EC22"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6D0C80833C48507C"
+					item: {
+						count: 1
+						id: "create:transmitter"
+					}
+					type: "item"
+				}
+				{
+					id: "67B256A92946D5A8"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "570236767095F98D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:control_desk)item(aeroworks:control_stand))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "7A62568DDA98DAA7"
+			rewards: [
+				{
+					id: "4B5C3B7157331F11"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+				{
+					id: "717477F67BF0EE50"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "0CEA7476FC0FB3A1"
+				item: { count: 1, id: "aeroworks:joystick" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "68829D24E5DB1DDB"
+			rewards: [
+				{
+					count: 3
+					id: "29EF624A74A4725B"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3F6E81702022573B"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "34F83DAD52A245A6"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:lever_module)item(aeroworks:copper_lever_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "0888AD88724FD90E"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "7974A566FB13D82E"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "103287A0D0036808"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "6757180E0CB69A2D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:joystick_module)item(aeroworks:copper_joystick_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "5970C3B882D07A26"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "46818C05825A06DB"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "62AF0312153BF6CD"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "7A39A4BC09A3DDE6"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:throttle_quadrant_module)item(aeroworks:copper_throttle_quadrant_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "3C6C35D6E4BB67C0"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "3B299362B7FCB677"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6A548D722156B41D"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "79D0783FBDD0EAEF"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:yoke_module)item(aeroworks:copper_yoke_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "600D34AC19DA23D9"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "0A843B58FEE85BF9"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "54763CE376EF75DF"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "1DAB15A2672C0125"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:pedal_module)item(aeroworks:copper_pedal_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "07791540478B3E02"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "7FACA7644AC3F519"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "311AE4865468D4DF"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "7FE79E0DFD427D41"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:wheel_module)item(aeroworks:copper_wheel_module)item(aeroworks:white_wheel_module)item(aeroworks:orange_wheel_module)item(aeroworks:magenta_wheel_module)item(aeroworks:light_blue_wheel_module)item(aeroworks:yellow_wheel_module)item(aeroworks:lime_wheel_module)item(aeroworks:pink_wheel_module)item(aeroworks:gray_wheel_module)item(aeroworks:light_gray_wheel_module)item(aeroworks:cyan_wheel_module)item(aeroworks:purple_wheel_module)item(aeroworks:blue_wheel_module)item(aeroworks:brown_wheel_module)item(aeroworks:green_wheel_module)item(aeroworks:red_wheel_module)item(aeroworks:black_wheel_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "3DE2F153C7CFF07E"
+			rewards: [
+				{
+					count: 3
+					id: "585501D3814740E5"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5F7306ABBA83440F"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "64A7F1DDA57D52E9"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:button_module)item(aeroworks:copper_button_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "10911940A0FADBAF"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "601E6279CA59E728"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1D547627E7781CAB"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "3B190D17076758D8"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:button_keypad_module)item(aeroworks:copper_button_keypad_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B2DD219B7D5C1F8"]
+			id: "1496D098BB50CA3A"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "49E8816C1B314145"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "45F5280C8E3013AD"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				id: "6ED5A02083540E31"
+				item: { components: { "ftbfiltersystem:filter": "or(item(aeroworks:button_panel_module)item(aeroworks:copper_button_panel_module))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "477D39CCFBD15873"
+			rewards: [{
+				count: 3
+				id: "3069760349416C91"
+				item: {
+					count: 1
+					id: "create:blaze_cake"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E019DAF6A6C0D70"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createthrusters:thruster)item(createthrusters:small_thruster))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "347CEFCF015F5C4F"
+			optional: true
+			rewards: [
+				{
+					count: 10
+					id: "32DAB9A8467F96A8"
+					item: {
+						count: 1
+						id: "createthrusters:andesite_cable"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3C25F60FF65D9240"
+					item: {
+						count: 1
+						id: "create:industrial_iron_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3350D023E982AC93"
+					item: { count: 1, id: "createthrusters:alternator" }
+					type: "item"
+				}
+				{
+					id: "1FBDF59FE0AAB887"
+					item: { count: 1, id: "createthrusters:industrial_motor" }
+					type: "item"
+				}
+				{
+					id: "0EB0A883E05E0E6D"
+					item: { count: 1, id: "createthrusters:andesite_cable" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["477D39CCFBD15873"]
+			id: "1FB0AB389DB2EC19"
+			rewards: [{
+				count: 2
+				id: "143CDA0BF7ED613B"
+				item: {
+					count: 1
+					id: "createthrusters:propulsion_upgrade_t1"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6102754593EC5CA5"
+					item: { count: 1, id: "createthrusters:fuel_oxidizer" }
+					type: "item"
+				}
+				{
+					id: "7B853894BE871A28"
+					item: { components: { "ftbfiltersystem:filter": "or(item(createthrusters:propulsion_upgrade_t1)item(createthrusters:propulsion_upgrade_t2)item(createthrusters:propulsion_upgrade_t3)item(createthrusters:propulsion_upgrade_t4))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["477D39CCFBD15873"]
+			id: "2C2404FE2ABC0E3F"
+			rewards: [{
+				count: 4
+				id: "2E069C23ADE29118"
+				item: {
+					count: 1
+					id: "createthrusters:andesite_cable"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "503F46C65A919AE1"
+				item: { count: 1, id: "createthrusters:thruster_lense" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["450AAB65EEDF267D"]
+			id: "5365590B7227BD68"
+			rewards: [
+				{
+					id: "2F5D7C470BD093E7"
+					item: {
+						count: 1
+						id: "simulated:rope_winch"
+					}
+					type: "item"
+				}
+				{
+					id: "581B56A0A150DE7F"
+					item: {
+						count: 1
+						id: "simulated:rope_connector"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "007C93B635F1E3D0"
+				item: { count: 1, id: "createthrusters:claw" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["477D39CCFBD15873"]
+			id: "665D83912C2A21B1"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "7B2236F7497CC6D5"
+				item: {
+					count: 1
+					id: "createthrusters:thruster"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5696FDE8E8685EF5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createthrusters:processing_upgrade_smoking_t1)item(createthrusters:processing_upgrade_smelting_t1)item(createthrusters:processing_upgrade_haunting_t1))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["450AAB65EEDF267D"]
+			id: "31ED86EEAB66488A"
+			rewards: [{
+				count: 2
+				id: "2E787820B6D16CAD"
+				item: {
+					count: 1
+					id: "simulated:rope_connector"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "568D425D496A070F"
+				item: { count: 1, id: "createthrusters:powered_zipline" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "450AAB65EEDF267D"
+			rewards: [{
+				count: 4
+				id: "54F24E45C07CD953"
+				item: {
+					count: 1
+					id: "simulated:rope_coupling"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "25E8E6BACCA54788"
+				item: { count: 1, id: "simulated:rope_coupling" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "2090D6B29F48D121"
+			rewards: [{
+				count: 2
+				id: "0B833DCCFC2FFB81"
+				item: {
+					count: 1
+					id: "createthrusters:thruster_bearing"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "29739BB0BBC5D213"
+				item: { count: 1, id: "createthrusters:aileron_bearing" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "0D90241FB7B304ED"
+			rewards: [{
+				id: "66F84929EC5A8B6E"
+				item: {
+					count: 1
+					id: "minecraft:redstone_block"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "248872D12DAF97E7"
+				item: { count: 1, id: "createthrusters:vector_bearing" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "36A5A92AAD9DAC7A"
+			rewards: [
+				{
+					count: 2
+					id: "373F702F4AA33B06"
+					item: {
+						count: 1
+						id: "create:blaze_cake"
+					}
+					type: "item"
+				}
+				{
+					id: "6DBBBC83F227074A"
+					item: {
+						count: 1
+						id: "createpropulsion:turpentine_bucket"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.2d
+			tasks: [
+				{
+					id: "61D6BAE8CE570A77"
+					item: { count: 1, id: "createpropulsion:stirling_engine" }
+					type: "item"
+				}
+				{
+					id: "2C6E6219C652BF6B"
+					item: { components: { "ftbfiltersystem:filter": "or(item(createpropulsion:solid_burner)item(createpropulsion:liquid_burner))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "20E49977F13CF87E"
+			optional: true
+			rewards: [
+				{
+					count: 10
+					id: "76B9544AD911A4AB"
+					item: {
+						count: 1
+						id: "createpropulsion:cable"
+					}
+					type: "item"
+				}
+				{
+					id: "425CCA6E768A10D3"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+				{
+					id: "2B7494281287792A"
+					item: {
+						count: 1
+						id: "minecraft:blaze_powder"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "157FA92383838BE0"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:healing"
+							}
+						}
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "5B03F5F93A884586"
+					item: { count: 1, id: "createpropulsion:cable" }
+					type: "item"
+				}
+				{
+					id: "16AC447B29D63AB8"
+					item: { count: 1, id: "createpropulsion:coral_generator" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "3459AFA6C7E5C282"
+			rewards: [
+				{
+					count: 4
+					id: "1F630F1FB2ED04A8"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+				{
+					id: "52F7DA34DF6AA1C8"
+					item: {
+						count: 1
+						id: "create:mechanical_pump"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6994579651C61225"
+				item: { count: 1, id: "createpropulsion:thruster" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "2EABFC803AD33209"
+			rewards: [{
+				count: 3
+				id: "7AA059D4A7BB0854"
+				item: {
+					count: 1
+					id: "create:blaze_cake"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "27EA7E8B501EEB83"
+				item: { count: 1, id: "createpropulsion:solid_fuel_thruster" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "32C98CCAC1031D5B"
+			rewards: [{
+				count: 4
+				id: "2FE918EBEBE397F6"
+				item: {
+					count: 1
+					id: "createpropulsion:cable"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "569531F0B4AFE38E"
+				item: { count: 1, id: "createpropulsion:ion_thruster" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"3459AFA6C7E5C282"
+				"32C98CCAC1031D5B"
+			]
+			id: "3DB0DD9D94C9A892"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "2A77C6AD470DA887"
+				item: {
+					count: 1
+					id: "create:redstone_link"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EE5A9F37B3BCFA9"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createpropulsion:vector_thruster)item(createpropulsion:liquid_vector_thruster))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "52A207BF6F7076DD"
+			rewards: [{
+				id: "7F6AC1EF77DA3883"
+				item: {
+					count: 1
+					id: "create:precision_mechanism"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "001544F116F17F7F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createpropulsion:tilt_adapter)item(createpropulsion:advanced_tilt_adapter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C5E6C2EDE96FB6A"]
+			id: "3CBC2DB7685F45D2"
+			optional: true
+			rewards: [{
+				count: 10
+				id: "795F7EE6648CDBAB"
+				item: {
+					count: 1
+					id: "createpropulsion:copycat_wing"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6BEA332006151BA0"
+				item: { count: 1, id: "createpropulsion:copycat_wing" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "3C5E6C2EDE96FB6A"
+			rewards: [{
+				count: 10
+				id: "1D544B44C480E5D3"
+				item: {
+					count: 1
+					id: "createpropulsion:wing"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E242FAF19A3DEB7"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createpropulsion:wing)item(createpropulsion:tempered_wing))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "2167EE6E4D86025F"
+			rewards: [{
+				count: 32
+				id: "01B4DE1163D1330F"
+				item: {
+					count: 1
+					id: "simulatedcoasters:red_balloon"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "75728885A700966D"
+				item: { count: 1, id: "simulatedcoasters:red_balloon" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			id: "0BB2E4272797DB5D"
+			rewards: [{
+				id: "2E6FED4903F92AFC"
+				item: {
+					count: 1
+					id: "createthrusters:physics_goggles"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.5d
+			tasks: [{
+				id: "16C4026B5E2D3828"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "5AC445CBF7B3744D"
+			optional: true
+			rewards: [{
+				id: "7359EBB09D89FF8E"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "7C48521A5AA908CC"
+				item: { count: 1, id: "createthrusters:physics_goggles" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "32AFE9387E934DF1"
+			rewards: [{
+				count: 2
+				id: "67388008563DDED8"
+				item: {
+					count: 1
+					id: "simulated:gyroscopic_mechanism"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "7FAAAFB8006B64D5"
+				item: { count: 1, id: "aeroworks:gyroscope" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "7C3CE6B746C8D48A"
+			rewards: [{
+				id: "622FDCC9D6883C0B"
+				item: {
+					count: 1
+					id: "minecraft:redstone_block"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "748652BC656717B2"
+				item: { count: 1, id: "aeroworks:mechanical_servo" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "46786A0A60689189"
+			rewards: [{
+				id: "4952D93B150D5AC0"
+				item: {
+					count: 1
+					id: "minecraft:redstone_block"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "084A6637FE87F4A8"
+				item: { count: 1, id: "aeroworks:stepper_servo" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0BB2E4272797DB5D"]
+			id: "3FC6FAF3D86989E3"
+			rewards: [
+				{
+					count: 2
+					id: "47149037D81901CB"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "30D4974F6E609AF2"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "07585F773BDB7EF9"
+				item: { count: 1, id: "createthrusters:bidirectional_gearbox" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			id: "5D4FED39B07424E4"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "427350BF8211E530"
+					type: "checkmark"
+				}
+				{
+					id: "2E3FA4DCC0696DF5"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}
