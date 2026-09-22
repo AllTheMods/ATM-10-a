@@ -151,7 +151,7 @@ const ifgens = [
 
     for (let i = 1; i < 10; ++i) {
         allthemods
-            .smelting(`allthecompressed:glass_${i}x`, Ingredient.of([`allthecompressed:sand_${i}x`, `excessive_utilities:compressed_sand_${i}`]))
+            .smelting(`allthecompressed:glass_${i}x`, `#allthemods:compressed_sand_${i}x`)
             .cookingTime(200 * 9 * i)
             .id(`allthemods:smelting/sand_${i}x_to_glass_${i}x`);
     }
