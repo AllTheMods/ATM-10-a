@@ -46,7 +46,7 @@
 	#Effects that may not be used in the Infusion Pylon.
 	#This list will override the allowed effect list.
 	#Effects may also be added to the pylons:infusion_banned tag.
-	infusionDeniedEffects = ["minecraft:absorption", "tombstone:ghostly_shape", "irons_spellbooks:heartstop", "relics:immortality", "irons_spellbooks:evasion", "irons_spellbooks:abyssal_shroud", "apothic_attributes:flying", "ars_nouveau:flight", "neovitae:flight", "reliquary:flight"]
+	infusionDeniedEffects = ["minecraft:absorption", "tombstone:ghostly_shape", "irons_spellbooks:heartstop", "relics:immortality", "irons_spellbooks:evasion", "irons_spellbooks:abyssal_shroud", "apothic_attributes:flying", "ars_nouveau:flight", "neovitae:flight", "reliquary:flight", "excessive_utilities:second_chance"]
 	#The maximum potency that can be applied in the Infusion Pylon.
 	#This value is 0-indexed, so a Resistance V potion would be potency 4.
 	# Default: 3
