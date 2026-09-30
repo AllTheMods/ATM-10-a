@@ -42,15 +42,15 @@
 		#Lines shown instead of the plain menu line while the player sits in the menu
 		#One is picked at random and swapped for another every minute
 		#Leave empty to always show the plain menu line
-		idle_messages = ["Getting coffee", "Making a sandwich", "Reading the changelog", "Looking for the right button", "Doomscrolling"]
+		idle_messages = ["Securing parachute", "Getting coffee", "Making a sandwich", "Reading the changelog", "Looking for the right button", "Doomscrolling"]
 		#Asset key or image URL for the main image on the card
 		#Leave blank to take it from the packmode profile
-		large_image = ""
+		large_image = "https://raw.githubusercontent.com/AllTheMods/ATM-10-a/main/config/fancymenu/assets/ship.png"
 		#Discord application the Rich Presence connects to
 		#Leave at 0 to take it from the packmode profile
 		# Default: 0
 		# Range: 0 ~ 9223372036854775807
-		application_id = 0
+		application_id = 1554925972254359624
 
 	[pack.window]
 		#16x16 window icon, read from the allthetweaks folder next to this file
