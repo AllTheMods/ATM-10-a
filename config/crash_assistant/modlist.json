@@ -173,13 +173,13 @@
     "curseForgeHash": 3787975540,
     "modrinthHash": "e13ba7f0ba43043cbe8723de7533e39accc87ad1"
   },
-  "allthetweaks-1.21.1-2.9.4.jar": {
-    "jarName": "allthetweaks-1.21.1-2.9.4.jar",
+  "allthetweaks-1.21.1-2.12.0.jar": {
+    "jarName": "allthetweaks-1.21.1-2.12.0.jar",
     "modId": "allthetweaks",
     "name": "AllTheTweaks",
-    "version": "2.9.4",
-    "curseForgeHash": 243202207,
-    "modrinthHash": "5c0587081cda40fcb4145d2471f81c5ba6a59022"
+    "version": "2.12.0",
+    "curseForgeHash": 558440622,
+    "modrinthHash": "c41a27f09a5027badc3556f6226953c0eb797a57"
   },
   "almostunified-neoforge-1.21.1-1.4.2.jar": {
     "jarName": "almostunified-neoforge-1.21.1-1.4.2.jar",
@@ -237,13 +237,13 @@
     "curseForgeHash": 1499942316,
     "modrinthHash": "bec4a47269ec23bca2329742e13409bfde69c5c3"
   },
-  "appliedenergistics2-19.2.18.jar": {
-    "jarName": "appliedenergistics2-19.2.18.jar",
+  "appliedenergistics2-19.2.17.jar": {
+    "jarName": "appliedenergistics2-19.2.17.jar",
     "modId": "ae2",
     "name": "Applied Energistics 2",
-    "version": "19.2.18",
-    "curseForgeHash": 921702327,
-    "modrinthHash": "bcd04bc7f181b2ffa314625f284c8eca6fee7fe4"
+    "version": "19.2.17",
+    "curseForgeHash": 581628875,
+    "modrinthHash": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
   },
   "architectury-13.0.11-neoforge.jar": {
     "jarName": "architectury-13.0.11-neoforge.jar",
@@ -373,13 +373,13 @@
     "curseForgeHash": 198610954,
     "modrinthHash": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74"
   },
-  "baubley-heart-canisters-1.21.1-1.4.2.jar": {
-    "jarName": "baubley-heart-canisters-1.21.1-1.4.2.jar",
+  "baubley-heart-canisters-1.21.1-1.4.3.jar": {
+    "jarName": "baubley-heart-canisters-1.21.1-1.4.3.jar",
     "modId": "bhc",
     "name": "Baubley Heart Canisters",
-    "version": "1.21.1-1.4.2",
-    "curseForgeHash": 4013081096,
-    "modrinthHash": "c4221fe1df83c669d065235e5bac7ac1bde65df4"
+    "version": "1.21.1-1.4.3",
+    "curseForgeHash": 3040830194,
+    "modrinthHash": "d9b6ed72cfa0bc962915722321fb2bb01bf96d42"
   },
   "bellsandwhistles-0.4.7-1.21.1.jar": {
     "jarName": "bellsandwhistles-0.4.7-1.21.1.jar",
@@ -525,13 +525,13 @@
     "curseForgeHash": 2767968248,
     "modrinthHash": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
   },
-  "camol-1.21.1-0.3.1.jar": {
-    "jarName": "camol-1.21.1-0.3.1.jar",
+  "camol-1.21.1-0.4.0.jar": {
+    "jarName": "camol-1.21.1-0.4.0.jar",
     "modId": "camol",
     "name": "Camol",
-    "version": "1.21.1-0.3.1",
-    "curseForgeHash": 954139539,
-    "modrinthHash": "1f5107b1fe0465d97802b792bcfd39e3221a7ba2"
+    "version": "1.21.1-0.4.0",
+    "curseForgeHash": 650421304,
+    "modrinthHash": "97f13ee93b8946b70807ca7da69598daf083c67d"
   },
   "charginggadgets-1.14.1.jar": {
     "jarName": "charginggadgets-1.14.1.jar",
@@ -933,13 +933,13 @@
     "curseForgeHash": 637710182,
     "modrinthHash": "87fb529cbb220a33fedf45a4a6f2269b8e00fffe"
   },
-  "dyenamics-1.21.1-3.4.2.jar": {
-    "jarName": "dyenamics-1.21.1-3.4.2.jar",
+  "dyenamics-1.21.1-3.5.0.jar": {
+    "jarName": "dyenamics-1.21.1-3.5.0.jar",
     "modId": "dyenamics",
     "name": "Dyenamics",
-    "version": "1.21.1-3.4.2",
-    "curseForgeHash": 4251123186,
-    "modrinthHash": "dc3ef3ca37de6c287180ae81d0328f575698c107"
+    "version": "1.21.1-3.5.0",
+    "curseForgeHash": 115820044,
+    "modrinthHash": "2052d5df6ece75baa40539e1c87bc63ead3019e7"
   },
   "dyenamicsandfriends-1.21.1-2.2.2.jar": {
     "jarName": "dyenamicsandfriends-1.21.1-2.2.2.jar",
@@ -2290,13 +2290,13 @@
     "curseForgeHash": 1237891864,
     "modrinthHash": "9edfc7861277ff661141304dc8216f83eacdd9af"
   },
-  "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar": {
-    "jarName": "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar",
+  "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.3.jar": {
+    "jarName": "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.3.jar",
     "modId": "nochatrestrictions",
     "name": "No Chat Restrictions",
-    "version": "1.21.11-v1.0.2",
-    "curseForgeHash": 111422751,
-    "modrinthHash": "f1287060af0efbd5e85de052be9d550709561ab1"
+    "version": "1.21.11-v1.0.3",
+    "curseForgeHash": 195149748,
+    "modrinthHash": "553654f8f037c6ad419176f38f02ad4775a733e5"
   },
   "not_enough_glyphs-1.21.1-4.6.2.jar": {
     "jarName": "not_enough_glyphs-1.21.1-4.6.2.jar",
@@ -2874,14 +2874,6 @@
     "curseForgeHash": 763831366,
     "modrinthHash": "abba7efcee3ae31bd3512147053279422e866ebf"
   },
-  "SimpleRPC-4.1.4.jar": {
-    "jarName": "SimpleRPC-4.1.4.jar",
-    "modId": "simplerpc",
-    "name": "Simple RPC",
-    "version": "4.1.3+release.0",
-    "curseForgeHash": 3078841627,
-    "modrinthHash": "fe7e47214681cd724c4b8b346bb0aa11bea4e9c7"
-  },
   "simplylight-1.5.3+1.21.1-b4.jar": {
     "jarName": "simplylight-1.5.3+1.21.1-b4.jar",
     "modId": "simplylight",
@@ -2938,13 +2930,13 @@
     "curseForgeHash": 3799943056,
     "modrinthHash": "32e9bbe18ae1f2f7f672ce08af51ec1928599182"
   },
-  "sophisticatedbackpacks-1.21.1-3.26.5.2171.jar": {
-    "jarName": "sophisticatedbackpacks-1.21.1-3.26.5.2171.jar",
+  "sophisticatedbackpacks-1.21.1-3.26.6.2174.jar": {
+    "jarName": "sophisticatedbackpacks-1.21.1-3.26.6.2174.jar",
     "modId": "sophisticatedbackpacks",
     "name": "Sophisticated Backpacks",
-    "version": "3.26.5",
-    "curseForgeHash": 170298832,
-    "modrinthHash": "dbe77825620ff12169800cc222993ed99c11964d"
+    "version": "3.26.6",
+    "curseForgeHash": 851657912,
+    "modrinthHash": "796a0bd5df9eb03b518e0c07e9b82bf1f837fd95"
   },
   "sophisticatedcore-1.21.1-1.5.2.2343.jar": {
     "jarName": "sophisticatedcore-1.21.1-1.5.2.2343.jar",
