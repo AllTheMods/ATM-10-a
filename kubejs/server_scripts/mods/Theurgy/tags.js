@@ -3,6 +3,12 @@
 
 ServerEvents.tags('item',allthemods => {
 
+  const stellariteSulfur = 'theurgy:alchemical_sulfur_stellarite_pieces'
+        allthemods.add('theurgy:alchemical_sulfurs', stellariteSulfur)
+        allthemods.add('theurgy:alchemical_sulfurs_and_niters', stellariteSulfur)
+        allthemods.add('theurgy:alchemical_sulfurs/metals', stellariteSulfur)
+        allthemods.add('theurgy:alchemical_sulfurs/metals/precious', stellariteSulfur)
+
     let sulfurData = {
         arcane_sulfur: { derivativeTier: "rare", sulfurType: "gems" },
         runic_sulfur: { derivativeTier: "common", sulfurType: "metals" },
