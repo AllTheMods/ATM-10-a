@@ -17,6 +17,13 @@
                 B: 'oritech:fluxite_block'
             }
         )
+
+        //Certus in pulverizer
+        allthemods.custom({type: 'oritech:pulverizer',
+          ingredients: [{ tag: 'c:gems/certus_quartz' }],
+          results: [{ id: 'ae2:certus_quartz_dust', count: 1 }],
+          time: 100 }).id('allthemods:oritech/pulverizer/certus_quartz_dust')
+
         // allthemods.remove({output: 'oritech:machine_extender'})
         allthemods.shaped(
             Item.of('oritech:machine_extender', 1),
