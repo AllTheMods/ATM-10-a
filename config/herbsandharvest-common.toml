@@ -1,0 +1,6 @@
+#Whether to add grape trellis structures to villages
+add_trellis = true
+#Whether to add h&h crops to village gardens
+crops_in_gardens = true
+#Whether to spawn the guide book into the player's inventory
+give_book_on_join = false
