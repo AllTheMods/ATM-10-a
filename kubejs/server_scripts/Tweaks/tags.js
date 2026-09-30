@@ -9,6 +9,10 @@ ServerEvents.tags('block', allthemods => {
   allthemods.add("tiab:un_acceleratable", "#allthemods:tick_acceleration_blacklist")
   //allthemods.add('industrialforegoingsouls:cant_accelerate', '#allthemods:tick_acceleration_blacklist')
   
+  //Quiver blacklist
+  allthemods.add('sophisticatedcore:stack_upgrade_block_list', '#c:tools/bow')
+  allthemods.add('sophisticatedcore:stack_upgrade_block_list', /quiver/)
+  
   // Waystones
   allthemods.add('ftbchunks:interact_whitelist', ['@waystones'])
 
