@@ -1,5 +1,6 @@
 {
 	quest.0AE83A6CC21F96D4.quest_desc: ["Electrolysing a &#3127F5Singularity&r will make &#DA27F5UU Matter&r. In this process, the &#3127F5Singularity&r is &n&aNOT&r consumed."]
+	quest.109E21940AC25CFC.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.1E22A0D5F4B2EB0D.quest_subtitle: "Freezing Argon with Helium"
 	quest.27826D74ADC73556.quest_desc: ["Cooking &#ED8C61Copper Dust&r with &#90F0E7Oxygen&r in a &#E3CE54Kanthal EBF&r will give you &#E87848Annealed Copper Hot Ingot&r. This can be cooled down in a &#4CBBD9Vacuum Freezer&r to get &#E87848Annealed Copper Ingot&r. These ingots can be macerated for the &#E87848Annealed Copper Dust&r."]
 	quest.3AB0822F02350DA3.quest_subtitle: "Infinite Damage"
