@@ -1335,6 +1335,7 @@
 		}
 		{
 			id: "01ECFBB5F0574C24"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"

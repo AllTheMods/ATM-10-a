@@ -30,6 +30,7 @@
 		""
 		"Also, &#94C0E3Processing Array&r accepts normally all the upgrades as well."
 	]
+	quest.2907724624B34A66.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.2A95F4F998835B43.quest_subtitle: "9 Nuggets -> 1 Ingot"
 	quest.3003598CE8B1FAAA.quest_subtitle: "Better Technology"
 	quest.3003598CE8B1FAAA.title: "More Advanced Components"

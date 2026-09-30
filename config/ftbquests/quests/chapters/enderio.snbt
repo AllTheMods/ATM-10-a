@@ -1237,5 +1237,17 @@
 			x: -17.5d
 			y: -2.5d
 		}
+		{
+			id: "0A0479FEA3974603"
+			invisible: true
+			optional: true
+			tags: ["arr"]
+			tasks: [{
+				id: "170E277DA10131B2"
+				type: "checkmark"
+			}]
+			x: -30.0d
+			y: -7.0d
+		}
 	]
 }

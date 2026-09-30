@@ -81,6 +81,7 @@
 		"These little crystals do more than just look good. They can store energy and used to make more complex machinery."
 	]
 	quest.5189D72ED3808DC6.quest_subtitle: "Charge amethyst with the laser"
+	quest.5375A9856F9FC602.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.53880926982968FD.quest_subtitle: "Say my name"
 	quest.53D5A6F210DF199C.quest_subtitle: "Smoothly transfer 10k rf/t"
 	quest.53D5A6F210DF199C.title: "Transfering Energy"

@@ -34,6 +34,7 @@
 	quest.32D585D9F73CD9FD.quest_desc: ["The &#EDDF55Electric Blast Furnace&r will allow you to cook several different resources. The recipes do require a &#B8ED55specific coil&r to be used in the structure."]
 	quest.374C06B3999BB0D3.quest_desc: ["Mixing together &#C2C78BIron&r, &#EDB2EAChromium&r, &#BEC9A3Nickel&r and &7Manganese&r will give you &#ADF0EEStainless Steel Dust&r."]
 	quest.3A03852E282DAA4D.quest_desc: ["The &#ED8055Electrolyzer&r is able to provide enough energy in bursts to material that they break down to more fundamental resources."]
+	quest.3B376D18E5A2D2A2.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.3B9D9CB589DB2003.quest_desc: [
 		"&#71EBB4&nModern Industrialization&r machines work differently to other mods. All machines have an &#E5EB71efficiency multiplier&r, this goes up as you have a recipe in the machine that it makes. &#E5EB71Efficiency&r increases the &#E5EB71speed&r of the machine. &#E5EB71Efficiency&r resets when recipe changes."
 		""

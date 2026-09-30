@@ -37,6 +37,7 @@
 	]
 	quest.082DEC8CBA6D23E5.quest_subtitle: "&7Forged from iron, coal and obsidian"
 	quest.082DEC8CBA6D23E5.title: "&7&lDark Steel Ingot"
+	quest.0A0479FEA3974603.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.0C220E9B2A780082.quest_desc: [
 		"&7Upgrading our battery to the &bAdvanced Capacitor Bank&r increases both its energy capacity and how fast it can charge our tools."
 		"We build it from a &bBasic Capacitor Bank&r and &aDouble Layer Capacitors&r."

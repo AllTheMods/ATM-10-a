@@ -44,6 +44,7 @@
 		"\"Next place our Smithing Table on the inner &6Gilded Chiseled Polished Darkstone&r and smack it with &cMundabitur Dust&r, you'll get the &6&lHephaestus Forge&r!\\n\\nLastly place our &6Darkstone Pedestals&r on top of the 8 outside &6Gilded Chiseled Polished Darkstone&r!\""
 	]
 	quest.0FD638380EECFFBD.title: "Building the &6&lForge"
+	quest.10E70F49C2115F93.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.12256A90B1CE3F90.quest_desc: ["While yes you can use Quarries or Void Miners to get the Ores but if you really want the best way of automating &bArcane Crystals&r then you'll need &6&lBees&r! \\n&bDiamond Bees&r to be more exact. Simply feed a &bDiamond Bee&r a &bBlock of Arcane Crystals&r and they will become an &bArcanus Bee&r! \\n\\n&bArcanus Bees&r need &bBlocks of Arcane Crystals&r as Flowering Blocks as well, then they will make &bArcanus Comb&r! Which can be made into &bArcane Crystals&r."]
 	quest.12256A90B1CE3F90.title: "Automating &bArcane Crystals"
 	quest.15849165CA8C00F9.quest_desc: [

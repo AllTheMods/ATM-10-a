@@ -1933,5 +1933,17 @@
 			x: 25.0d
 			y: 0.0d
 		}
+		{
+			id: "3C84621C74AF5080"
+			invisible: true
+			optional: true
+			tags: ["arr"]
+			tasks: [{
+				id: "6B9394763601C8CC"
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: -7.0d
+		}
 	]
 }
