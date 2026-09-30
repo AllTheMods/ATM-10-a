@@ -960,6 +960,7 @@
 		}
 		{
 			id: "5FD6A738754F6013"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			rewards: [{

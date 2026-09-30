@@ -2705,6 +2705,7 @@
 		}
 		{
 			id: "00307A898A639191"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"

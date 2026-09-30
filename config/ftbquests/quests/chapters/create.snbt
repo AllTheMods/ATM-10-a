@@ -4074,6 +4074,7 @@
 		}
 		{
 			id: "7AAC523E4168C246"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"

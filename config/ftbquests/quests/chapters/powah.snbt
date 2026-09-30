@@ -3282,6 +3282,7 @@
 		}
 		{
 			id: "08245411AFDB63DB"
+			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
