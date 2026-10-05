@@ -1,0 +1,197 @@
+{
+	quest.2B4EE8B84907CC01.quest_subtitle: ""
+	quest.3952EA91C6467B5F.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.1F2A89DB93022E75.title: "Tüm Hakları Saklıdır"
+	task.62D27E5D7D7056DA.title: "Tüm Hakları Saklıdır"
+	quest.02306C4616627B02.quest_desc: ["Eşyaları eritmek için kömür gibi yakıtlar yerine &cFE&r kullanır."]
+	quest.03F585616CDC979A.quest_desc: ["&lUnstable Ingot&r üretmek için bir &cDivision Sigil&r gerekir. Bunlar bazen Wither'lardan düşer; ayrıca Kalelerde, Maden Kuyularında, Zindanlarda ve çöllerdeki Tapınaklarda ganimet olarak bulunabilir."]
+	quest.053ACC174F0D1E46.quest_desc: ["&3Ender Lilies&r, bazen &3End&r'in dış adalarında bulunur ve Ender İncisi yetiştirmek için kullanılabilir.\\n\\nWatering Can ile sulanmayı SEVMEZLER ve ışınlanarak uzaklaşırlar. Kemik Tozunu da sevmezler; üzerlerinde kullanıldığında büyümeleri geriler. Ancak Reinforced Watering Can kullanılmasına itiraz etmezler.\\n\\n&3Ender Core&r üzerinde çok daha hızlı büyürler."]
+	quest.0712DD2EAE8FE53C.quest_desc: ["Wind Mill'in &9GP&r üretimi 0,5 ile 2,5 arasında değişir. Yağmur, üretilen &9GP&r miktarını 1; gök gürültüsü ise 2 artırır."]
+	quest.07609654842FA968.quest_desc: ["&3Ender Generator&r, &cFE&r üretmek için Ender İncileri veya Ender Gözleri kullanır."]
+	quest.07609654842FA968.quest_subtitle: "Işınlanma"
+	quest.08AF237C41E4AEF9.quest_desc: ["Death Generator, &cFE&r üretmek için ölümsüz yaratıkların ganimetlerini kullanır. Çalışırken yakındaki varlıklara Doom etkisini de uygular; bu etki Sütle giderilmezse onları 1 dakika içinde öldürür."]
+	quest.08AF237C41E4AEF9.quest_subtitle: "Tarot'un 13. kartı"
+	quest.08CF0F0BC5B82681.quest_desc: ["Potions Generator, &cFE&r üretmek için İksirler kullanır. İksir ne kadar karmaşıksa o kadar fazla &cFE&r üretilir."]
+	quest.08CF0F0BC5B82681.quest_subtitle: "Brew Darrymore"
+	quest.0951A1A3FC49AEBC.quest_desc: ["&cResonator&r, işlem boyunca değişken miktarda &9GP&r kapasitesini kullanarak belirli eşyaları dönüştürebilir."]
+	quest.0AAA8E411D877A63.quest_desc: ["&bQuantum Quarry&r, aşağıdakileri yerleştirebileceğiniz üç yuvaya sahiptir:\\nBiome Marker: &bQuarry'nin&r, işaretleyicide ayarlanan biyoma öncelik vermesini sağlar (yalnızca Ana Dünya biyomlarıyla çalışır).\\nBüyülü Kitaplar: Büyünün etkisini &bQuarry'ye&r uygular (örneğin Verimlilik, &bQuarry'yi&r hızlandırır; Servet ise cevherden elde edilen miktarı artırır).\\nItem Filter: &bQuarry'nin&r kabul edeceği eşyaları filtrelemenizi sağlar. Filtrede olmayan bütün eşyalar silinir."]
+	quest.0AAA8E411D877A63.title: "Quantum Quarry Düzenleyicileri"
+	quest.0F94689A7F6709FA.quest_desc: ["&aMagical Wood&r, bazı üretimlerde malzeme olarak kullanılır. Ayrıca tek blokta 5 Kitaplık değerindedir (&a10 Eterna sağlar; üst sınır 30'dur&r)."]
+	quest.1339E6B956AA0744.quest_desc: ["Çiçekleri boyaya, halıları ipe dönüştürmek gibi işlemlerle malzemeleri ezer."]
+	quest.1408F665D8E66289.quest_desc: [
+		"&cEnergy Transfer Node&r, enerjiyi bağlı olduğu bloktan kendisine veya bağlı Transfer Pipe'lara komşu bloklara taşır. &cEnergy Retrieval Node&r ise Transfer Pipe'larla kendisine bağlanan ya da doğrudan kendisine komşu bloklardaki enerjiyi bağlı olduğu bloğa taşır."
+		"{image:atm:textures/questpics/excessiveutilities/energy_transfer_node.png width:200 height:125 align:center fit:true}"
+	]
+	quest.1415E1E0431C59F1.quest_desc: ["&3Ender Quarry&r, yerden kaynakları çıkarıp onların yerine Toprak yerleştiren bir kazı makinesidir.\\n\\nKazı alanını ayarlamanın iki yolu vardır:\\n1. Alanın çevresini Çitlerle belirleyip makineyi Çitlerden birinin yanına yerleştirmek.\\n2. Köşelere &3Ender Marker&r yerleştirip &3Quarry'yi&r alanın kenarındaki &3Marker'lardan&r birinin yanına koymak.\\n\\nÇıkardığı malzemeleri Sandıklar gibi komşu envanterlere aktarır."]
+	quest.14D6614F0FD61549.quest_desc: ["&lHealing Axe&r, elde tutulduğunda ara sıra açlığınızın bir kısmını giderir. Bu Baltayla bir varlığa saldırdığınızda kendi canınız karşılığında onu iyileştirirsiniz. Bu etkileşim, ölümsüz yaratıklara ise daha fazla hasar verir. Ayrıca kırılmazdır."]
+	quest.15AE61C0129FF66C.quest_desc: ["Bu yükseltme olmadan &3Ender Quarry&r, kazdığı blokların yerine Toprak yerleştirir. Bu yükseltmeyle geride Toprak bırakmaz; bunun yerine dünyada bir boşluk açar."]
+	quest.16AA1B9379753CC9.quest_desc: ["Drop of Evil, bazen Wither İskeletlerinden düşer."]
+	quest.1876ADF135DEF33B.quest_desc: ["&l&eExcessive Utilities&r, &cForge Energy&r jeneratörleri de ekler.\\n\\nSpeed Upgrade, Jeneratörlerle de uyumludur. &9Grid Power&r karşılığında jeneratörlerin &cFE&r çıktısını 64 katına kadar artırır; ancak kullandıkları yakıtı daha hızlı tüketmelerine neden olur. Merak etmeyin, bu yükseltmeler olmadan jeneratörler &9GP&r kullanmaz."]
+	quest.1876ADF135DEF33B.title: "FE Jeneratörleri"
+	quest.18CF6BE2AB854289.quest_desc: ["Cursed Earth, Toprak üzerinde Drop of Evil kullanılarak yapılabilir. Hızla düşman yaratıklar oluşturur. Ateşe verilirse yangın yakındaki diğer Cursed Earth bloklarına hızla yayılır ve onları yakarak Toprağa dönüştürür."]
+	quest.18CF6BE2AB854289.title: "Cursed Earth"
+	quest.1954642BB8E8C5C8.quest_desc: ["Yenildiğinde, &5Büyü Masasının&r sunduğu seçenekleri yeniler."]
+	quest.19FEB11411AA2C66.quest_desc: ["Ring of the Flying Squid, Chicken Wing Ring'in yükseltilmiş biçimidir. Varsayılan olarak BOŞLUK tuşunu basılı tuttuğunuzda yukarı doğru yükselmenizi sağlar. Bu süreçte yüzük 16 &9GP&r kapasitesini kullanır. Ayrıca önceki yüzük gibi, yalnızca şarjı varken çalışır."]
+	quest.19FEB11411AA2C66.quest_subtitle: "Sınırlı Uçuş"
+	quest.1A4E77F6621731AF.quest_desc: ["&3Ender Quarry Silk Touch Upgrade&r, &3Ender Quarry'ye&r İpeksi Dokunuş büyüsünü uygular. Böylece cam ve cevherler gibi belirli blokları doğrudan toplamasını sağlar."]
+	quest.1B4027ADAFB83900.quest_desc: ["Büyüleme açısından Magical Wood'un iki katı kadar etkilidir (tek blokta 10 Kitaplık değerindedir). &3Ender Lilies&r bitkilerini de daha hızlı büyütür."]
+	quest.1B4027ADAFB83900.quest_subtitle: "EnderIO'nun coremod'u değil"
+	quest.1C4E3C45ADB9DA6F.quest_desc: ["&dHalitosis Generator&r, &cFE&r üretmek için Ender Ejderhasının kötü kokulu Nefesini kullanır."]
+	quest.1C4E3C45ADB9DA6F.quest_subtitle: "Artık bir nefes ferahlatıcı al"
+	quest.1E387B934B7DBB8C.quest_desc: ["&6Heated Redstone Generator&r, &cMagmatic Generator&r için bir yükseltmedir. Artık &cFE&r üretmek için &cLava&r ek olarak Redstone da gerektirir; ancak önceki jeneratörden daha fazla enerji üretir."]
+	quest.1E387B934B7DBB8C.quest_subtitle: "T-t-t-tavuk"
+	quest.204C2EFF9A0A2360.quest_desc: ["&cExplosive Generator&r, &cFE&r üretmek için &8Barut&r veya &cTNT&r kullanır."]
+	quest.204C2EFF9A0A2360.quest_subtitle: "Güm!"
+	quest.228AE96FE48D7457.quest_desc: ["&3Ender Quarry Fortune Upgrade&r yükseltmeleri, kendi seviyelerindeki Servet büyüsünü &3Ender Quarry'ye&r uygular ve her cevherden elde edilen malzeme miktarını artırır."]
+	quest.23C68F458B1571D9.quest_desc: [
+		"&eItem Transfer Node&r, eşyaları bağlı olduğu bloktan kendisine veya bağlı Transfer Pipe'lara komşu bloklara taşır. &eItem Retrieval Node&r ise Transfer Pipe'larla kendisine bağlanan ya da doğrudan kendisine komşu bloklardaki eşyaları bağlı olduğu bloğa taşır."
+		"{image:atm:textures/questpics/excessiveutilities/item_transfer_node.png width:200 height:100 align:center fit:true}"
+	]
+	quest.272DC75EAFD7B9B0.quest_desc: ["&cMagmatic Generator&r, &cFE&r üretmek için &cLav&r kullanır."]
+	quest.272DC75EAFD7B9B0.quest_subtitle: "L-l-l-lav"
+	quest.29D6491A130B2657.quest_desc: ["&e&lExcessive Utilities&r tarafından sunulan, bazısı &cForge Energy&r tüketen, bazısı tüketmeyen çeşitli makineler."]
+	quest.29D6491A130B2657.title: "Makineler"
+	quest.2AA309648AE573B6.quest_desc: ["Speed Upgrade, bazı Excessive Utilities makinelerini hızlandırır. Ancak aşağıdaki işlevle hesaplanan bir &9GP&r maliyeti vardır; bu maliyet, makinede aynı anda bulunan yükseltme sayısına bağlıdır:\\nstackSize*(122+4*stackSize)/126\\n\\nSpeed Upgrade yükseltmelerinin aşamalarına göre yığın sınırları da değişir:\\n4 (Basic)\\n16 (Magical)\\n64 (Ultimate)\\n\\nDolayısıyla her aşamadan tam bir yığın kullanıldığında &9GP&r maliyeti sırasıyla 4,38; 23,62 ve 192 olur."]
+	quest.2AA309648AE573B6.title: "Hız Yükseltmeleri"
+	quest.2AF19F2FA48D2742.quest_desc: ["&aQED&r (&aİkinci Dereceden Ekstrapolasyon Zımbırtısı&r), Çalışma Masasına benzemesine rağmen oldukça farklıdır!\\n\\nMerkezinde &aQED&r (&aKübit Yiyen Dinamo&r) bulunan 9x9x9 alanda en az 1 &aEnder Flux Crystal&r gerekir. Ne kadar çok &aEnder Flux Crystal&r varsa &aQED&r (&aOldukça Pahalı Dekorasyon&r) o kadar hızlı çalışır."]
+	quest.2AF19F2FA48D2742.quest_subtitle: "Kuazar/Elektron Dekorasyonu"
+	quest.2B4EE8B84907CC01.quest_desc: ["Angel Block, iskeleye gerek olmadan havaya yerleştirilebilir. Uçarken yapı inşa etmek için kullanışlıdır."]
+	quest.2B5A210AA7C6FCC3.quest_desc: ["Chicken Wing Ring, varsayılan olarak BOŞLUK tuşunu basılı tuttuğunuzda düşüşünüzü yavaşlatmanızı sağlar. Bu süreçte yüzük 1 &9GP&r kapasitesini kullanır. Ayrıca yalnızca şarjı varken çalışır; düşüşünüzü yavaşlatırken şarjı azalır ve kullanılmadığında yeniden dolar."]
+	quest.2B5A210AA7C6FCC3.quest_subtitle: "Uçuş bile sayılmaz"
+	quest.2BB843CB01B962A4.quest_desc: ["&9Overclocked Generator&r, üçüncü \"Ocak tipi\" jeneratördür. Ocak yakıtını anında yakarak bütün enerjiyi tek seferde alır; ancak benzerleri arasında en az \"verimli\" olandır."]
+	quest.2BB843CB01B962A4.quest_subtitle: "Hızlı"
+	quest.2E5366CEAC10BCDC.quest_desc: ["Bunlar &3Ender Quarry'yi&r hızlandırır. Daha yüksek aşamadaki yükseltmeler daha fazla hız artışı sağlar."]
+	quest.2E5366CEAC10BCDC.title: "Ender Quarry Hız Yükseltmeleri"
+	quest.2EAB38B23F5171B9.quest_desc: ["Water Mill, bitişiğindeki her akan su bloğu için 4 &9GP&r üretir. Su kaynağı bloklarını ve üst veya alt tarafında akan su bloklarını saymaz."]
+	quest.307F4A1E8FD8098C.quest_desc: ["&cRed Orchid&r, &cRedstone Cevheri&r üzerinde bulunabilir ve buraya ekilebilir. Tamamen büyüdüğünde hasat edilerek bir miktar &cRedstone Tozu&r elde edilebilir."]
+	quest.348DAEB7B58443C0.quest_desc: ["Bir Demir Külçesini Elmasla bölerek &lUnstable Ingot&r elde edersiniz.\\n\\n&cElmasla bölmek, sıfıra bölmeye eşdeğer olduğundan Unstable Ingot patlamadan önce yalnızca 10 saniye dayanır. Bu süre dolmadan onunla hızla bir şey üretin! Bu külçe elinizdeyken üretim menüsünden çıkmaya çalışmak erken patlamaya ve muhtemelen ölümünüze yol açar.&r\\n\\n&8Otomasyonla üretilen Unstable Ingot külçeleri \"kabul edilemez\" sayılır ve üretim tariflerinde kullanılamaz.&r\\n\\n\"Umarım baskı altında üretim yapmakta iyisindir.\" - Jonh09"]
+	quest.348DAEB7B58443C0.quest_subtitle: "1337/0="
+	quest.348DAEB7B58443C0.title: "Unstable Ingot"
+	quest.360FFC95F4CA5338.quest_desc: ["Culinary Generator, &cFE&r üretmek için yiyecek kullanır."]
+	quest.360FFC95F4CA5338.quest_subtitle: "Ham ham ham, om nom"
+	quest.36A24F158805BE6E.quest_desc: ["&3Ender Quarry&r, bu bloklar doğrudan yanına veya başka bir yükseltmenin yanına yerleştirilerek yükseltilebilir."]
+	quest.36A24F158805BE6E.title: "Ender Quarry Yükseltmeleri"
+	quest.37B9EB97518670E6.quest_desc: ["&cRed Coal&r, bir ocakta kullanıldığında 4 &9GP&r mevcut olduğu sürece normal Kömürün 8 katı kadar uzun yanar. Aksi halde normal Kömür kadar yanar."]
+	quest.3A51ABBA9043D617.quest_desc: ["Lava Mill, yanına yatay yönde Lav yerleştirilirse 2 &9GP&r üretir."]
+	quest.3B7BD8408919EC8B.quest_desc: ["&eEşya&r ve &9Sıvı&r Filtreleri, &eEşya&r ve &9Sıvı&r Node'ları gibi belirli şeyleri filtrelemek için kullanılabilir. Her filtrede en fazla 16 farklı &eEşya&r/&9Sıvı&r seçebilirsiniz. Filtre varsayılan olarak &eEşyaları&r/&9Sıvıları&r izin listesine alır. Bir Filtrenin içine başka bir &eEşya&r/&9Sıvı&r Filtresi bile koyarak iç içe filtreler oluşturabilir ve daha fazla malzemeyi filtreleyebilirsiniz.\\n\\nFiltrelere şu seçenekler de uygulanabilir:\\nInvert: Filtreyi bir engel listesine dönüştürür.\\nUse Tags: Seçilen &eEşyaların&r/&9Sıvıların&r etiketlerine göre filtreler.\\nIgnore Damage: Filtrelenen &eEşyalardaki&r dayanıklılık hasarını yok sayar. Yalnızca &eEşya&r Filtrelerinde bulunur.\\nIgnore All Components: &eEşyaların&r/&9Sıvıların&r bütün NBT/Bileşen verilerini yok sayar."]
+	quest.3B7BD8408919EC8B.title: "Filtreler"
+	quest.3FB0BE9989720FD2.quest_desc: ["Fire Mill, doğrudan altında ateş varsa 4 &9GP&r üretir."]
+	quest.437AA94E591D82B5.quest_desc: ["Disenchantment Generator, &cFE&r üretmek için Büyülü Kitaplar kullanır."]
+	quest.437AA94E591D82B5.quest_subtitle: "Bu Büyü"
+	quest.447E2A8170040BFE.quest_desc: [
+		"&9Fluid Transfer Node&r, sıvıları bağlı olduğu bloktan kendisine veya bağlı Transfer Pipe'lara komşu bloklara taşır. &9Fluid Retrieval Node&r ise Transfer Pipe'larla kendisine bağlanan ya da doğrudan kendisine komşu bloklardaki sıvıları bağlı olduğu bloğa taşır."
+		"{image:atm:textures/questpics/excessiveutilities/fluid_transfer_node.png width:200 height:100 align:center fit:true}"
+	]
+	quest.44B1C048770E2333.quest_desc: ["&4Demon Ingot&r, &cNether&r'da lavın içine &6Altın Külçeleri&r atılarak elde edilir ve &4Demonically Gargantuan Drum&r üretmek için kullanılır."]
+	quest.45E7D789F14BDCC4.quest_desc: ["Glass Cutter, İpeksi Dokunuşunuz varmış gibi cam kırmanızı sağlar.\\n\\nTrowel, Küreklerle daha hızlı kazılabilen blokları İpeksi Dokunuş kullanılmış gibi toplamanızı sağlar."]
+	quest.45E7D789F14BDCC4.quest_subtitle: "Yoksa değil mi?"
+	quest.45E7D789F14BDCC4.title: "Ucuz İpeksi Dokunuş"
+	quest.464B13D89C180C88.quest_desc: ["Dragon Egg Mill, üzerinde bir Ejderha Yumurtası varsa 500 &9GP&r üretir."]
+	quest.464B13D89C180C88.quest_subtitle: "Nihai Değirmen"
+	quest.475C38CB8BE2DD32.quest_desc: ["&e&lExcessive Utilities&r, &e&lExtra Utilities 1&r ve &e&l2&r modlarının devamıdır; çeşitli kullanışlı eşyalar ve benzeri içerikler sunar. Bazılarınız bu modu modlu Minecraft'ın eski sürümlerinden hatırlayabilir. Modu ister ilk kez ister bininci kez görüyor olun, bu görevler moda alışmanıza yardımcı olacaktır."]
+	quest.475C38CB8BE2DD32.title: "&l&eExcessive Utilities"
+	quest.49DAA43DA7DC6F04.quest_desc: ["&zRainbow Generator&r, &ldiğer bütün Jeneratör türlerinden en az 1 tanesi aynı anda çalışıyorsa&r &ctick başına 25 milyon FE&r üretir. Yalnızca 1 etkin &zRainbow Generator&r bulundurabilirsiniz."]
+	quest.49DAA43DA7DC6F04.quest_subtitle: "SON JARONA!"
+	quest.49DAA43DA7DC6F04.title: "&zRainbow Generator!"
+	quest.4CDFDBB4A370423D.quest_desc: ["&#FF69B4Pink Generator&r, &cFE&r üretmek için &#FF69B4Pembe Boya&r veya &#FF69B4Pembe Eşyalar&r kullanır."]
+	quest.4CDFDBB4A370423D.quest_subtitle: "İpucu: Bu Jeneratör için bir Infinity Pink Dye Cell yap"
+	quest.4DD2A3F8DB678A15.quest_desc: ["Transfer Pipe, Transfer Node'u hedeflerine veya Retrieval Node'u malzemeyi çekeceği yerlere bağlamak için kullanılır. Bu boru aynı anda &eEşya&r, &9Sıvı&r ve &cEnerji&r taşıyabilir; ancak Transfer Node veya Retrieval Node olmadan hiçbir şey yapmaz."]
+	quest.504D6F3C682E466E.quest_desc: [
+		"&c&oPseudo-Inversion Sigil&r, &cDivision Sigil&r eşyasının kırılmaz karşılığıdır. Bunu elde etmek oldukça zahmetli bir ayin gerektirir.\\n\\nAyinin sıradaki adımını görmek için istediğiniz zaman elinizde &cDivision Sigil&r tutarak Fener'e eğilip sağ tıklayabilirsiniz.\\n\\n1. &dEnd&r'de en az 11x11 blokluk düz bir alan hazırlayın ve merkezine bir Fener yerleştirin.\\n2. Fenerden 5 blok uzaklıkta, 4 ana yönün her birine bir Sandık yerleştirin.\\n3. Görselde gösterildiği gibi Redstone Tozu ve İple sarmal bir desen oluşturun."
+		"{image:atm:textures/questpics/excessiveutilities/pseudo_rite_example.png width:125 height:125 align:center}"
+		"&cKırmızı&r, Redstone'u; &3Camgöbeği&r ise İpi temsil eder."
+		"&lSonraki Sayfa ->&r"
+		"{@pagebreak}"
+		"4. Her Sandığa aşağıdaki içerikleri koyun (her Sandık için geçerli eşyaları görmek üzere bu görevin alt görevlerine bakın):\\n4.1. Kuzeydeki Sandık: &o&cAteşin Çocukları&r, Ocakta üretilen 12 farklı eşya.\\n4.2. Güneydeki Sandık: &2&oYeryüzünün Armağanları&r, Ana Dünya'da doğal olarak oluşan 12 farklı eşya.\\n4.3. Doğudaki Sandık: &9&oSuyun Torunları&r, 12 iksir.\\n4.4. Batıdaki Sandık: &e&oHavanın Baharatları&r, 12 farklı Müzik Diski.\\n5. Önceki bütün adımlar tamamlandığında, Fener'in yakınında bir Demir Golemi kurban ederek ayini başlatın.\\n6. Bölgede çeşitli düşman yaratıklardan oluşan bir dalga ortaya çıkar. Bunlardan 100 tanesini yenerek &cDivision Sigil&r eşyanızı &c&oPseudo-Inversion Sigil&r eşyasına dönüştürün. Dalga devam ederken ölürseniz veya &dEnd&r'den ayrılırsanız ayin başarısız olur."
+	]
+	quest.504D6F3C682E466E.title: "Pseudo-Inversion Sigil"
+	quest.52205630EEDD8221.quest_desc: ["Flat Transfer Node, Transfer Node'un farklı bir biçimidir. Blokların arasına sığabilir; üzerine yerleştirdiğiniz bloktan malzemeyi alıp eşyaları veya sıvıları bitişik bir bloğa aktarır. Flat Transfer Node'a erişmek için başka bir Flat Transfer Node ya da bir Anahtar kullanın. İçine bir Filtre yerleştirmek için sağ tıklayın; Node'u çıkarmak için sol tıklayın."]
+	quest.52205630EEDD8221.quest_subtitle: "Yeterince benziyor. Tekrar hoş geldin, Transfer Labels"
+	quest.585DE309D29512FA.quest_desc: ["&dLunar Panel&r, &9Solar Panel'in&r yaptığının tersini yapar. Solar Panel ile aynı işlevlere sahiptir; ancak gündüz yerine yalnızca gece çalışır."]
+	quest.592C3B758F748C6E.quest_desc: ["Drum blokları farklı miktarlarda sıvı tutabilir.\\n\\n&8Stone&r: 16 kova (1 kova = 1000 mB).\\n&7Iron&r: 256 kova.\\n&6Reinforced Large&r: 4 096 kova.\\n&4Demonically Gargantuan&r: 65 536 kova.\\n&8Bedrockium&r: 1 048 576 kova."]
+	quest.595F93FB9A7D34B5.quest_desc: ["&bFrosty Generator&r, &cFE&r üretmek için &bBuz&r veya Kar kullanır."]
+	quest.595F93FB9A7D34B5.quest_subtitle: "TERMOSTATA. SAKIN. DOKUNMA!"
+	quest.5AF1D24170DCC895.quest_desc: ["Spike blokları, kendilerine temas eden yaratıklara hasar verebilir.\\n\\nWooden: Vuruş başına 1 hasar verir; öldürücü hasar veremez, tecrübe düşürmez, oyuncu öldürmesi sayılmaz.\\nStone: Vuruş başına 2 hasar verir; öldürücü hasar veremez, tecrübe düşürür, oyuncu öldürmesi sayılır.\\nIron: Vuruş başına 4 hasar verir; öldürücü hasar veremez, tecrübe düşürür, oyuncu öldürmesi sayılmaz.\\nGolden: Vuruş başına 2 hasar verir; öldürücü hasar verebilir, tecrübe düşürür, oyuncu öldürmesi sayılmaz.\\nDiamond: Vuruş başına 8 hasar verir; öldürücü hasar verebilir, tecrübe düşürür, oyuncu öldürmesi sayılır.\\nNetherite: Vuruş başına 10 hasar verir; öldürücü hasar verebilir, tecrübe düşürür, oyuncu öldürmesi sayılır."]
+	quest.5BCF082BCC4A0714.quest_desc: ["Torchmaster'ın Mega Torch eşyasının öncüsü Magnum Torch, çevresindeki 64 blok yarıçapında yaratıkların doğmasını engeller. Yerleştirilmiş Magnum Torch bloklarının etki alanını görmek için elinizde bir Magnum Torch tutun."]
+	quest.5C1D18FBB1BBF6E9.quest_desc: ["Sırasıyla eşyaları, enerjiyi ve sıvıları silmek için kullanılabilirler."]
+	quest.5C1D18FBB1BBF6E9.title: "Çöp Kutuları"
+	quest.600EC6ED1AE8AB95.quest_desc: ["Bu bloklar ve eşyalar &9GP&r kullanır; etkin oldukları sürece mevcut kapasitenin bir kısmını kendilerine ayırırlar. &9GP&r kullanımınız &9GP&r kapasitenizden yüksekse şebekeniz aşırı yüklenir. Aşırı yüklenen &9GP&r tüketicileri, kullanım azalana veya daha fazla üretim ekleyene kadar çalışmayı durdurur."]
+	quest.6038714CE3699B63.quest_desc: ["&9Magical Snow Globe&r, küçük bir cam kürenin içine sığdırılmış koca bir dünyadır.\\n\\nEtkinleştirmek için onu aşağıdaki biyom türlerinden 7 tanesine götürmelisiniz:\\n- Dağ\\n- Cangıl\\n- Bataklık\\n- End\\n- Karlı\\n- Okyanus\\n- Nether\\n- Orman\\n- Büyülü\\n- Tepeler\\n- Kumlu\\n- Ova\\n\\nYolculuğunuzu bitirdiğinizde &9Snow Globe&r ile &bQuantum Quarry&r üretebilirsiniz."]
+	quest.612BCFD0BFBFC6F6.quest_desc: ["Compound Bow, envanterinizde ok bulunmasına gerek olmadan ok atabilen kırılmaz bir yaydır (Sonsuzluk büyülü bir Yay gibi). Bu oklar yer çekiminden de etkilenmez.\\n\\nBir Örs aracılığıyla uygulanan büyülerin seviyesi iki katına çıkar (örneğin Güç V kitabı uygulamak, yaya Güç X uygular)."]
+	quest.612BCFD0BFBFC6F6.quest_subtitle: "Yer çekimi mi? Yer çekimi kimin umurunda?"
+	quest.623B1C7C1BE9B13B.quest_desc: ["Diğer kategorilere uymayan bazı içerikler."]
+	quest.62486A3D1B896A85.quest_desc: ["Fire Axe, bütün ağaçları tek seferde kesebilen kırılmaz bir baltadır.\\n\\nBir Örs aracılığıyla uygulanan büyülerin seviyesi iki katına çıkar (örneğin Keskinlik V kitabı uygulamak, baltaya Keskinlik X uygular)."]
+	quest.62486A3D1B896A85.quest_subtitle: "İtfaiyeciler için ideal"
+	quest.672F6CB4404B1A3C.quest_desc: ["Kikoku, Soul Rending hasarı vererek vurduğu rakiplerin Azami Canını azaltabilen kırılmaz bir kılıçtır.\\n\\nBir yaratığı öldürdüğünüzde Soul Fragment elde etme ihtimali de 10 kat daha yüksektir.\\n\\nBir Örs aracılığıyla uygulanan büyülerin seviyesi iki katına çıkar (örneğin Keskinlik V kitabı uygulamak, kılıca Keskinlik X uygular)."]
+	quest.672F6CB4404B1A3C.quest_subtitle: "Trafalgar D. Water Law'ın Kılıcı"
+	quest.68058DA9C7118BD9.quest_desc: ["Portal to The Last Millennium, sizi zamanın sonuna götürür. The Last Villager'ın bulunduğu bir platform dışında hiçbir şey kalmamıştır.\\n\\n&oAma bu, The Beyond gibi değil mi?&r"]
+	quest.68058DA9C7118BD9.title: "The Last Millennium"
+	quest.6A77E32457EC3140.quest_desc: ["&lEtheric Sword&r, Elmas Kılıca benzer değerlere sahiptir; ancak kırılmazdır. Sağ tıkladığınızda Azami Canınız karşılığında bir Soul Fragment elde edersiniz. Soul Fragment kullanarak Azami Can borcunuzu geri ödeyebilirsiniz. Soul Fragment, yaratıkları yenerek de çok nadiren elde edilebilir ve hatta Azami Canınızın başlangıç değerinin üzerine çıkmasını sağlayabilir."]
+	quest.6A77E32457EC3140.quest_subtitle: "Ve Soul Fragment"
+	quest.6AB33864599E059A.quest_desc: [
+		"Speed Upgrade: Node'un eşyaları daha hızlı aktarmasını veya geri almasını sağlar. Daha fazla bilgi için &9Grid Power&r kısmındaki ilgili göreve bakın.\\n\\nStack Upgrade: &eEşya&r ve &9Sıvı&r Node'larının tek seferde daha fazla &eEşya&r/&9Sıvı&r taşımasını sağlar. &eEşya&r Node'ları için işlem başına 64 eşya; &9Sıvı&r Node'ları için işlem başına 1000 mB.\\n\\nWorld Interaction Upgrade: &eEşya&r ve &9Sıvı&r Transfer Node'larında şu dünya içi etkileşimlere olanak tanır:\\nLav ve Su kaynaklarına komşu Kırık Taş üzerinde Kırık Taş üretilir.\\nMavi Buz ve Lava komşu Ruh Toprağı üzerinde Bazalt üretilir.\\nArkasında Su bulunan bir Lav kaynağına komşu Taş üzerinde Taş üretilir.\\nEn az 2 başka Su kaynağı bloğuna komşu bir Su kaynağı bloğunda Su üretilir.\\n\\n&lSonraki Sayfa ->&r"
+		"{@pagebreak}"
+		"Breadth-First Search Upgrade: Node'un Transfer Pipe'ları en yakından en uzağa doğru aramasını sağlar. Çok sayıda kısa dalı olan ağlar için en uygun seçenektir.\\n\\nDepth-First Search Upgrade: Node'un bir çıkmaza ulaştığında izlediği yolu hatırlamasını sağlar. Çok dallı boru ağları için kullanışlıdır. Bu iki yükseltme aynı anda kullanılamaz.\\n\\nPseudo Round Robin Upgrade: Node'un her başarılı aktarımdan sonra sıradaki hedefe geçmesini sağlar.\\n\\n&3Ender Transmitter&r: Transfer Node'un eşyaları, sıvıları ve enerjiyi boyutlar arasında da olmak üzere kablosuz aktarmasını sağlar. Bir &3Ender Receiver&r ile paylaşılan frekansı kullanır.\\n\\n&3Ender Receiver&r: Retrieval Node'un eşyaları, sıvıları ve enerjiyi bir &3Ender Transmitter&r ile aynı frekanstan almasını sağlar."
+	]
+	quest.6AB33864599E059A.title: "Lojistik Yükseltmeleri"
+	quest.6CF4BCFEC9A8BACE.quest_desc: ["&9Watering Can&r, bir alandaki ekinlerin büyümesini hızlandırmak için kullanılabilir. &9Can'i&r doldurmak için Suya sağ tıklayın; alanı sulamak için sağ tıklamayı basılı tutun. &9Watering Can&r, Sahte Oyuncular (Modular Routers, Clicker vb.) tarafından kullanılmayı sevmez ve kırılır.\\n\\n&9Reinforced Watering Can&r bunun yükseltilmiş biçimidir. Daha geniş bir alanı su tüketmeden sular ve Sahte Oyuncular tarafından kırılmadan kullanılabilir. Ancak bunun oldukça ağır bir bedeli vardır."]
+	quest.6CF4BCFEC9A8BACE.title: "Sulama Kapları"
+	quest.6DA3E7DF9332B8DE.quest_desc: ["&aSlimy Generator&r, &cFE&r üretmek için &aBalçık Topları&r ve Süt kullanır."]
+	quest.6DA3E7DF9332B8DE.quest_subtitle: "Zıp zıp!"
+	quest.6DCDC3700202B3A5.quest_desc: ["Sickle, aşamasına bağlı olarak belirli bir alan içindeki bazı bitkileri kırabilir."]
+	quest.6E3482C45E4AF3DA.quest_desc: ["Sound Muffler, çevresindeki 8 blok yarıçapında bütün sesleri susturur. Bu, titreşimlerin Muhafızlara ve Sculk Sensörlerine ulaşmasını da engeller."]
+	quest.6E3482C45E4AF3DA.quest_subtitle: "Hareketlerimi izle ve sessizce ilerle"
+	quest.70054D4060B8949C.quest_desc: ["&8Survivalist Generator&r, &cFE&r üretmek için son derece ucuz bir seçenektir. Ocakla aynı yakıtı kullanır. &eExcessive Utilities&r içindeki \"Ocak tipi\" jeneratörlerin en yavaşı, ancak en \"verimlisi\"dir."]
+	quest.70054D4060B8949C.quest_subtitle: "Yavaş"
+	quest.70F9EE602AE0033C.quest_desc: ["Bu bloklar çeşitli yollarla &9GP&r üreterek sahibinin Şebeke kapasitesini artırabilir. Blokların sahibi, onları yerleştiren oyuncudur."]
+	quest.71D1B0CEDA9241A3.quest_desc: ["&lDestruction Pickaxe&r, taşı ve Netherrack'i anında kazarken aynı zamanda siler. Başka hiçbir malzemeyi kazamaz. Ayrıca kırılmazdır."]
+	quest.724006CD3818C9E5.quest_desc: ["&5Enchanter&r, çalışmak için 15 Kitaplığa eşdeğer büyüleme gücü ve &cFE&r gerektirir (&5&lApothic Enchanting&r kullananlar için bu &a30 Eterna&r değerine eşdeğerdir; ancak o modun kitaplıkları burada sayılmaz). Belirli eşyaları &5büyüleyebilir&r; ekipmanları ise büyüleyemez."]
+	quest.724401B0C60DCE7A.quest_desc: ["&e&lExcessive Utilities&r, &f&lLojistik&r de sunar. Bir bakıma &3&lIntegrated Dynamics&r lojistiğine benzer.\\n\\nUygun Node'u eşyaları almak istediğiniz yere (Retrieval Node kullanıyorsanız eşyaları taşımak istediğiniz yere) bağlayın ve hangi tarafın bağlanmayacağını ayarlamak için Pipe Wrench kullanın.\\n\\nDiğer Anahtarlar da &e&lExcessive Utilities&r ile çalışır!"]
+	quest.724401B0C60DCE7A.title: "Lojistik"
+	quest.73996E64F65F7C87.quest_desc: ["&lErosion Shovel&r, toprağı, kumu ve çakılı anında kazarken aynı zamanda siler. Başka hiçbir malzemeyi kazamaz. Ayrıca kırılmazdır."]
+	quest.7635D2262741BE75.quest_desc: ["&eAngel Ring&r, takıldığında Yaratıcı mod uçuşu sağlar. Bunun için 64 &9GP&r gerekir. Önceki yüzüklerin aksine şarj kullanmaz; GP üretiminizi sürdürdüğünüz sürece özgürce ve süresiz uçabilirsiniz.\\n\\nUmarım çok fazla &cRing of the Seven Deadly Sins&r takmıyorsunuzdur."]
+	quest.7635D2262741BE75.quest_subtitle: "Yaratıcı Mod Uçuşu"
+	quest.7635D2262741BE75.title: "Angel Ring"
+	quest.763BF9F230D515BF.quest_desc: ["&lReversing Hoe&r, kullanıldığında belirli blokları \"gençleştirebilir\".\\n\\nÖrnekler:\\nKum -> Çakıl -> Kırık Taş -> Taş\\nTerakota -> Kil\\nMagma Bloğu -> Lav <- Obsidiyen"]
+	quest.77371CD449DFBC1E.quest_desc: ["&dMuhafız&r, duyduğu sesi avlarken her zaman ısrarcı olmayabilir. İzinizi kaybettiğinde sonunda vazgeçip kendini toprağa gömebilir. Bu süreçte geride bir Warden's Wake bırakır.\\n\\nBu eşya, &9Portal to The Depths&r üretmek için kullanılabilir. The Depths, hiçbir yaratığın bulunmadığı, kısmen Sculk'la kaplanmış büyük bir mağaradır; burada karanlıkta çok uzun kalmak size zarar verebilir. Hatta burada, Ana Dünya'dakiyle aşağı yukarı aynı olan bir Antik Şehir bile bulabilirsiniz."]
+	quest.77371CD449DFBC1E.quest_subtitle: "Deeper and Darker mı?"
+	quest.77371CD449DFBC1E.title: "The Depths"
+	quest.7887212A36D7D1CA.quest_desc: ["&9Grid Power&r (veya &9GP&r), &e&lExcessive Utilities&r tarafından sunulan alternatif bir enerji türüdür. &cForge Energy'nin&r aksine &9GP&r oyuncuya özeldir; kablolar, bataryalar, Flux Point veya normalde &cFE&r taşımak için kullanılan diğer araçlardan geçmez."]
+	quest.7887212A36D7D1CA.title: "Grid Power"
+	quest.79616A764789FEDA.quest_desc: ["Opinium Core, fikirlerin somutlaşmış halidir.\\n\\n9 aşaması vardır:\\n- Pathetic\\n- Mediocre\\n- Passable\\n- Decent\\n- Good\\n- Damn Good\\n- Amazing\\n- Inspiring\\n- Perfected\\n\\nTek bir Perfected Opinium Core için gerekenler:\\n- 1024 Red Coal\\n- 4609 Demir Külçesi\\n- 2304 Altın Külçesi\\n- 1152 Elmas\\n- 576 Zümrüt\\n- 32 Nakarat Çiçeği\\n- 16 Tecrübe İksiri\\n- 8 Elitra\\n- 4 Nether Yıldızı\\n\\nBence &6&lATM Yıldızı&r için &5Antimaddeden&r çok daha kabul edilebilir bir seçenek."]
+	quest.7A6800A767A83592.quest_desc: ["Furnace Generator, Survivalist karşılığından biraz daha pahalıdır. Survivalist gibi ocak yakıtı kullanır. Yakıtı daha hızlı yakar, ancak daha az \"verimlidir\". 3 \"Ocak tipi\" jeneratörün ortasındaki seçenektir."]
+	quest.7A6800A767A83592.quest_subtitle: "Orta"
+	quest.7AF82ADEB07747EF.quest_desc: ["Chandelier, çevresindeki 16 blok yarıçapında düşman yaratıkların doğmasını engeller. Elinizde bir tane tutmak, yerleştirilmiş Chandelier bloklarının etki alanını gösterir."]
+	quest.7B7254B1E6208F9B.quest_desc: ["Nether Star Generator, &cFE&r üretmek için Nether Yıldızları... veya Havai Fişek Yıldızları kullanır. Çalışırken geniş bir alandaki yakındaki varlıklara Solma etkisini de uygular."]
+	quest.7B7254B1E6208F9B.quest_subtitle: "Patrick ve ATM Yıldızı desteği gerekir (aslında gerekmez)"
+	quest.7C9F22EBA3AD673B.quest_desc: ["Manual Mill, kolunu çeviren her oyuncu için 15 &9GP&r üretir. Tıkladıktan sonra başka yere bakana veya çok uzaklaşana kadar kolu otomatik olarak çevirirsiniz."]
+	quest.7D0A549135F997BD.quest_desc: ["Power Manager, bütün &9GP&r üreticilerinizin ve tüketicilerinizin nerede olduğunu görmenizi sağlar."]
+	quest.7D34FE128DE0A262.quest_desc: ["&bQuantum Quarry&r, var olmuş olabilecek varsayımsal bir boyuttan (Ana Dünya'ya çok benzeyen bir boyut) bloklar kazabilir.\\n\\n&bQuarry'nin&r çalışması için her tarafı &bQuantum Quarry Actuator&r bloklarıyla çevrelenmelidir. &bActuator&r bloklarının herhangi biri &cFE&r kabul eder. Varsayımsal boyuttan elde ettiği eşyaları Sandıklar gibi komşu envanterlere aktarır."]
+	quest.7EE006106678065F.quest_desc: ["&9Solar Panel&r, gündüzken ve gökyüzünü engelsiz görebiliyorken 1 &9GP&r üretir. Yağmurlu havada çıktısı %5 azalır."]
+	quest.7F715693079A424D.quest_desc: ["Lasso, yaratıkları tutmak için kullanılabilir.\\n\\n&6Golden Lasso&r yalnızca çiftlik hayvanları gibi pasif yaratıkları tutabilir. &0Cursed Lasso&r yalnızca düşman yaratıkları, üstelik ancak canları yarıya veya daha aşağıya düştüğünde tutabilir."]
+	quest.7F715693079A424D.title: "Kementler"
+	task.066049562C71FC75.title: "Suyun Torunları"
+	task.07852949080EB10E.title: "Dağıtım Yükseltmeleri"
+	task.0A67C41F200E40A7.title: "Hız Yükseltmeleri"
+	task.0A98FF4AE3286B35.title: "Anahtarlar"
+	task.0BF6FA12EF9BDC8E.title: "Ender Quarry Hız Yükseltmeleri"
+	task.0F471C075366E4BA.title: "...ve diğer her şey"
+	task.1496A3209F882ED1.title: "Havanın Baharatları"
+	task.16DBC44A15A456C9.title: "Enerji Node'ları"
+	task.1AA337C311CDDFF2.title: "Unstable Ingot"
+	task.2BCCA0132588F8DC.title: "Dikenler"
+	task.2F803AA87E983560.title: "Oraklar"
+	task.3545BF4C0B91439C.title: "Eşya Node'ları"
+	task.4337573D4A87EA06.title: "Ateşin Çocukları"
+	task.47E6B309C53F25A9.title: "Ender Quarry Servet Yükseltmeleri"
+	task.4F4E65B7C0EF3CEB.title: "GP Tüketicileri"
+	task.51C7179C61D09118.title: "Sıvı Node'ları"
+	task.51E57DCA86EBE446.title: "Büyülü Kitaplar"
+	task.57A2468289498485.title: "GP Jeneratörleri"
+	task.5D1660D8BE43A3D1.title: "Variller"
+	task.5D8B9FC35CEA9F2D.title: "Opinium Core"
+	task.673D90BCCE595515.title: "Flat Transfer Node"
+	task.689481339BA7EC6C.title: "Hız Yükseltmeleri"
+	task.6B13B246728B3A5A.title: "Angel Ring"
+	task.6D193DD176E16A65.title: "Yeryüzünün Armağanları"
+}
