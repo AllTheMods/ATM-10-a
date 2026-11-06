@@ -21,6 +21,12 @@ ServerEvents.recipes(allthemods => {
     ], {
         A: 'alltheores:steel_plate'
     })
+
+    allthemods.shapeless('railcraft:cart_dispenser', [
+        'minecraft:dispenser',
+        'minecraft:minecart',
+        'minecraft:redstone'
+    ]).id('railcraft:cart_dispenser');
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
